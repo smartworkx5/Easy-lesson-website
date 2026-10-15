@@ -1,0 +1,3 @@
+# ads.txt — Easy Lesson
+# PLACEHOLDER: replace pub-XXXXXXXXXXXXXXXX with your real AdSense publisher ID after approval (see adsense-guide.md).
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
