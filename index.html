@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Easy Lesson — AI Lesson Solver | Snap, Solve &amp; Learn</title>
+  <meta name="description" content="Easy Lesson is a free AI lesson solver. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio and quizzes. Free to use.">
+  <link rel="canonical" href="https://www.easylesson.example/">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Easy Lesson Team">
+  <!-- GOOGLE_SEARCH_CONSOLE_VERIFICATION: replace REPLACE_WITH_GSC_VERIFICATION_CODE in seo-config.json with your real code, then paste the meta tag here. -->
+  <!-- BING_WEBMASTER_VERIFICATION: replace REPLACE_WITH_BING_VERIFICATION_CODE in seo-config.json with your real code, then paste the meta tag here. -->
+  <!-- GOOGLE_ANALYTICS_4: replace REPLACE_WITH_GA4_MEASUREMENT_ID in seo-config.json with your real Measurement ID, then paste the GA4 script here. -->
+  <!-- ADSENSE_SCRIPT: ca-pub-XXXXXXXXXXXXXXXX — replace with your real publisher ID after AdSense approval (see adsense-guide.md). -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Easy Lesson">
+  <meta property="og:title" content="Easy Lesson — AI Lesson Solver | Snap, Solve &amp; Learn">
+  <meta property="og:description" content="Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio pronunciation and quizzes — free.">
+  <meta property="og:url" content="https://www.easylesson.example/">
+  <meta property="og:image" content="https://www.easylesson.example/assets/images/og-image.png">
+  <meta property="og:image:alt" content="Easy Lesson — AI lesson solver">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Easy Lesson — AI Lesson Solver | Snap, Solve &amp; Learn">
+  <meta name="twitter:description" content="Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio pronunciation and quizzes — free.">
+  <meta name="twitter:image" content="https://www.easylesson.example/assets/images/og-image.png">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/assets/images/og-image.png">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <meta name="theme-color" content="#2563eb">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="Easy Lesson Blog" href="https://www.easylesson.example/rss.xml">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Easy Lesson",
+    "url": "https://www.easylesson.example/",
+    "inLanguage": "en",
+    "publisher": { "@type": "Organization", "name": "Easy Lesson", "url": "https://www.easylesson.example/" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Easy Lesson",
+    "url": "https://www.easylesson.example/",
+    "logo": "https://www.easylesson.example/assets/images/og-image.png",
+    "description": "Easy Lesson is a free AI lesson solver for learners worldwide."
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Easy Lesson — AI Lesson Solver",
+    "url": "https://www.easylesson.example/",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "Any",
+    "inLanguage": ["en"],
+    "description": "Snap a photo of any textbook page or exercise sheet and get step-by-step exercise solutions, bullet notes, audio pronunciation and interactive quizzes.",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.easylesson.example/" }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "What is an AI lesson solver?", "acceptedAnswer": { "@type": "Answer", "text": "An AI lesson solver is a tool that reads a photo of a textbook page or exercise sheet and produces step-by-step solutions, notes and practice quizzes. Easy Lesson lets you snap a photo and learn the method behind each answer, rather than just copying a result." } },
+      { "@type": "Question", "name": "Is Easy Lesson free to use?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The tool on this page is free to use. You only need your own free Google AI Studio API key, which you paste inside the tool. There is no signup on Easy Lesson itself." } },
+      { "@type": "Question", "name": "How do I use the tool?", "acceptedAnswer": { "@type": "Answer", "text": "Scroll to the tool on this page, add your free Google AI Studio API key, then upload or snap a photo of a textbook page. The tool reads the page, extracts the exercises, and shows step-by-step solutions, bullet notes, audio pronunciation and quizzes." } },
+      { "@type": "Question", "name": "Which languages does the tool support?", "acceptedAnswer": { "@type": "Answer", "text": "The tool reads textbook pages in English, Urdu and Sindhi, and can explain solutions in the language you choose. The Easy Lesson website itself is in English." } },
+      { "@type": "Question", "name": "Does it work for every subject?", "acceptedAnswer": { "@type": "Answer", "text": "It works with most textbook-style subjects: maths, science, English, social studies and more — any page the tool can read clearly. Results are best with a sharp, well-lit photo of one page at a time." } },
+      { "@type": "Question", "name": "Are the solutions always correct?", "acceptedAnswer": { "@type": "Answer", "text": "No AI tool is always correct. Easy Lesson shows its working so you can check each step, and you should always verify important answers against your textbook or teacher. If a step looks wrong, re-take the photo more clearly and try again." } },
+      { "@type": "Question", "name": "Do I need to create an account?", "acceptedAnswer": { "@type": "Answer", "text": "No. Easy Lesson does not require an account. Your API key is stored in your own browser by the tool, and your photos are processed through the AI service you connect with that key." } },
+      { "@type": "Question", "name": "Can teachers and parents use Easy Lesson?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Teachers use it to prepare worked examples, practice sets and quick explanations. Parents use it to understand a lesson so they can help with homework. Students use it to check their work and understand the steps." } },
+      { "@type": "Question", "name": "Does Easy Lesson store my textbook photos?", "acceptedAnswer": { "@type": "Answer", "text": "Easy Lesson itself does not store your photos. Photos you upload are handled in your browser and sent to the AI service connected by your own API key. See our Privacy Policy for the full details." } },
+      { "@type": "Question", "name": "Can I use Easy Lesson on my phone?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The site and the tool are mobile-friendly. You can snap a photo with your phone camera, upload it, and read the step-by-step solutions right in your browser." } }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="/" aria-label="Easy Lesson home"><span class="logo-mark">E</span> Easy Lesson</a>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+      <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+        <a href="/">Home</a>
+        <a href="/#how-it-works">How It Works</a>
+        <a href="/#features">Features</a>
+        <a href="/blog/">Blog</a>
+        <a href="/about.html">About</a>
+        <a href="/contact.html">Contact</a>
+        <a href="/#tool" class="btn small">Use Tool</a>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- 1. HERO -->
+    <section class="hero">
+      <div class="container">
+        <span class="eyebrow">Free · No signup · Works in your browser</span>
+        <h1>AI Lesson Solver — Snap a Photo of Any Textbook Page</h1>
+        <p class="lead">Stuck on a lesson? Take a photo of your textbook page and get step-by-step exercise solutions, clear bullet notes, audio pronunciation and practice quizzes — in seconds.</p>
+        <div class="hero-ctas">
+          <a class="btn" href="#tool">Solve My Lesson Now ↓</a>
+          <a class="btn outline" href="#how-it-works">See How It Works</a>
+        </div>
+        <div class="badges" aria-label="Key facts">
+          <span class="badge">📸 Photo → Solution</span>
+          <span class="badge">📝 Step-by-step working</span>
+          <span class="badge">🌍 English, Urdu &amp; Sindhi</span>
+          <span class="badge">🔑 Your own free API key</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. THE TOOL (only on the homepage) -->
+    <section class="tool-section" id="tool" aria-label="AI lesson solver tool">
+      <div class="container">
+        <div class="tool-card">
+          <div class="tool-card-head">
+            <h2>Try the AI Lesson Solver</h2>
+            <span class="small">Add your free Google AI Studio API key inside the tool, then upload a textbook photo.</span>
+          </div>
+          <iframe class="tool-frame" src="https://lesson-jet-gamma.vercel.app/" title="Easy Lesson AI lesson solver tool — upload a textbook photo to get step-by-step solutions" loading="lazy" allow="camera; microphone" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+          <p class="tool-fallback">Tool not loading? <a href="https://lesson-jet-gamma.vercel.app/" target="_blank" rel="noopener">Open the tool in a new tab →</a></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. AD PLACEHOLDER (below the tool) -->
+    <div class="container">
+      <div class="ads-slot" data-slot="homepage_below_tool" data-format="horizontal" role="complementary" aria-label="Advertisement">
+        <div class="ads-label">Advertisement</div>
+        <!-- ADSENSE_SLOT: homepage_below_tool — see ads-config.json -->
+      </div>
+    </div>
+
+    <!-- 4. HOW IT WORKS -->
+    <section class="section" id="how-it-works">
+      <div class="container">
+        <h2>How It Works</h2>
+        <p class="lead">Four steps, no signup, no software to install.</p>
+        <div class="grid cols-4">
+          <div class="card"><div class="step-icon">1️⃣</div><h3>Add your free API key</h3><p>Paste your free Google AI Studio API key inside the tool. It stays in your own browser — Easy Lesson never sees it.</p></div>
+          <div class="card"><div class="step-icon">2️⃣</div><h3>Snap or upload a photo</h3><p>Take a clear photo of one textbook page or exercise sheet, or upload an image from your gallery.</p></div>
+          <div class="card"><div class="step-icon">3️⃣</div><h3>Get step-by-step solutions</h3><p>The tool reads the page, extracts the exercises, and shows the working for each answer — not just the final result.</p></div>
+          <div class="card"><div class="step-icon">4️⃣</div><h3>Revise with notes &amp; quizzes</h3><p>Turn the same lesson into bullet notes, listen to audio pronunciation, and test yourself with a quick quiz.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. FEATURES / BENEFITS -->
+    <section class="section alt" id="features">
+      <div class="container">
+        <h2>Features That Help You Actually Learn</h2>
+        <div class="grid cols-3">
+          <div class="card"><div class="feature-icon">📸</div><h3>Photo-based solving</h3><p>No typing out long questions. Point your camera at the page and let the tool read it — handwriting, printed text, diagrams and tables.</p></div>
+          <div class="card"><div class="feature-icon">🧩</div><h3>Step-by-step working</h3><p>Every solution shows its steps, so you can follow the method, find where you went wrong, and solve the next question yourself.</p></div>
+          <div class="card"><div class="feature-icon">📝</div><h3>Bullet notes</h3><p>Turn any lesson into short, clear bullet notes for quick revision before a test.</p></div>
+          <div class="card"><div class="feature-icon">🔊</div><h3>Audio pronunciation</h3><p>Hear difficult words and terms read aloud — helpful for language lessons and new vocabulary.</p></div>
+          <div class="card"><div class="feature-icon">❓</div><h3>Interactive quizzes</h3><p>Generate a quiz from the same lesson and check what you really remember.</p></div>
+          <div class="card"><div class="feature-icon">🌍</div><h3>Multilingual</h3><p>Reads and explains textbook pages in English, Urdu and Sindhi — one tool for multilingual learners.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. USE CASES / WHO IS IT FOR -->
+    <section class="section" id="who-is-it-for">
+      <div class="container">
+        <h2>Who Is It For?</h2>
+        <div class="grid cols-2">
+          <div class="card"><h3>🎓 Students</h3><p>Check your homework, understand the steps behind an answer, revise a chapter with notes, and quiz yourself before a test — in any subject and at any grade level.</p></div>
+          <div class="card"><h3>👩‍🏫 Teachers</h3><p>Prepare worked examples, build practice sets from a lesson, and get a second explanation of a tricky exercise to share with the class.</p></div>
+          <div class="card"><h3>👨‍👩‍👧 Parents</h3><p>Understand your child's lesson quickly so you can help with homework — even when the topic is new to you.</p></div>
+          <div class="card"><h3>📚 Tutors</h3><p>Save preparation time: turn a textbook page into worked solutions, notes and a quiz for your next session.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 7. LONG-FORM SEO CONTENT -->
+    <section class="section alt" id="about-the-tool">
+      <div class="container">
+        <h2>What Is an AI Lesson Solver?</h2>
+        <p>An <strong>AI lesson solver</strong> is a study tool that reads a photo of a textbook page and helps you work through the lesson on that page. Instead of typing out a question or searching for an answer key, you simply take a picture. The tool reads the text, figures out what the exercises are asking, and walks you through each solution step by step. Easy Lesson is built around exactly that idea: snap a photo, get the working, and actually understand the lesson.</p>
+        <p>Homework used to mean one of two bad options: staring at a question you cannot start, or copying an answer you do not understand. A photo-based lesson solver offers a third option. It meets you at the exact question you are stuck on, shows how that question is solved, and gives you notes and a quiz so the method sticks.</p>
+
+        <h2>How Photo-Based Lesson Solving Works</h2>
+        <p>The process is simple on the surface, and that simplicity is the point. You open the tool on this page and add your own free Google AI Studio API key — a one-time step that connects the tool to the AI service that reads your photos. Then you take a clear photo of one textbook page, or upload an image you already have. The AI reads the page, identifies the lesson text and the exercises, and returns three things: step-by-step solutions, a set of short bullet notes summarising the lesson, and a small quiz so you can test yourself.</p>
+        <p>Photo quality matters more than anything else. A sharp, well-lit photo of a single page gives the best results. Lay the book flat, keep the whole page in frame, avoid shadows and glare, and check that the text is readable before you upload. If a solution ever looks wrong, the first thing to try is a better photo — a blurry or cropped image is the most common reason for a confused answer.</p>
+
+        <h3>Why step-by-step solutions matter</h3>
+        <p>A bare answer teaches almost nothing. If the answer key says 42, you still do not know how 42 was reached, and you will be stuck again on the next question. Step-by-step solutions show the method: what the question is asking, which rule or formula applies, how each step follows from the last, and why the final answer makes sense. That is the difference between finishing homework and learning the lesson — and it is why Easy Lesson always shows the working, not just the result.</p>
+
+        <h2>Who Benefits from an AI Lesson Solver?</h2>
+        <p>Students are the obvious users: anyone who has ever been stuck on an exercise at home, with no teacher to ask, knows the feeling. A lesson solver gives them a way to check their work, find their mistake, and keep going. But teachers benefit too. Preparing worked examples and practice sets takes time, and a tool that turns one textbook page into a worked solution, a summary and a quiz can save a real chunk of an evening's preparation.</p>
+        <p>Parents are the third group. Helping with homework is hard when the lesson itself is unfamiliar, especially in subjects like maths and science where methods change over the years. With a step-by-step solution in front of them, parents can follow the same method the lesson teaches and guide their child through it, instead of guessing. Tutors get the same advantage: faster preparation, clearer explanations, and ready-made practice material for every session.</p>
+
+        <h2>Subjects, Grades and Languages</h2>
+        <p>Easy Lesson is subject-agnostic: it works with whatever textbook page you photograph. Maths exercises, science questions, language lessons, social studies passages — if the page is readable, the tool can work through it. It is equally useful across grade levels, from early school exercises to advanced textbook chapters, because it responds to the actual page in front of you rather than a fixed question bank.</p>
+        <p>The tool is also multilingual. It reads and explains textbook pages in English, Urdu and Sindhi, so learners who study in more than one language can use a single tool for all of their lessons. The Easy Lesson website itself is in English, and the tool can explain solutions in the language you choose.</p>
+
+        <h2>How to Get Accurate, Honest Results</h2>
+        <p>An AI lesson solver is a powerful study aid, but it is not infallible — no AI tool is. Treat its answers the way you would treat a first draft: read the steps, check them against your textbook, and think about whether each step makes sense. If something looks off, re-take the photo more clearly and try again, or ask your teacher. This habit of checking is itself good learning: it turns you from a passive reader of answers into an active judge of methods.</p>
+        <p>There is also an honesty question worth stating plainly. A lesson solver helps you most when you use it to understand, not to copy. Try the question yourself first, then compare your working with the tool's steps. When your answer differs, find the step where you diverged — that is where the real learning happens. Used that way, the tool builds the exact skill every exam tests: solving a new question on your own.</p>
+
+        <h2>Your Privacy and Your API Key</h2>
+        <p>Easy Lesson is designed to be private by default. You do not create an account on this site, and Easy Lesson itself does not store your textbook photos. The tool runs in your browser and connects to the AI service using your own free Google AI Studio API key, which is stored in your browser by the tool — not by us. Your photos go to the AI service that your key connects to, so you can read that service's own privacy terms. Our <a href="/privacy-policy.html">Privacy Policy</a> explains exactly what this site does and does not collect.</p>
+        <p>That is the whole idea behind Easy Lesson. Scroll up, try the tool, and see how it works on your next exercise.</p>
+      </div>
+    </section>
+
+    <!-- 8. LATEST BLOG POSTS (auto-pulled by build.js) -->
+    <section class="section" id="latest-posts">
+      <div class="container">
+        <h2>Latest from the Blog</h2>
+        <p class="lead">Study guides, how-to articles and honest advice on learning with AI.</p>
+        <!-- LATEST_POSTS:START -->
+        <div class="grid cols-3" id="latest-posts-grid">
+          <div class="card post-card"><p class="post-date">October 23, 2026 · 6 min read</p><h3><a href="/blog/free-ai-homework-solver-what-to-look-for.html">Free AI Homework Solver: What to Look for (and What to Avoid)</a></h3><p>A free AI homework solver can be a genuine study aid — or a waste of time, a privacy risk, or a shortcut that teaches nothing. The word &quot;free&quot; tells you about t…</p></div>
+          <div class="card post-card"><p class="post-date">October 22, 2026 · 6 min read</p><h3><a href="/blog/ai-tutor-app-vs-human-tutor.html">AI Tutor App vs Human Tutor: When to Use Each</a></h3><p>An AI tutor app and a human tutor both help learners, but they help in different ways. An AI tutor app is fast, always available, and patient with repetition. A…</p></div>
+          <div class="card post-card"><p class="post-date">October 21, 2026 · 6 min read</p><h3><a href="/blog/snap-and-solve-homework.html">Snap and Solve Homework: How Photo Homework Help Actually Works</a></h3><p>The appeal is obvious: homework help arrives in the moment you need it, for the exact question you are stuck on. But the workflow has a few details worth knowin…</p></div>
+          <div class="card post-card"><p class="post-date">October 20, 2026 · 6 min read</p><h3><a href="/blog/lesson-question-solver-for-teachers.html">Lesson Question Solver for Teachers: Create Practice Sets in Minutes</a></h3><p>A lesson question solver is not only a student tool. In a teacher's hands, it becomes a preparation assistant: a way to turn textbook questions into practice se…</p></div>
+          <div class="card post-card"><p class="post-date">October 19, 2026 · 6 min read</p><h3><a href="/blog/ai-study-helper-notes-quizzes.html">AI Study Helper: Turn Textbook Photos into Notes and Quizzes</a></h3><p>An AI study helper does more than solve exercises. It turns a photo of a textbook page into the two study materials that matter most for revision: short, clear …</p></div>
+          <div class="card post-card"><p class="post-date">October 18, 2026 · 6 min read</p><h3><a href="/blog/solve-textbook-exercises-with-ai.html">Solve Textbook Exercises with AI: From Photo to Step-by-Step Solution</a></h3><p>To solve textbook exercises with AI is to follow a short, repeatable path: photograph the exercise, get a step-by-step solution, study the method, and then solv…</p></div>
+        </div>
+        <!-- LATEST_POSTS:END -->
+        <p style="margin-top:1.5rem"><a class="btn outline" href="/blog/">View All Blog Posts →</a></p>
+      </div>
+    </section>
+
+    <!-- 9. AD PLACEHOLDER (mid-content) -->
+    <div class="container">
+      <div class="ads-slot" data-slot="homepage_mid_content" data-format="rectangle" role="complementary" aria-label="Advertisement">
+        <div class="ads-label">Advertisement</div>
+        <!-- ADSENSE_SLOT: homepage_mid_content — see ads-config.json -->
+      </div>
+    </div>
+
+    <!-- 10. FAQ -->
+    <section class="section alt" id="faq">
+      <div class="container">
+        <h2>Frequently Asked Questions</h2>
+        <details class="faq-item"><summary>What is an AI lesson solver?</summary><p>An AI lesson solver is a tool that reads a photo of a textbook page or exercise sheet and produces step-by-step solutions, notes and practice quizzes. Easy Lesson lets you snap a photo and learn the method behind each answer, rather than just copying a result.</p></details>
+        <details class="faq-item"><summary>Is Easy Lesson free to use?</summary><p>Yes. The tool on this page is free to use. You only need your own free Google AI Studio API key, which you paste inside the tool. There is no signup on Easy Lesson itself.</p></details>
+        <details class="faq-item"><summary>How do I use the tool?</summary><p>Scroll to the tool on this page, add your free Google AI Studio API key, then upload or snap a photo of a textbook page. The tool reads the page, extracts the exercises, and shows step-by-step solutions, bullet notes, audio pronunciation and quizzes.</p></details>
+        <details class="faq-item"><summary>Which languages does the tool support?</summary><p>The tool reads textbook pages in English, Urdu and Sindhi, and can explain solutions in the language you choose. The Easy Lesson website itself is in English.</p></details>
+        <details class="faq-item"><summary>Does it work for every subject?</summary><p>It works with most textbook-style subjects: maths, science, English, social studies and more — any page the tool can read clearly. Results are best with a sharp, well-lit photo of one page at a time.</p></details>
+        <details class="faq-item"><summary>Are the solutions always correct?</summary><p>No AI tool is always correct. Easy Lesson shows its working so you can check each step, and you should always verify important answers against your textbook or teacher. If a step looks wrong, re-take the photo more clearly and try again.</p></details>
+        <details class="faq-item"><summary>Do I need to create an account?</summary><p>No. Easy Lesson does not require an account. Your API key is stored in your own browser by the tool, and your photos are processed through the AI service you connect with that key.</p></details>
+        <details class="faq-item"><summary>Can teachers and parents use Easy Lesson?</summary><p>Yes. Teachers use it to prepare worked examples, practice sets and quick explanations. Parents use it to understand a lesson so they can help with homework. Students use it to check their work and understand the steps.</p></details>
+        <details class="faq-item"><summary>Does Easy Lesson store my textbook photos?</summary><p>Easy Lesson itself does not store your photos. Photos you upload are handled in your browser and sent to the AI service connected by your own API key. See our Privacy Policy for the full details.</p></details>
+        <details class="faq-item"><summary>Can I use Easy Lesson on my phone?</summary><p>Yes. The site and the tool are mobile-friendly. You can snap a photo with your phone camera, upload it, and read the step-by-step solutions right in your browser.</p></details>
+      </div>
+    </section>
+
+    <!-- 11. FINAL CTA -->
+    <section class="section" id="cta">
+      <div class="container" style="text-align:center">
+        <h2>Your Next Lesson Is One Photo Away</h2>
+        <p class="lead">Snap a photo of your textbook page and see the steps behind every answer.</p>
+        <a class="btn" href="#tool">Open the AI Lesson Solver ↑</a>
+        <p class="small" style="margin-top:1rem">Free · No signup · Works in your browser</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- 12. FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <a class="logo" href="/"><span class="logo-mark">E</span> Easy Lesson</a>
+          <p class="small">Easy Lesson is a free AI lesson solver for learners worldwide. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio pronunciation and quizzes.</p>
+          <div class="social">
+            <a href="#" aria-label="Easy Lesson on X">X</a>
+            <a href="#" aria-label="Easy Lesson on Facebook">f</a>
+            <a href="#" aria-label="Easy Lesson on Instagram">IG</a>
+            <a href="#" aria-label="Easy Lesson on YouTube">YT</a>
+            <a href="#" aria-label="Easy Lesson on LinkedIn">in</a>
+          </div>
+          <!-- Social links are placeholders: replace # with real profile URLs in every page footer. -->
+        </div>
+        <div>
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="/#tool">Use the Tool</a></li>
+            <li><a href="/#how-it-works">How It Works</a></li>
+            <li><a href="/#features">Features</a></li>
+            <li><a href="/blog/">Blog</a></li>
+            <li><a href="/about.html">About Us</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Blog Categories</h3>
+          <ul>
+            <li><a href="/blog/?category=AI%20Study%20Tools">AI Study Tools</a></li>
+            <li><a href="/blog/?category=Homework%20Help">Homework Help</a></li>
+            <li><a href="/blog/?category=How-To%20Guides">How-To Guides</a></li>
+            <li><a href="/blog/?category=Study%20Tips">Study Tips</a></li>
+            <li><a href="/blog/?category=For%20Teachers">For Teachers</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Legal</h3>
+          <ul>
+            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/terms.html">Terms &amp; Conditions</a></li>
+            <li><a href="/disclaimer.html">Disclaimer</a></li>
+            <li><a href="/cookie-policy.html">Cookie Policy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        © <span id="year">2026</span> Easy Lesson. All rights reserved. Made for learners worldwide.
+      </div>
+    </div>
+  </footer>
+
+  <div class="cookie-banner" id="cookie-banner" role="dialog" aria-live="polite" aria-label="Cookie consent">
+    <p><strong>We use cookies.</strong> Easy Lesson uses cookies to remember your preferences (such as dark mode) and, if you accept, to measure site traffic. We never sell your data. See our <a href="/cookie-policy.html">Cookie Policy</a>.</p>
+    <div class="cookie-actions">
+      <button class="btn small" id="cookie-accept">Accept</button>
+      <button class="btn small outline" id="cookie-decline">Decline</button>
+    </div>
+  </div>
+
+  <div class="sticky-ad ads-slot" id="sticky-ad" data-slot="sticky_mobile_bottom" data-format="mobile-banner" role="complementary" aria-label="Advertisement">
+    <button class="close-ad" id="close-sticky-ad" aria-label="Dismiss advertisement">×</button>
+    <div class="ads-label">Advertisement</div>
+    <!-- ADSENSE_SLOT: sticky_mobile_bottom — see ads-config.json -->
+  </div>
+
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>

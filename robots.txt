@@ -1,0 +1,6 @@
+# robots.txt — Easy Lesson
+# Replace https://www.easylesson.example with the real domain once set (seo-config.json -> base_url).
+User-agent: *
+Allow: /
+
+Sitemap: https://www.easylesson.example/sitemap.xml

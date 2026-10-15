@@ -1,0 +1,104 @@
+{
+  "base_url": "https://www.easylesson.example",
+  "contact_email": "[CONTACT_EMAIL]",
+  "default_meta_description": "Easy Lesson is a free AI lesson solver. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio and quizzes. Free to use.",
+  "language": "en",
+  "long_tail_keywords": [
+    "step-by-step exercise solutions",
+    "AI notes generator",
+    "quiz maker from textbook photo",
+    "solve textbook exercises from a photo",
+    "photo homework help app",
+    "AI homework helper for students",
+    "how to solve textbook exercises with AI",
+    "free online lesson solver",
+    "textbook question solver app",
+    "AI study notes from textbook photo",
+    "homework help by taking a photo",
+    "exercise solver with step-by-step answers",
+    "AI tutor for textbook questions",
+    "scan homework and get answers",
+    "lesson solver for students",
+    "AI lesson planner from textbook photo",
+    "solve maths exercises with AI",
+    "solve science questions with AI",
+    "textbook exercise checker AI",
+    "AI worksheet generator from lesson photo",
+    "photo to notes AI tool",
+    "homework solver with explanations",
+    "AI question solver for students",
+    "snap a photo get homework answers",
+    "AI study assistant for textbook exercises",
+    "online AI tutor for homework",
+    "free textbook solver online",
+    "AI revision notes generator",
+    "practice quiz maker from textbook",
+    "lesson explainer AI app"
+  ],
+  "pages": {
+    "/": {
+      "description": "Easy Lesson is a free AI lesson solver. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio and quizzes. Free to use.",
+      "title": "Easy Lesson — AI Lesson Solver | Snap, Solve & Learn"
+    },
+    "/404.html": {
+      "description": "The page you were looking for could not be found. Head back to the Easy Lesson homepage or try the free AI lesson solver. Use the links below to continue.",
+      "title": "Page Not Found (404) — Easy Lesson | Back to the Tool"
+    },
+    "/about.html": {
+      "description": "Learn what Easy Lesson is, how our free AI lesson solver works, and why we built it for students, teachers and parents worldwide. Read our story and principles.",
+      "title": "About Us — Easy Lesson | AI Lesson Solver for Learners"
+    },
+    "/blog/": {
+      "description": "Study guides, how-to articles and honest advice on using an AI lesson solver, homework help and photo-based learning on Easy Lesson. New posts every day.",
+      "title": "Blog — Easy Lesson | AI Lesson Solver Tips & Study Guides"
+    },
+    "/contact.html": {
+      "description": "Questions, feedback or a bug to report? Contact the Easy Lesson team about the free AI lesson solver tool — we read every message and reply as soon as we can.",
+      "title": "Contact Us — Easy Lesson | Get in Touch With Our Team"
+    },
+    "/cookie-policy.html": {
+      "description": "Learn how Easy Lesson uses cookies and similar technologies, what each cookie is for, and how to accept, decline or change your cookie preferences anytime.",
+      "title": "Cookie Policy — Easy Lesson | Cookies & Your Choices"
+    },
+    "/disclaimer.html": {
+      "description": "Easy Lesson is a study aid, not a substitute for teaching. Read our disclaimer: AI solutions can be wrong, so always verify answers against your textbook.",
+      "title": "Disclaimer — Easy Lesson | Accuracy & Learning Notice"
+    },
+    "/privacy-policy.html": {
+      "description": "Read the Easy Lesson privacy policy: what data we collect, how cookies work, and how your photos and API key stay private and safe. Read how we protect it.",
+      "title": "Privacy Policy — Easy Lesson | How We Handle Your Data"
+    },
+    "/terms.html": {
+      "description": "Read the terms and conditions for using Easy Lesson and its free AI lesson solver tool, including acceptable use, accuracy limits and your responsibilities.",
+      "title": "Terms & Conditions — Easy Lesson | Rules for Using Our Site"
+    }
+  },
+  "primary_keyword": "AI lesson solver",
+  "secondary_keywords": [
+    "textbook exercise solver",
+    "homework solver AI",
+    "scan and solve textbook questions",
+    "solve textbook exercises with AI",
+    "AI study helper",
+    "lesson question solver",
+    "snap and solve homework",
+    "AI tutor app",
+    "online lesson solver",
+    "free AI homework solver"
+  ],
+  "site_name": "Easy Lesson",
+  "social_links": {
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "x": "#",
+    "youtube": "#"
+  },
+  "tagline": "AI Lesson Solver — Snap a Photo, Get Step-by-Step Solutions",
+  "verification": {
+    "bing_webmaster": "REPLACE_WITH_BING_VERIFICATION_CODE",
+    "google_analytics_4": "REPLACE_WITH_GA4_MEASUREMENT_ID",
+    "google_search_console": "REPLACE_WITH_GSC_VERIFICATION_CODE",
+    "google_tag_manager": "REPLACE_WITH_GTM_ID"
+  }
+}
