@@ -1,5 +1,5 @@
 {
-  "base_url": "https://www.easylesson.example",
+  "base_url": "https://easy-lesson-website.vercel.app",
   "contact_email": "[CONTACT_EMAIL]",
   "default_meta_description": "Easy Lesson is a free AI lesson solver. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio and quizzes. Free to use.",
   "language": "en",
