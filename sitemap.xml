@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.easylesson.example/</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/about.html</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/contact.html</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/privacy-policy.html</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/terms.html</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/disclaimer.html</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/cookie-policy.html</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/blog/</loc><lastmod>2026-10-14</lastmod></url>
-  <url><loc>https://www.easylesson.example/blog/page-2.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.easylesson.example/</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/about.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/contact.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/privacy-policy.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/terms.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/disclaimer.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/cookie-policy.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/page-2.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/page-3.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/page-4.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/page-5.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/page-6.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/page-7.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/free-ai-homework-solver-what-to-look-for.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/ai-tutor-app-vs-human-tutor.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/snap-and-solve-homework.html</loc><lastmod>2026-10-21</lastmod></url>
@@ -16,7 +21,57 @@
   <url><loc>https://www.easylesson.example/blog/ai-study-helper-notes-quizzes.html</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/solve-textbook-exercises-with-ai.html</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/scan-and-solve-textbook-questions.html</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/word-problems-homework-step-by-step.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/why-copying-ai-answers-hurts-learning.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/water-cycle-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/verify-ai-answers-fake-citations.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/use-ai-for-homework-without-losing-learning.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/university-students-ai-use-honest-guide.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/turn-notes-into-video-lessons-ai.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/too-much-homework-how-to-cope.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/study-with-examples-worked-examples.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/study-routine-for-school-students.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/states-of-matter-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/solving-linear-equations-step-by-step.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/solar-system-planets-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/should-ai-write-your-essay.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/retrieval-practice-before-checking-answers.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/ratios-and-proportions-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/pythagoras-theorem-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/pomodoro-technique-for-homework.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/photosynthesis-explained-simply.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/percentages-made-easy.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/negative-numbers-made-simple.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/most-teens-use-ai-for-schoolwork-survey.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/mean-median-mode-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/interleaving-practice-mixed-problems.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/human-digestive-system-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/how-to-study-effectively-without-cramming.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/how-to-start-homework-when-stuck.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/homework-when-you-missed-the-lesson.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/homework-solver-ai-guide.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/homework-planner-organise-assignments.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/homework-mistakes-and-how-to-fix.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/homework-help-without-copying-answers.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/homework-help-for-parents-guide.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/fractions-explained-simply.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/forces-and-motion-basics.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/electricity-circuits-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/elaboration-technique-explain-to-learn.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/ecosystems-food-chains-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/earth-layers-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/dual-coding-words-and-pictures.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/do-homework-faster-without-rushing.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/deep-work-study-sessions.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/check-homework-answers-the-right-way.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/basic-geometry-angles-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/area-and-perimeter-guide.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/algebra-for-beginners-variables.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/ai-tutors-step-by-step-guidance.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/ai-homework-scores-up-exam-scores-down.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/ai-homework-agents-that-do-assignments.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/active-recall-study-method-explained.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.easylesson.example/blog/acids-and-bases-explained.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/textbook-exercise-solver-photo.html</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.easylesson.example/blog/what-is-ai-lesson-solver.html</loc><lastmod>2026-10-14</lastmod></url>
 </urlset>
