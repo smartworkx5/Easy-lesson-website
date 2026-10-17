@@ -37,6 +37,15 @@ function formatDate(iso) {
 function rfc822(iso) {
   return new Date(iso + "T00:00:00Z").toUTCString();
 }
+/* Dates must never be in the future: clamp any post date/updated to today.
+   (Legacy seed posts once carried staggered future dates; the clamp keeps
+   bylines, JSON-LD, sitemap lastmods and RSS pubDates honest.) */
+const TODAY = new Date().toISOString().slice(0, 10);
+function clampDate(iso) {
+  const s = String(iso);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(s)) return s;
+  return s > TODAY ? TODAY : s;
+}
 function stripMd(s) {
   return String(s).replace(/[#>*`\[\]()!]/g, "").replace(/\s+/g, " ").trim();
 }
@@ -245,7 +254,7 @@ const posts = fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith(".md")).map((fi
     ...fm,
     categories: Array.isArray(fm.categories) ? fm.categories : [fm.categories || "Uncategorized"],
     tags: Array.isArray(fm.tags) ? fm.tags : [],
-    date: String(fm.date), updated: String(fm.updated || fm.date),
+    date: clampDate(String(fm.date)), updated: clampDate(String(fm.updated || fm.date)),
     words, readingTime: Math.max(1, Math.ceil(words / 200)),
     blocks, headings, excerpt,
     url: `/blog/${fm.slug}.html`, absUrl: `${BASE}/blog/${fm.slug}.html`,
