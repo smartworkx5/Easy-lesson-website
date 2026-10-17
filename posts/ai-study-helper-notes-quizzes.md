@@ -4,8 +4,8 @@ slug: "ai-study-helper-notes-quizzes"
 seo_title: "AI Study Helper: Turn Textbook Photos into Notes & Quizzes"
 meta_description: "Turn one textbook photo into clear bullet notes and a practice quiz. Learn how an AI study helper builds notes and quizzes that help you remember more."
 focus_keyword: "AI study helper"
-date: "2026-10-19"
-updated: "2026-10-19"
+date: "2026-10-17"
+updated: "2026-10-17"
 author: "Easy Lesson Team"
 categories: ["Study Tips"]
 tags: ["study-notes", "quizzes", "ai-study-helper"]

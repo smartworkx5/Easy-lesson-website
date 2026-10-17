@@ -4,8 +4,8 @@ slug: "solve-textbook-exercises-with-ai"
 seo_title: "Solve Textbook Exercises with AI: Photo to Solution"
 meta_description: "See how to solve textbook exercises with AI, from photo to finished solution. Follow a worked example, check each step, and learn the method behind it."
 focus_keyword: "solve textbook exercises with AI"
-date: "2026-10-18"
-updated: "2026-10-18"
+date: "2026-10-17"
+updated: "2026-10-17"
 author: "Easy Lesson Team"
 categories: ["How-To Guides"]
 tags: ["step-by-step-solutions", "textbook-exercises", "ai-solver"]
