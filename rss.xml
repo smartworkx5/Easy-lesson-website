@@ -6,54 +6,6 @@
     <description>Easy Lesson is a free AI lesson solver. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio and quizzes. Free to use.</description>
     <language>en</language>
     <item>
-      <title>Free AI Homework Solver: What to Look for (and What to Avoid)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/free-ai-homework-solver-what-to-look-for.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/free-ai-homework-solver-what-to-look-for.html</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A free AI homework solver can be a genuine study aid — or a waste of time, a privacy risk, or a shortcut that teaches nothing. The word &quot;free&quot; tells you about t</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>AI Tutor App vs Human Tutor: When to Use Each</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-tutor-app-vs-human-tutor.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-tutor-app-vs-human-tutor.html</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An AI tutor app and a human tutor both help learners, but they help in different ways. An AI tutor app is fast, always available, and patient with repetition. A</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>Snap and Solve Homework: How Photo Homework Help Actually Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/snap-and-solve-homework.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/snap-and-solve-homework.html</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The appeal is obvious: homework help arrives in the moment you need it, for the exact question you are stuck on. But the workflow has a few details worth knowin</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Lesson Question Solver for Teachers: Create Practice Sets in Minutes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/lesson-question-solver-for-teachers.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/lesson-question-solver-for-teachers.html</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A lesson question solver is not only a student tool. In a teacher's hands, it becomes a preparation assistant: a way to turn textbook questions into practice se</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>AI Study Helper: Turn Textbook Photos into Notes and Quizzes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-study-helper-notes-quizzes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-study-helper-notes-quizzes.html</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An AI study helper does more than solve exercises. It turns a photo of a textbook page into the two study materials that matter most for revision: short, clear </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Solve Textbook Exercises with AI: From Photo to Step-by-Step Solution</title>
-      <link>https://easy-lesson-website.vercel.app/blog/solve-textbook-exercises-with-ai.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/solve-textbook-exercises-with-ai.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>To solve textbook exercises with AI is to follow a short, repeatable path: photograph the exercise, get a step-by-step solution, study the method, and then solv</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
       <title>What Is Democracy? Explained for Students</title>
       <link>https://easy-lesson-website.vercel.app/blog/what-is-democracy-explained.html</link>
       <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/what-is-democracy-explained.html</guid>
@@ -100,6 +52,22 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
       <description>Spaced repetition is one of the simplest and most reliable ways to remember what you study. Instead of reading the same notes again and again in one long sessio</description>
       <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Solve Textbook Exercises with AI: From Photo to Step-by-Step Solution</title>
+      <link>https://easy-lesson-website.vercel.app/blog/solve-textbook-exercises-with-ai.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/solve-textbook-exercises-with-ai.html</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <description>To solve textbook exercises with AI is to follow a short, repeatable path: photograph the exercise, get a step-by-step solution, study the method, and then solv</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>Snap and Solve Homework: How Photo Homework Help Actually Works</title>
+      <link>https://easy-lesson-website.vercel.app/blog/snap-and-solve-homework.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/snap-and-solve-homework.html</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The appeal is obvious: homework help arrives in the moment you need it, for the exact question you are stuck on. But the workflow has a few details worth knowin</description>
+      <category>Homework Help</category>
     </item>
     <item>
       <title>School AI Policies: What Students Should Know in 2026</title>
@@ -206,6 +174,14 @@
       <category>How-To Guides</category>
     </item>
     <item>
+      <title>Lesson Question Solver for Teachers: Create Practice Sets in Minutes</title>
+      <link>https://easy-lesson-website.vercel.app/blog/lesson-question-solver-for-teachers.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/lesson-question-solver-for-teachers.html</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A lesson question solver is not only a student tool. In a teacher's hands, it becomes a preparation assistant: a way to turn textbook questions into practice se</description>
+      <category>For Teachers</category>
+    </item>
+    <item>
       <title>How to Write a Good Paragraph: Topic Sentence to Conclusion</title>
       <link>https://easy-lesson-website.vercel.app/blog/how-to-write-a-good-paragraph.html</link>
       <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-write-a-good-paragraph.html</guid>
@@ -284,6 +260,14 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
       <description>Every student knows two bad feelings. The first is boredom: the work is so easy that your mind wanders and nothing sticks. The second is overwhelm: the work is </description>
       <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Free AI Homework Solver: What to Look for (and What to Avoid)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/free-ai-homework-solver-what-to-look-for.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/free-ai-homework-solver-what-to-look-for.html</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A free AI homework solver can be a genuine study aid — or a waste of time, a privacy risk, or a shortcut that teaches nothing. The word &quot;free&quot; tells you about t</description>
+      <category>AI Study Tools</category>
     </item>
     <item>
       <title>Flashcards That Actually Work: Rules for Good Cards</title>
@@ -398,12 +382,28 @@
       <category>How-To Guides</category>
     </item>
     <item>
+      <title>AI Tutor App vs Human Tutor: When to Use Each</title>
+      <link>https://easy-lesson-website.vercel.app/blog/ai-tutor-app-vs-human-tutor.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-tutor-app-vs-human-tutor.html</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <description>An AI tutor app and a human tutor both help learners, but they help in different ways. An AI tutor app is fast, always available, and patient with repetition. A</description>
+      <category>AI Study Tools</category>
+    </item>
+    <item>
       <title>AI Study Tools Are Moving Inside Your Textbook Platform</title>
       <link>https://easy-lesson-website.vercel.app/blog/ai-study-tools-inside-textbooks-2026.html</link>
       <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-study-tools-inside-textbooks-2026.html</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
       <description>For years, AI study help lived in a separate app or website. You read your textbook in one place, then opened another tool to summarise it, quiz yourself, or ex</description>
       <category>AI Study Tools</category>
+    </item>
+    <item>
+      <title>AI Study Helper: Turn Textbook Photos into Notes and Quizzes</title>
+      <link>https://easy-lesson-website.vercel.app/blog/ai-study-helper-notes-quizzes.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-study-helper-notes-quizzes.html</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <description>An AI study helper does more than solve exercises. It turns a photo of a textbook page into the two study materials that matter most for revision: short, clear </description>
+      <category>Study Tips</category>
     </item>
     <item>
       <title>AI Revision Tools That Only Use Your Course Materials</title>
