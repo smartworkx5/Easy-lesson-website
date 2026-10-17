@@ -4,8 +4,8 @@ slug: "free-ai-homework-solver-what-to-look-for"
 seo_title: "Free AI Homework Solver: What to Look For and Avoid"
 meta_description: "Not every free tool is worth your time. Learn what to look for in a free AI homework solver — privacy, accuracy, honesty — and the red flags to avoid."
 focus_keyword: "free AI homework solver"
-date: "2026-10-23"
-updated: "2026-10-23"
+date: "2026-10-17"
+updated: "2026-10-17"
 author: "Easy Lesson Team"
 categories: ["AI Study Tools"]
 tags: ["free-tools", "homework-solver", "safety"]

@@ -4,8 +4,8 @@ slug: "lesson-question-solver-for-teachers"
 seo_title: "Lesson Question Solver for Teachers: Practice Sets Fast"
 meta_description: "Teachers can turn textbook questions into practice sets, worksheets, and answer checks in minutes. Learn how a lesson question solver saves prep time."
 focus_keyword: "lesson question solver"
-date: "2026-10-20"
-updated: "2026-10-20"
+date: "2026-10-17"
+updated: "2026-10-17"
 author: "Easy Lesson Team"
 categories: ["For Teachers"]
 tags: ["teachers", "practice-sets", "classroom"]
