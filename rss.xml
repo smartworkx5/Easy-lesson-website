@@ -6,1684 +6,804 @@
     <description>Easy Lesson is a free AI lesson solver. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio and quizzes. Free to use.</description>
     <language>en</language>
     <item>
-      <title>Writing Clear Learning Objectives for Every Lesson</title>
-      <link>https://easy-lesson-website.vercel.app/blog/writing-clear-learning-objectives.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/writing-clear-learning-objectives.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A learning objective is a promise about what students will be able to do by the end of a lesson. When that promise is clear, everyone benefits. Students know wh</description>
+      <title>Working Backwards: A Problem-Solving Trick That Works</title>
+      <link>https://easy-lesson-website.vercel.app/blog/working-backwards-problem-solving.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/working-backwards-problem-solving.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most problems are presented front to back: here is the start, find the end. But some problems are much easier when you flip them around — start from the answer,</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>Venn Diagrams Explained with Simple Examples</title>
+      <link>https://easy-lesson-website.vercel.app/blog/venn-diagrams-explained.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/venn-diagrams-explained.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Overlapping circles look simple, but students misuse them constantly: items land in the wrong region, the overlap gets ignored, and the whole diagram answers a </description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Use AI to Study Without Losing Your Writing Voice</title>
+      <link>https://easy-lesson-website.vercel.app/blog/use-ai-study-keep-writing-voice.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/use-ai-study-keep-writing-voice.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A teacher's viral video this month warned that students are losing the habit of writing in their own words. Her claim, reported in news coverage, was that many </description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Why Some Universities Are Bringing Back Pen-and-Paper Exams</title>
+      <link>https://easy-lesson-website.vercel.app/blog/universities-pen-and-paper-exams-return.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/universities-pen-and-paper-exams-return.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>In an age of AI writing tools, a surprising trend is emerging in higher education: some institutions are bringing back the pen. Reported in October 2026, at lea</description>
+      <category>AI Study Tools</category>
+    </item>
+    <item>
+      <title>What Universities Worldwide Are Discussing About AI in Education</title>
+      <link>https://easy-lesson-website.vercel.app/blog/universities-ai-education-discussion.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/universities-ai-education-discussion.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>While schools argue about AI rules for homework, universities are holding a bigger conversation: what should the relationship between AI and education actually </description>
       <category>For Teachers</category>
     </item>
     <item>
-      <title>Word Stress Rules in English: Where to Put the Emphasis</title>
-      <link>https://easy-lesson-website.vercel.app/blog/word-stress-rules-english.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/word-stress-rules-english.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Word stress is one of the most powerful parts of English pronunciation. It decides which syllable in a word stands out, and getting it right can make the differ</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Who Owns Your Schoolwork? Student Work and AI Training</title>
-      <link>https://easy-lesson-website.vercel.app/blog/who-owns-your-schoolwork-ai-training.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/who-owns-your-schoolwork-ai-training.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>When you submit an essay, who owns it? Most students never ask the question. Your work goes into a system, gets checked, and comes back with a grade. But report</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>A Weekly Lesson Planning Routine That Saves Sundays</title>
-      <link>https://easy-lesson-website.vercel.app/blog/weekly-lesson-planning-routine.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/weekly-lesson-planning-routine.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Many teachers lose their Sundays to planning. The weekend starts with good intentions, then the pile of lessons for the week ahead grows, and suddenly Sunday ev</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Vocabulary in Context: Guess Word Meanings While Reading</title>
-      <link>https://easy-lesson-website.vercel.app/blog/vocabulary-in-context-guessing-meaning.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/vocabulary-in-context-guessing-meaning.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Vocabulary in context is the skill of working out what an unfamiliar word means from the words around it. Every reader meets words they do not know. Strong read</description>
+      <title>Timelines for History and Science: Order Events with Confidence</title>
+      <link>https://easy-lesson-website.vercel.app/blog/timelines-for-history-and-science.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/timelines-for-history-and-science.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Ask a student what happened first and watch the panic. Dates blur, events swap places, and causes get attached to the wrong effects. Timelines for history and s</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>Using AI to Draft Lesson Plans (and Check Them)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/using-ai-to-draft-lesson-plans.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/using-ai-to-draft-lesson-plans.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>AI tools can produce a draft lesson plan in minutes: an objective, an opener, activities, questions, and even a worksheet. For a busy teacher, that speed is tem</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>True or False Quizzes: Strategies That Build Understanding</title>
-      <link>https://easy-lesson-website.vercel.app/blog/true-false-quiz-strategies.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/true-false-quiz-strategies.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>True or false quizzes look like the easiest kind of test. Each question has only two options, so guessing gives you a fifty percent chance. But that simplicity </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Teacher Time-Savers: Cut Admin Work Without Cutting Corners</title>
-      <link>https://easy-lesson-website.vercel.app/blog/teacher-time-savers-admin-tasks.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/teacher-time-savers-admin-tasks.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Teaching is the job. Admin is the job around the job. Forms, records, messages, copies, reports, and lists — each one small, but together they can swallow the h</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>A Teacher's Workflow for Checking Homework Faster</title>
-      <link>https://easy-lesson-website.vercel.app/blog/teacher-homework-checking-workflow.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/teacher-homework-checking-workflow.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Checking homework is one of those jobs that quietly eats whole evenings. A single class set can take an hour or more, and when there are several classes, the pi</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Teacher AI Training: What It Means for Students</title>
-      <link>https://easy-lesson-website.vercel.app/blog/teacher-ai-training-what-it-means-for-students.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/teacher-ai-training-what-it-means-for-students.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>When teachers learn about AI, students feel the difference. Reports in October 2026 described a large teacher AI-literacy drive in which around 80,000 teachers </description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>Summary Writing: Say More with Fewer Words</title>
-      <link>https://easy-lesson-website.vercel.app/blog/summary-writing-skills-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/summary-writing-skills-guide.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Strong summary writing skills help you capture the heart of a text without copying it. A summary is a short version of a longer piece that keeps the main ideas </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Summary vs Paraphrase: What's the Difference?</title>
-      <link>https://easy-lesson-website.vercel.app/blog/summary-vs-paraphrase-difference.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/summary-vs-paraphrase-difference.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Summary vs paraphrase is a confusion that trips up students in every subject. Both involve restating something in your own words, so they look like the same ski</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Study from Your Own Sources: Notes, Quizzes, and Questions</title>
-      <link>https://easy-lesson-website.vercel.app/blog/study-from-your-own-sources-notebook-tools.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/study-from-your-own-sources-notebook-tools.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The most reliable AI study help comes from your own material. A source-grounded notebook tool answers from the notes, chapters, and recordings you give it, inst</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>Spelling Rules Every Learner Needs</title>
-      <link>https://easy-lesson-website.vercel.app/blog/spelling-rules-every-learner-needs.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/spelling-rules-every-learner-needs.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>English spelling has a reputation for being chaotic, and it is true that it does not always follow simple logic. But beneath the chaos, there are patterns. A sm</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Solving Maths from a Photo: What Works and What Doesn't</title>
-      <link>https://easy-lesson-website.vercel.app/blog/solve-maths-from-a-photo.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/solve-maths-from-a-photo.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>When you solve maths from photo, the experience can feel almost magical. You take a picture of a problem, and within moments you see the steps that lead to the </description>
+      <title>Subject-Verb Agreement Explained with Simple Rules</title>
+      <link>https://easy-lesson-website.vercel.app/blog/subject-verb-agreement-explained.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/subject-verb-agreement-explained.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Subject-verb agreement is one of those grammar rules that sounds simple and causes endless trouble. The rule is short: a singular subject takes a singular verb,</description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>Skimming Scanning Techniques: Read Faster When It Counts</title>
-      <link>https://easy-lesson-website.vercel.app/blog/skimming-and-scanning-techniques.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/skimming-and-scanning-techniques.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>These skimming scanning techniques will save you hours once you know when to use each one. Skimming gives you the gist of a text quickly, while scanning hunts f</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>The Shadowing Technique for Language Learning</title>
-      <link>https://easy-lesson-website.vercel.app/blog/shadowing-technique-language-learning.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/shadowing-technique-language-learning.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Shadowing is a language learning technique where you speak along with a recording in real time, almost like an echo. You listen to a speaker and repeat their wo</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Self-Testing: The Study Method Students Underuse</title>
-      <link>https://easy-lesson-website.vercel.app/blog/self-testing-study-method-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/self-testing-study-method-guide.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Self-testing is one of the most powerful study methods available, and it is also one of the most underused. Most students spend their study time rereading notes</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Scanning Textbook Pages to Make Notes: A Step-by-Step Guide</title>
-      <link>https://easy-lesson-website.vercel.app/blog/scan-textbook-pages-for-notes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/scan-textbook-pages-for-notes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Long textbook chapters can feel overwhelming. There is a lot to read, many new terms, and it is not always clear what matters most. When you scan textbook pages</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Reading Detail Gist: Know When to Use Each Reading Mode</title>
-      <link>https://easy-lesson-website.vercel.app/blog/reading-for-detail-vs-gist.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/reading-for-detail-vs-gist.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>This reading detail gist guide will help you stop reading everything the same way. Sometimes you need the gist: the big picture, the main point, the overall mes</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>A Daily Reading Comprehension Practice Routine That Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/reading-comprehension-practice-routine.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/reading-comprehension-practice-routine.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A daily reading comprehension practice routine is the most reliable way to become a stronger reader. Comprehension is not a talent you either have or lack. It i</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Reading and Pronunciation: How Reading Aloud Helps</title>
-      <link>https://easy-lesson-website.vercel.app/blog/reading-and-pronunciation-together.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/reading-and-pronunciation-together.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Reading and pronunciation are usually treated as separate skills. Reading is quiet, and pronunciation is spoken. But when you read aloud, the two skills meet, a</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Quiz Yourself Before Reading Your Notes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/quiz-yourself-before-reading-notes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/quiz-yourself-before-reading-notes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Quiz yourself before reading your notes. It sounds backwards. Why would you test yourself on material you have not reviewed yet? But this strange habit, sometim</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Quiz Apps vs Paper Quizzes: Which Works Better?</title>
-      <link>https://easy-lesson-website.vercel.app/blog/quiz-apps-vs-paper-quizzes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/quiz-apps-vs-paper-quizzes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Quiz apps and paper quizzes both test your knowledge, but they feel very different to use. An app gives you instant feedback, automatic scoring, and endless que</description>
+      <title>Why Data Privacy Is Becoming Part of Student Digital Literacy</title>
+      <link>https://easy-lesson-website.vercel.app/blog/student-data-privacy-digital-literacy.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/student-data-privacy-digital-literacy.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Students today hand over personal data almost without thinking: signing into apps, uploading photos to study tools, pasting homework into AI assistants. This we</description>
       <category>AI Study Tools</category>
     </item>
     <item>
-      <title>Question-Led AI Tutoring: Learn by Answering, Not Copying</title>
-      <link>https://easy-lesson-website.vercel.app/blog/question-led-ai-tutoring-study-mode.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/question-led-ai-tutoring-study-mode.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The best tutor does not hand you the answer. The best tutor asks you a question that makes you find it yourself. That is the idea behind question-led AI tutorin</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>Planning Lessons for Different Levels in One Class</title>
-      <link>https://easy-lesson-website.vercel.app/blog/planning-lessons-for-different-levels.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/planning-lessons-for-different-levels.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every class contains a range of levels. Some students arrive already confident with the topic. Others are still building the foundations. Most sit somewhere in </description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Photo Translation for Language Homework: Learning, Not Copying</title>
-      <link>https://easy-lesson-website.vercel.app/blog/photo-translation-for-language-homework.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/photo-translation-for-language-homework.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Photo translation can be a helpful study partner for language homework, or it can become a shortcut that teaches you nothing. The difference lies in how you use</description>
+      <title>Sentence Types: Simple, Compound, and Complex Explained</title>
+      <link>https://easy-lesson-website.vercel.app/blog/sentence-types-simple-compound-complex.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/sentence-types-simple-compound-complex.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Sentences come in three main types, and the difference between them is one of the most useful grammar ideas a student can learn. Once you can spot simple, compo</description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>Photo to Flashcards: Turn a Textbook Page into a Study Deck</title>
-      <link>https://easy-lesson-website.vercel.app/blog/photo-to-flashcards-workflow.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/photo-to-flashcards-workflow.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A textbook page holds a lot of information, but reading the same page again and again is not the best way to remember it. Photo to flashcards turns that page in</description>
+      <title>Schools Are Redrawing Their AI Rules This Year: What Students Should Know</title>
+      <link>https://easy-lesson-website.vercel.app/blog/schools-redrawing-ai-rules-students-guide.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/schools-redrawing-ai-rules-students-guide.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Something unusual is happening in schools this year: AI rules are being rewritten everywhere, and no two schools are writing the same rules. Some are teaching s</description>
+      <category>AI Study Tools</category>
+    </item>
+    <item>
+      <title>Root Words, Prefixes, and Suffixes: Unlock New Words</title>
+      <link>https://easy-lesson-website.vercel.app/blog/root-words-prefixes-suffixes.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/root-words-prefixes-suffixes.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every long, intimidating English word is usually a small team of parts working together. Once you can spot the root and the prefixes and suffixes around it, unf</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>Turn a Textbook Page Photo into a Practice Quiz</title>
-      <link>https://easy-lesson-website.vercel.app/blog/photo-quiz-from-textbook-page.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/photo-quiz-from-textbook-page.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Reading a chapter once is rarely enough to remember it. A textbook photo quiz changes the task from reading to recalling. You turn the page into a set of questi</description>
+      <title>Rivers and Water Bodies: A Simple Geography Guide</title>
+      <link>https://easy-lesson-website.vercel.app/blog/rivers-and-water-bodies-basics.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/rivers-and-water-bodies-basics.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Rivers are among the most important features on any map, and learning about them is a core part of geography homework. A river is simply a natural stream of fre</description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>Photo Homework Help: How Snap-and-Solve Learning Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/photo-homework-help-how-it-works.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/photo-homework-help-how-it-works.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Photo homework help lets you take a picture of a textbook page or a written question and receive a clear, step-by-step explanation. Instead of staring at a conf</description>
-      <category>AI Study Tools</category>
+      <title>Recycling and Waste: A Practical Guide for Students</title>
+      <link>https://easy-lesson-website.vercel.app/blog/recycling-and-waste-basics.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/recycling-and-waste-basics.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Recycling is one of those topics everyone has heard of but few people truly understand. Most students can say that recycling is good, but fewer can explain what</description>
+      <category>Study Tips</category>
     </item>
     <item>
-      <title>Photo Help for Science Diagrams: Labelling and Explaining</title>
-      <link>https://easy-lesson-website.vercel.app/blog/photo-help-for-science-diagrams.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/photo-help-for-science-diagrams.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Science diagrams can feel intimidating. They pack a lot of information into one image: parts, labels, arrows, and processes that all happen at once. Science dia</description>
+      <title>A 5-Step Problem-Solving Method for Any Subject</title>
+      <link>https://easy-lesson-website.vercel.app/blog/problem-solving-steps-students.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/problem-solving-steps-students.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Strong problem solvers are not born; they follow a method. Watch a top student work through a hard question and you will notice something: they do not just star</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>A Problem-Solving Practice Routine for Steady Progress</title>
+      <link>https://easy-lesson-website.vercel.app/blog/problem-solving-practice-routine.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/problem-solving-practice-routine.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most students practise problems the way they eat snacks: whenever they feel like it, in whatever order appears. The result is the same in both cases. You feel b</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Prepositions Made Easy: In, On, At, and More</title>
+      <link>https://easy-lesson-website.vercel.app/blog/prepositions-made-easy.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/prepositions-made-easy.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Prepositions are small words that cause big headaches. In, on, and at seem interchangeable until you use the wrong one and the sentence sounds wrong. The usual </description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>Parent-Teacher Communication: Tips That Build Trust</title>
-      <link>https://easy-lesson-website.vercel.app/blog/parent-teacher-communication-tips.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/parent-teacher-communication-tips.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Parent-teacher communication works best when it is a partnership, not a report. Parents know their child in ways no teacher can, and teachers see the child in a</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Paragraph Structure: Topic, Evidence, Explanation, Link</title>
-      <link>https://easy-lesson-website.vercel.app/blog/paragraph-structure-topic-evidence.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/paragraph-structure-topic-evidence.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Good paragraph structure students can rely on turns a jumble of ideas into a clear, organised answer. A paragraph is a small unit of thought. It should open wit</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Oral Quizzing with a Partner: A Simple Study Upgrade</title>
-      <link>https://easy-lesson-website.vercel.app/blog/oral-quizzing-with-a-partner.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/oral-quizzing-with-a-partner.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Oral quizzing with a partner is one of the simplest upgrades you can make to your study routine. Instead of silently rereading notes alone, you and a partner ta</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>One-Page Revision Sheets: Compress a Topic onto One Page</title>
-      <link>https://easy-lesson-website.vercel.app/blog/one-page-revision-sheets.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/one-page-revision-sheets.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A one-page revision sheet is exactly what it sounds like: a single page that holds everything you need to revise one topic. No extra pages, no overflow, no &quot;con</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Use Official Exam Support Resources Well</title>
-      <link>https://easy-lesson-website.vercel.app/blog/official-exam-support-resources-how-to-use.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/official-exam-support-resources-how-to-use.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Official support is often the most underused exam resource. A news report in October 2026 described a support package rolled out for final-year candidates ahead</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Note-Taking Symbols and Abbreviations That Save Time</title>
-      <link>https://easy-lesson-website.vercel.app/blog/note-taking-symbols-and-abbreviations.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/note-taking-symbols-and-abbreviations.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Note-taking symbols and abbreviations exist for one reason: your hand cannot write as fast as a teacher can talk. Shortcuts close that gap. A single arrow can r</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Narrative Writing: A Simple Story Structure</title>
-      <link>https://easy-lesson-website.vercel.app/blog/narrative-writing-story-structure.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/narrative-writing-story-structure.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A clear narrative writing structure helps any story feel complete. Without structure, a story can wander, rush, or end too suddenly. With structure, the reader </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Multiple-Choice Practice: How to Learn from Every Question</title>
-      <link>https://easy-lesson-website.vercel.app/blog/multiple-choice-practice-tips.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/multiple-choice-practice-tips.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Multiple-choice questions are easy to get wrong in the worst way: you pick an answer, move on, and learn nothing. Many students treat multiple-choice practice a</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Minimal Pairs: A Smart Way to Practise Pronunciation</title>
-      <link>https://easy-lesson-website.vercel.app/blog/minimal-pairs-pronunciation-practice.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/minimal-pairs-pronunciation-practice.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Minimal pairs are pairs of words that differ by only one sound. Think of two words that sound almost identical, where changing a single sound changes the meanin</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Managing Classroom Time: Pace Lessons Without Rushing</title>
-      <link>https://easy-lesson-website.vercel.app/blog/managing-classroom-time.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/managing-classroom-time.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every teacher has watched a lesson run away from them. The introduction takes too long, the main activity starts late, and the practice at the end — the part st</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Listening Practice for Language Learners: A Daily Routine</title>
-      <link>https://easy-lesson-website.vercel.app/blog/listening-practice-for-language-learners.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/listening-practice-for-language-learners.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Listening is often the hardest skill for language learners. In reading, you can slow down, reread, and look words up. In listening, the sounds keep coming, and </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Letter Writing: A Clear Format Guide for Students</title>
-      <link>https://easy-lesson-website.vercel.app/blog/letter-writing-format-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/letter-writing-format-guide.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A clear letter writing format helps your message look neat, polite, and easy to follow. Letters still matter, even in a world of instant messages. A well-format</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>A Lesson Plan Template That Works for Any Subject</title>
-      <link>https://easy-lesson-website.vercel.app/blog/lesson-plan-template-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/lesson-plan-template-explained.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A lesson plan template is only useful if you actually use it, and most templates fail that test because they are too long. A template with twenty boxes, three p</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Lesson Openers That Hook Students in the First 2 Minutes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/lesson-openers-that-hook-students.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/lesson-openers-that-hook-students.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The first two minutes of a lesson decide how the next thirty will go. Students walk in carrying the noise of the corridor, the last lesson, and whatever is on t</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Lesson Closure Activities That Lock In Learning</title>
-      <link>https://easy-lesson-website.vercel.app/blog/lesson-closure-activities.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/lesson-closure-activities.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Many lessons end by accident. The teacher is mid-explanation when the bell rings, students pack up, and the learning of the last forty minutes is left hanging. </description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Is Using AI for Study Help Cheating? An Honest Guide</title>
-      <link>https://easy-lesson-website.vercel.app/blog/is-ai-help-cheating-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/is-ai-help-cheating-guide.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The question is ai help cheating is one that students, teachers, and parents are all asking. AI tools can explain lessons, generate answers, and polish writing </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Inference Reading Comprehension: Read Between the Lines</title>
-      <link>https://easy-lesson-website.vercel.app/blog/inference-reading-between-lines.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/inference-reading-between-lines.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Inference reading comprehension is the skill of understanding what a text means without it being stated directly. Writers do not spell out everything. They leav</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Write Good Quiz Questions for Self-Study</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-write-good-quiz-questions.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-write-good-quiz-questions.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Writing good quiz questions is a skill that pays off twice. First, you learn while writing them, because turning a topic into questions forces you to decide wha</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>How to Write Clear Sentences: Short, Strong, and Simple</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-write-clear-sentences.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-write-clear-sentences.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to write clear sentences is one of the most useful skills a student can build. Clear sentences help readers follow ideas without getting lost, and </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Write an Introduction That Sets Up Your Answer</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-write-an-introduction.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-write-an-introduction.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to write introduction paragraphs well can change the whole feel of a piece. The introduction is the reader's first meeting with your ideas. It shou</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Write a Conclusion That Lands the Point</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-write-a-conclusion.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-write-a-conclusion.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to write conclusion paragraphs well matters because the ending is what the reader remembers. A strong conclusion does not just stop. It gathers the</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Use AI for Homework Honestly</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-use-ai-for-homework-honestly.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-use-ai-for-homework-honestly.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to use ai for homework honestly starts with one clear rule: the homework must still be your work. AI can explain, suggest, and check, but it should</description>
+      <title>Pollution: Types, Causes, and What Students Can Do</title>
+      <link>https://easy-lesson-website.vercel.app/blog/pollution-types-and-solutions.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/pollution-types-and-solutions.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Pollution means harmful substances or energy entering the environment faster than nature can absorb them. It is one of the most common topics in geography and s</description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>How to Track Quiz Scores and Actually Improve</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-track-quiz-scores-and-improve.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-track-quiz-scores-and-improve.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Many students take quiz after quiz and never improve, because they never look at the pattern. A score on its own tells you almost nothing. It says you got seven</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Take Good Class Notes (and Actually Use Them)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-take-good-class-notes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-take-good-class-notes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Good class notes are not a transcript of everything the teacher said. They are a record of what mattered, written in a form you can actually use later. Many stu</description>
+      <title>Pattern Spotting: A Skill That Makes Problems Easier</title>
+      <link>https://easy-lesson-website.vercel.app/blog/pattern-spotting-in-problems.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/pattern-spotting-in-problems.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Hard problems often feel brand new, but most of them are old problems wearing disguises. Pattern spotting is the skill of seeing through the disguise. When you </description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>How to Take a Clear Photo of Your Homework for AI Help</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-take-a-clear-photo-of-homework.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-take-a-clear-photo-of-homework.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A clear photo homework ai tool can only explain what it can read. If the image is blurry, tilted, shadowed, or cut off, the tool may misread a number, miss an i</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Summarise a Passage in Your Own Words</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-summarise-a-passage.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-summarise-a-passage.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to summarise a passage is one of the fastest ways to prove you understand it. A summary is a short version of a text that keeps only the main ideas</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Summarise a Chapter in One Page</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-summarise-a-chapter.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-summarise-a-chapter.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to summarise a chapter is one of the most useful study skills you can build. A good summary turns twenty pages of textbook into one page of notes y</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Review Your Notes So You Actually Remember Them</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-review-notes-effectively.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-review-notes-effectively.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Most students treat reviewing notes as rereading them. They open the notebook, read through the pages, close it, and feel prepared. Then the test arrives, and t</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Read a Textbook Effectively (Not Just Page by Page)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-read-a-textbook-effectively.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-read-a-textbook-effectively.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to read a textbook is a skill of its own, and it is very different from reading a story. A story pulls you forward, but a textbook asks you to stop</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Proofread Your Own Work (and Catch Real Errors)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-proofread-your-work.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-proofread-your-work.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to proofread your own work is hard because you already know what you meant to say. Your brain fills in missing words, skips over repeated words, an</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Pronounce Difficult Words with Confidence</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-pronounce-difficult-words.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-pronounce-difficult-words.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every language learner meets words that look like tongue twisters. Long words, words with silent letters, and words whose spelling seems to have nothing to do w</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Plan Homework That Actually Helps Learning</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-plan-homework-that-helps.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-plan-homework-that-helps.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Homework has a simple job: to strengthen what students learned in class. When it does that job, it is one of the most useful tools a teacher has. When it does n</description>
+      <title>Natural Resources Explained: Renewable vs Non-Renewable</title>
+      <link>https://easy-lesson-website.vercel.app/blog/natural-resources-explained.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/natural-resources-explained.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A natural resource is anything from nature that people use. The air you breathe, the water you drink, the wood in your desk, the fuel that heats homes, and the </description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>How to Plan a Revision Lesson Students Enjoy</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-plan-a-revision-lesson.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-plan-a-revision-lesson.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Revision lessons have a reputation problem. Students expect them to mean rereading notes, copying old work, or listening to the teacher repeat everything from t</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>How to Plan a Lesson in 30 Minutes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-plan-a-lesson-in-30-minutes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-plan-a-lesson-in-30-minutes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Thirty minutes is enough to plan a solid lesson, if you have a method and you stick to it. Many teachers spend far longer planning because they start with activ</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>How to Organise Study Notes by Subject and Topic</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-organise-study-notes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-organise-study-notes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Knowing how to organise study notes is not about being tidy for its own sake. It is about being able to find the right page at the moment you need it. Every min</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Make Your Own Quiz from Any Chapter</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-make-your-own-quiz.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-make-your-own-quiz.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Making your own quiz from a chapter is one of the most effective ways to study it. When you write questions, you have to decide what matters, how ideas connect,</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Make Notes from Educational Videos</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-make-notes-from-videos.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-make-notes-from-videos.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to make notes from educational videos is a skill most students were never taught. Videos feel easy to learn from, because watching is effortless. B</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Learn Vocabulary in Context (Not Word Lists)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-learn-vocabulary-in-context.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-learn-vocabulary-in-context.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Word lists feel efficient. You memorise a word, its translation, and move on. But weeks later, many of those words are gone, or you recognise them on a list and</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Improve Speaking Fluency: Small Daily Habits</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-improve-speaking-fluency.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-improve-speaking-fluency.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Fluency is not about speaking fast or never making mistakes. Fluency is about keeping going: finding the words you need, connecting your ideas, and recovering s</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Find Main Idea Paragraph: A Simple Method That Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-find-the-main-idea.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-find-the-main-idea.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning to find main idea paragraph by paragraph is one of the most useful reading skills you can build. Every well-written paragraph makes one main point, and</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Explain Difficult Topics So Students Get It</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-explain-difficult-topics.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-explain-difficult-topics.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every teacher knows the feeling: you explain a topic carefully, the class nods, and then the first practice question shows that almost nobody understood it. The</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Differentiate Lessons for Mixed-Ability Classes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-differentiate-lessons.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-differentiate-lessons.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every class is a mixed-ability class. In any group of students, some will grasp a new idea quickly, some will need more time, and some will need the idea explai</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>How to Choose an AI Study Tool in 2026</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-choose-an-ai-study-tool-2026.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-choose-an-ai-study-tool-2026.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every AI study tool promises to make learning easier, but they are not interchangeable. A comparison guide updated in October 2026 looked at nine AI study tools</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>How to Annotate Text: Notes That Help You Remember</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-annotate-a-text.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-annotate-a-text.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to annotate text turns reading from a passive drift into an active conversation with the page. Annotating means writing on the text as you read: un</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How Teachers Can Use AI Tools to Save Planning Time</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-teachers-can-use-ai-tools.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-teachers-can-use-ai-tools.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Planning is one of the most time-consuming parts of teaching. Turning a topic into a clear lesson, with examples, questions, and activities that fit the student</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Handwritten Notes to Text: How Photo Tools Read Your Writing</title>
-      <link>https://easy-lesson-website.vercel.app/blog/handwritten-notes-photo-to-text.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/handwritten-notes-photo-to-text.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Handwritten notes are personal, flexible, and easy to make during a lesson. They are also easy to lose, hard to search, and sometimes hard to read later. Handwr</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>Giving Feedback Students Actually Use</title>
-      <link>https://easy-lesson-website.vercel.app/blog/giving-feedback-that-students-use.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/giving-feedback-that-students-use.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Teachers spend hours writing feedback that students never read. A long comment at the end of a paper, however thoughtful, often gets the same treatment: a glanc</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Formative Assessment Ideas You Can Use Tomorrow</title>
-      <link>https://easy-lesson-website.vercel.app/blog/formative-assessment-ideas.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/formative-assessment-ideas.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Formative assessment is a plain idea with an unhelpful name. It means finding out what students understand while there is still time to do something about it. N</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>Formal vs Informal Writing: Know the Difference</title>
-      <link>https://easy-lesson-website.vercel.app/blog/formal-vs-informal-writing.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/formal-vs-informal-writing.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Knowing formal informal writing differences helps you choose the right tone for every piece. Tone is the attitude and level of formality in writing. Formal writ</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Fill-in-the-Blank Practice: Recall Without Cues</title>
-      <link>https://easy-lesson-website.vercel.app/blog/fill-in-the-blank-practice.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/fill-in-the-blank-practice.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Fill-in-the-blank practice is one of the purest forms of self-testing. There are no options to choose from, no statements to judge, and no hints hiding in the q</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Exam-Season Mindset: Surviving a Multi-Week Final</title>
-      <link>https://easy-lesson-website.vercel.app/blog/exam-season-mindset-multi-week-finals.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/exam-season-mindset-multi-week-finals.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A multi-week exam season is a marathon, not a sprint. A government statement and news report in October 2026 said final school-leaving examinations commenced sm</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Exam Integrity: Why Honest Preparation Wins</title>
-      <link>https://easy-lesson-website.vercel.app/blog/exam-integrity-why-honest-prep-wins.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/exam-integrity-why-honest-prep-wins.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Exam security is getting stronger, and that is good news for honest students. A news report in October 2026 said that more than 386,000 candidates began nationa</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>English Pronunciation Basics: Sounds, Stress, and Practice</title>
-      <link>https://easy-lesson-website.vercel.app/blog/english-pronunciation-basics.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/english-pronunciation-basics.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Good pronunciation is not about sounding like a native speaker. It is about being understood without strain. When your sounds, stress, and rhythm are clear, lis</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Digital vs Paper Notes: Which Helps You Learn More?</title>
-      <link>https://easy-lesson-website.vercel.app/blog/digital-vs-paper-notes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/digital-vs-paper-notes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>In digital vs paper notes, everyone seems to have a strong opinion. Paper fans say handwriting helps you remember. Digital fans say searchable, backed-up notes </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Descriptive Writing: Show, Don't Just Tell</title>
-      <link>https://easy-lesson-website.vercel.app/blog/descriptive-writing-tips.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/descriptive-writing-tips.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>These descriptive writing tips will help you paint pictures with words. Descriptive writing does more than list facts about a place or person. It helps the read</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Critical Reading Questions to Ask About Any Text You Read</title>
-      <link>https://easy-lesson-website.vercel.app/blog/critical-reading-questions-to-ask.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/critical-reading-questions-to-ask.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Critical reading questions turn you from a passive reader into an active judge of what you read. Most reading asks: what does this text say? Critical reading ad</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Classroom Questioning Techniques That Get Everyone Thinking</title>
-      <link>https://easy-lesson-website.vercel.app/blog/classroom-questioning-techniques.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/classroom-questioning-techniques.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Most classroom questions are answered by the same few students. The teacher asks, two hands go up, one student answers, and the lesson moves on — while the rest</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>How to Check AI Answers for Mistakes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/checking-ai-answers-for-mistakes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/checking-ai-answers-for-mistakes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to check ai answers mistakes is one of the most important study skills in an age of AI tools. AI answers often sound confident, fluent, and complet</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Bullet Notes vs Full Notes: When to Use Each</title>
-      <link>https://easy-lesson-website.vercel.app/blog/bullet-notes-vs-full-notes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/bullet-notes-vs-full-notes.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Most students use one note style for everything: either short bullet points or full written sentences. Both styles have real strengths, and both fail in the wro</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Best Photo Tips for Getting Accurate AI Lesson Help</title>
-      <link>https://easy-lesson-website.vercel.app/blog/best-photo-tips-for-ai-lesson-solver.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/best-photo-tips-for-ai-lesson-solver.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The quality of AI lesson help depends heavily on the quality of the photo you send. A sharp, complete photo leads to a clear, accurate explanation. A blurry, ti</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Animated Lessons and AI Tools for Exam Preparation</title>
-      <link>https://easy-lesson-website.vercel.app/blog/animated-lessons-ai-tools-exam-prep.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/animated-lessons-ai-tools-exam-prep.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Some concepts refuse to make sense on a printed page. A moving diagram, a narrated animation, or a three-dimensional model can make them click in minutes. A pre</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>AI vs Search Engines for Studying: When to Use Each</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-vs-search-engines-for-studying.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-vs-search-engines-for-studying.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>When you sit down to study, you have two powerful helpers: AI tools and search engines. Both can answer questions, but they work in very different ways. Underst</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>AI Summarisers for Long Chapters: Use Them Right</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-summariser-for-long-chapters.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-summariser-for-long-chapters.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A long chapter can feel like a mountain. An ai summariser chapters tool promises to flatten it into a page of key points, and that promise is tempting when time</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>AI Study Tools for Students: A Beginner's Guide</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-study-tools-for-students-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-study-tools-for-students-guide.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>AI study tools students encounter today can explain a difficult paragraph, turn a chapter into practice questions, or help plan a week of revision. Used well, t</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>How to Make an AI-Assisted Study Plan</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-study-planner-make-a-plan.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-study-planner-make-a-plan.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A good study plan turns a large, worrying workload into small, doable sessions. An ai study planner can help you build that plan quickly by dividing topics into</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>AI Quiz Generators for Revision: How to Use Them Well</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-quiz-generators-for-revision.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-quiz-generators-for-revision.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An ai quiz generator revision routine can transform how you prepare. Instead of re-reading notes until the words blur, you test yourself, discover what you actu</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>AI Note Makers: Pros, Cons, and Smart Ways to Use Them</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-note-makers-pros-and-cons.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-note-makers-pros-and-cons.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An ai note maker can turn a long chapter, a messy set of class notes, or a rambling explanation into a tidy outline in seconds. For students who feel buried und</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>AI-Free Exams and Honest Coursework Disclosure: What Students Should Know</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-free-exams-honest-coursework-disclosure.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-free-exams-honest-coursework-disclosure.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Exam halls stay AI-free while coursework asks for honest disclosure. That is the picture emerging from reports in October 2026, and it captures a simple princip</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Using AI to Practise a New Language</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-for-language-learning-practice.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-for-language-learning-practice.html</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Using AI to practise a new language is what ai language learning practice means in daily life: a patient conversation partner who is always available. You can t</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>What Is Democracy? Explained for Students</title>
-      <link>https://easy-lesson-website.vercel.app/blog/what-is-democracy-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/what-is-democracy-explained.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>What is democracy? At its simplest, democracy is a system in which the people have a say in how they are governed. The word comes from old words meaning rule by</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Trade and Economy Basics: Why Countries Exchange Goods</title>
-      <link>https://easy-lesson-website.vercel.app/blog/trade-and-economy-basics-students.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/trade-and-economy-basics-students.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Trade and economy basics start with a simple observation: no person and no place produces everything it needs. A farming village may grow plenty of grain but ha</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>English Tenses Explained Simply with a Timeline</title>
-      <link>https://easy-lesson-website.vercel.app/blog/tenses-explained-simply.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/tenses-explained-simply.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>English tenses tell us when an action happens. They show whether something happened before now, is happening now, or will happen later. Once you see tenses on a</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Teach-Back Revision: Learn by Explaining to Someone Else</title>
-      <link>https://easy-lesson-website.vercel.app/blog/teach-back-method-revision.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/teach-back-method-revision.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Teach-back revision is based on a simple truth: if you can explain an idea clearly, you understand it. If you cannot explain it, you have found a gap. In teach-</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Synonyms and Antonyms: A Practical Vocabulary Builder</title>
-      <link>https://easy-lesson-website.vercel.app/blog/synonyms-antonyms-vocabulary-builder.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/synonyms-antonyms-vocabulary-builder.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Synonyms are words with similar meanings. Antonyms are words with opposite meanings. Learning them together is one of the fastest ways to build vocabulary, beca</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Spaced Repetition Explained: Review Less, Remember More</title>
-      <link>https://easy-lesson-website.vercel.app/blog/spaced-repetition-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/spaced-repetition-explained.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Spaced repetition is one of the simplest and most reliable ways to remember what you study. Instead of reading the same notes again and again in one long sessio</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Solve Textbook Exercises with AI: From Photo to Step-by-Step Solution</title>
-      <link>https://easy-lesson-website.vercel.app/blog/solve-textbook-exercises-with-ai.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/solve-textbook-exercises-with-ai.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>To solve textbook exercises with AI is to follow a short, repeatable path: photograph the exercise, get a step-by-step solution, study the method, and then solv</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Snap and Solve Homework: How Photo Homework Help Actually Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/snap-and-solve-homework.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/snap-and-solve-homework.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The appeal is obvious: homework help arrives in the moment you need it, for the exact question you are stuck on. But the workflow has a few details worth knowin</description>
+      <title>Multi-Step Problems: How to Handle Them Without Getting Lost</title>
+      <link>https://easy-lesson-website.vercel.app/blog/multi-step-problems-how-to-handle.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/multi-step-problems-how-to-handle.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Single-step problems are simple: read, calculate, answer. Multi-step problems are a different animal. They ask you to find an intermediate value, use it in a se</description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>School AI Policies: What Students Should Know in 2026</title>
-      <link>https://easy-lesson-website.vercel.app/blog/school-ai-policies-what-students-should-know.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/school-ai-policies-what-students-should-know.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A few years ago, most schools had no written rules about AI. Teachers handled it case by case, and students guessed at what was allowed. That era is ending. Sch</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Scan and Solve Textbook Questions: A Step-by-Step Guide</title>
-      <link>https://easy-lesson-website.vercel.app/blog/scan-and-solve-textbook-questions.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/scan-and-solve-textbook-questions.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning to scan and solve textbook questions is mostly about one skill: taking a photo the tool can read clearly. The solving part is handled for you. The scan</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Revision Games and Quizzes That Make Review Fun</title>
-      <link>https://easy-lesson-website.vercel.app/blog/revision-games-and-quizzes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/revision-games-and-quizzes.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Revision does not have to feel like a chore. When review becomes a game or a quiz, it gains two things that plain re-reading lacks: a clear goal and instant fee</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Reading Aloud: Fluency Tips for Clearer, Confident Reading</title>
-      <link>https://easy-lesson-website.vercel.app/blog/reading-aloud-fluency-tips.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/reading-aloud-fluency-tips.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Reading aloud is more than saying words on a page. It is about reading smoothly, with natural pace, clear pronunciation, and expression that matches the meaning</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Punctuation Rules Every Student Needs</title>
-      <link>https://easy-lesson-website.vercel.app/blog/punctuation-rules-every-student-needs.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/punctuation-rules-every-student-needs.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Punctuation marks are the traffic signals of writing. They tell the reader when to pause, when to stop, when someone is speaking, and when an idea belongs to so</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Personalised AI Learning: Understanding, Not Just Answers</title>
-      <link>https://easy-lesson-website.vercel.app/blog/personalised-ai-learning-understanding-not-answers.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/personalised-ai-learning-understanding-not-answers.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The fastest way to finish homework with AI is to ask for the answer. The fastest way to learn with AI is to refuse the answer and ask for understanding instead.</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>How to Use Past Papers for Maximum Exam Marks</title>
-      <link>https://easy-lesson-website.vercel.app/blog/past-papers-how-to-use-them.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/past-papers-how-to-use-them.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Past papers are one of the most powerful study tools you have. They show you how questions are asked, how marks are awarded, and how much you can do in the time</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Parts of Speech Explained with Simple Examples</title>
-      <link>https://easy-lesson-website.vercel.app/blog/parts-of-speech-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/parts-of-speech-explained.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every sentence you read or write is built from small building blocks. The parts of speech are the eight jobs that words can do in a sentence. When you know each</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Open-Book Exams: How to Prepare and Score Well</title>
-      <link>https://easy-lesson-website.vercel.app/blog/open-book-exam-tips.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/open-book-exam-tips.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Open-book exams sound easy. You can bring your notes and textbook, so how hard can it be? In reality, open-book exams can be harder than closed-book exams. They</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Multiple-Choice Questions: Strategies That Raise Your Score</title>
-      <link>https://easy-lesson-website.vercel.app/blog/multiple-choice-questions-strategies.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/multiple-choice-questions-strategies.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Multiple-choice questions look simple, but they test more than memory. They test careful reading, reasoning, and time management. Many students lose marks not b</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Mind Maps for Revision: Turn a Chapter into One Page</title>
-      <link>https://easy-lesson-website.vercel.app/blog/mind-maps-for-revision.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/mind-maps-for-revision.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A mind map turns a long chapter into a single page you can see at a glance. Instead of lines of notes that all look alike, a mind map shows one central idea in </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>The Memory Palace Technique for Students, Explained Simply</title>
-      <link>https://easy-lesson-website.vercel.app/blog/memory-palace-technique-students.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/memory-palace-technique-students.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The memory palace technique sounds like a trick, but it is really a practical way to use something you already have: your memory for places. You know the layout</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Maps and Globes: A Student's Guide to Reading Them</title>
-      <link>https://easy-lesson-website.vercel.app/blog/maps-and-globes-basics.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/maps-and-globes-basics.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Maps and globes are tools for understanding where places are and how they relate to each other. A globe shows the world as it really is: a sphere. A map shows t</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Lesson Question Solver for Teachers: Create Practice Sets in Minutes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/lesson-question-solver-for-teachers.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/lesson-question-solver-for-teachers.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A lesson question solver is not only a student tool. In a teacher's hands, it becomes a preparation assistant: a way to turn textbook questions into practice se</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>How to Write a Good Paragraph: Topic Sentence to Conclusion</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-write-a-good-paragraph.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-write-a-good-paragraph.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A good paragraph is a small essay. It makes one clear point, supports it with evidence or explanation, and ends with a sentence that ties the idea together. Whe</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Study History Effectively: Timelines, Causes, and Stories</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-study-history-effectively.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-study-history-effectively.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to study history effectively starts with a simple shift: stop trying to memorize isolated dates, and start looking for the story behind them. Histo</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Revise the Night Before an Exam (Without Panic)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-revise-the-night-before-exam.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-revise-the-night-before-exam.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The night before an exam can feel like the most important night of the year. It is not. By then, most of your learning is already done. What you do that evening</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Revise a Whole Textbook Before an Exam</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-revise-a-whole-textbook.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-revise-a-whole-textbook.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Revising a whole textbook can feel overwhelming. The book is thick, the pages are many, and time feels short. The mistake many students make is to start at page</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Remember Formulas Without Rote Cramming</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-remember-formulas.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-remember-formulas.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Many students try to remember formulas by reading them again and again. That approach feels like work, but it often fails when it matters most. Under pressure, </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Make a Revision Timetable You'll Actually Follow</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-make-a-revision-timetable.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-make-a-revision-timetable.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A revision timetable only works if you actually follow it. Many timetables fail because they are too ambitious: every hour filled, no breaks, no rest days, and </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Answer Long Essay Questions in Exams</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-answer-long-essay-questions.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-answer-long-essay-questions.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Long essay questions can feel overwhelming. You read the question, see a blank page, and wonder where to start. The good news is that strong essay answers are n</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How Governments Work: A Simple Guide for Students</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-governments-work-basics.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-governments-work-basics.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>How governments work can seem complicated, but the basic idea is simple: a government is the system a community uses to make rules, organize shared services, an</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Primary vs Secondary Sources in History</title>
-      <link>https://easy-lesson-website.vercel.app/blog/historical-sources-primary-secondary.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/historical-sources-primary-secondary.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Primary vs secondary sources is one of the most important ideas in history. A primary source comes from someone who was there: a diary, a letter, a photograph, </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>The Goldilocks Zone: Study Material Should Be Just Hard Enough</title>
-      <link>https://easy-lesson-website.vercel.app/blog/goldilocks-zone-study-difficulty.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/goldilocks-zone-study-difficulty.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Every student knows two bad feelings. The first is boredom: the work is so easy that your mind wanders and nothing sticks. The second is overwhelm: the work is </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Free AI Homework Solver: What to Look for (and What to Avoid)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/free-ai-homework-solver-what-to-look-for.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/free-ai-homework-solver-what-to-look-for.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A free AI homework solver can be a genuine study aid — or a waste of time, a privacy risk, or a shortcut that teaches nothing. The word &quot;free&quot; tells you about t</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>Flashcards That Actually Work: Rules for Good Cards</title>
-      <link>https://easy-lesson-website.vercel.app/blog/flashcards-that-work.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/flashcards-that-work.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Flashcards are one of the most popular study tools, but many sets do not work well. Cards that are vague, overloaded, or copied word for word from a textbook of</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Inventions That Changed the World (and How They Worked)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/famous-inventions-that-changed-world.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/famous-inventions-that-changed-world.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Inventions that changed the world share a simple pattern: a problem, a clever solution, and a lasting impact. Someone noticed that moving heavy loads was slow, </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Exam Time Management: Finish Every Paper on Time</title>
-      <link>https://easy-lesson-website.vercel.app/blog/exam-time-management-tips.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/exam-time-management-tips.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Running out of time in an exam is frustrating. You know the material, but the clock beats you. The good news is that exam time management is a skill you can lea</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>A 4-Week Exam Preparation Plan That Actually Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/exam-preparation-plan-4-weeks.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/exam-preparation-plan-4-weeks.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An exam preparation plan works best when it gives you enough time to learn, practise, and review without burning out. Four weeks is a practical window: long eno</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Essay Writing: A Simple Structure That Works Every Time</title>
-      <link>https://easy-lesson-website.vercel.app/blog/essay-writing-structure-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/essay-writing-structure-guide.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Essay writing feels hard when you start with a blank page and no plan. It becomes much easier when you follow a simple structure. Every essay needs an introduct</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Direct and Indirect Speech Explained with Examples</title>
-      <link>https://easy-lesson-website.vercel.app/blog/direct-and-indirect-speech.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/direct-and-indirect-speech.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Direct speech reports the exact words someone said. Indirect speech reports what someone said without repeating the exact words. Learning both forms helps you w</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Dealing with Exam Anxiety: Calm, Practical Techniques</title>
-      <link>https://easy-lesson-website.vercel.app/blog/dealing-with-exam-anxiety.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/dealing-with-exam-anxiety.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Exam anxiety is common. Your heart beats faster, your mind goes blank, your hands feel shaky, or you worry for days before the exam. These feelings do not mean </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>The Cornell Notes Method: A Guide for Students</title>
-      <link>https://easy-lesson-website.vercel.app/blog/cornell-notes-method-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/cornell-notes-method-guide.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The Cornell Notes method is a simple page layout that turns note-taking into revision. Instead of filling a page with lines of notes and never looking at them a</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Answer Comprehension Passages with Confidence</title>
-      <link>https://easy-lesson-website.vercel.app/blog/comprehension-passages-how-to-answer.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/comprehension-passages-how-to-answer.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Comprehension passages test how well you understand what you read. They ask you to find facts, explain ideas, and sometimes share your own view based on the tex</description>
+      <title>Mountains and Volcanoes Explained for Students</title>
+      <link>https://easy-lesson-website.vercel.app/blog/mountains-and-volcanoes-explained.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/mountains-and-volcanoes-explained.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Mountains and volcanoes are two of the most dramatic features on Earth, and they appear constantly in geography homework. Although they can look similar from a </description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>Climate vs Weather: What's the Difference?</title>
-      <link>https://easy-lesson-website.vercel.app/blog/climate-and-weather-basics.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/climate-and-weather-basics.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Climate vs weather is a common source of confusion, but the difference is simple: weather is what is happening in the air right now or over the next few days, w</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Citizenship: Rights and Responsibilities Explained</title>
-      <link>https://easy-lesson-website.vercel.app/blog/citizenship-rights-responsibilities.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/citizenship-rights-responsibilities.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Citizenship means belonging to a community and taking part in its shared life. A citizen is not just someone who lives in a place; it is someone who has both ri</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Browser AI Tools for Student Research: Quizzes, Tabs, Reading Help</title>
-      <link>https://easy-lesson-website.vercel.app/blog/browser-ai-tools-for-student-research.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/browser-ai-tools-for-student-research.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Most student research starts the same way: a browser, a search box, and a rapidly growing pile of open tabs. By the end of a research session, you may have twen</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>The Blurting Method: A Fast Way to Find Knowledge Gaps</title>
-      <link>https://easy-lesson-website.vercel.app/blog/blurting-method-revision.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/blurting-method-revision.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The blurting method is one of the fastest ways to find out what you really know. The idea is simple: take a blank page, write down everything you remember about</description>
+      <title>Logical Reasoning Basics for Students</title>
+      <link>https://easy-lesson-website.vercel.app/blog/logical-reasoning-basics.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/logical-reasoning-basics.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Logical reasoning sounds like something only scientists and lawyers use, but you use it every day. Every time you decide whether a claim makes sense, notice tha</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>Ancient Civilizations: A Beginner's Overview</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ancient-civilizations-overview.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ancient-civilizations-overview.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Ancient civilizations were the first large, organized societies in which thousands of people lived together under shared rules, with cities, farms, trade, and w</description>
+      <title>Labelled Diagrams: How to Draw and Label Them Correctly</title>
+      <link>https://easy-lesson-website.vercel.app/blog/labelled-diagrams-how-to-draw.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/labelled-diagrams-how-to-draw.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>In many exams, a labelled diagram question is free marks waiting to be collected, or marks quietly lost. The difference is rarely artistic talent. Examiners rew</description>
       <category>How-To Guides</category>
     </item>
     <item>
-      <title>AI Tutor App vs Human Tutor: When to Use Each</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-tutor-app-vs-human-tutor.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-tutor-app-vs-human-tutor.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An AI tutor app and a human tutor both help learners, but they help in different ways. An AI tutor app is fast, always available, and patient with repetition. A</description>
-      <category>AI Study Tools</category>
+      <title>How to Visualise Maths Problems Before Solving Them</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-visualise-maths-problems.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-visualise-maths-problems.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most maths mistakes do not come from weak arithmetic. They come from a weak picture of the problem. Students read a word problem once, grab the numbers they see</description>
+      <category>How-To Guides</category>
     </item>
     <item>
-      <title>AI Study Tools Are Moving Inside Your Textbook Platform</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-study-tools-inside-textbooks-2026.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-study-tools-inside-textbooks-2026.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>For years, AI study help lived in a separate app or website. You read your textbook in one place, then opened another tool to summarise it, quiz yourself, or ex</description>
-      <category>AI Study Tools</category>
+      <title>How to Use a Dictionary Effectively (Beyond Definitions)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-use-a-dictionary-effectively.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-use-a-dictionary-effectively.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most students open a dictionary, read the first definition, and close it. That habit wastes most of what a dictionary offers. A good entry is a small toolkit: p</description>
+      <category>How-To Guides</category>
     </item>
     <item>
-      <title>AI Study Helper: Turn Textbook Photos into Notes and Quizzes</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-study-helper-notes-quizzes.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-study-helper-notes-quizzes.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An AI study helper does more than solve exercises. It turns a photo of a textbook page into the two study materials that matter most for revision: short, clear </description>
+      <title>How to Show Your Working (and Earn Method Marks)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-show-your-working.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-show-your-working.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Two students get the same wrong final answer. One scores near zero; the other scores most of the available marks. The difference is the working. Examiners award</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>How to Read a Weather Map</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-read-a-weather-map.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-read-a-weather-map.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Weather maps look like a secret code at first: strange symbols, curved lines, red and blue squiggles. But every symbol on a weather map has one job, which is to</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>How to Learn Idioms and Phrases That Sound Natural</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-learn-idioms-and-phrases.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-learn-idioms-and-phrases.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every student has met the student who drops idioms into every sentence and sounds slightly robotic. That is what happens when idioms are learned from lists: mem</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>AI Revision Tools That Only Use Your Course Materials</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-revision-tools-only-course-materials.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-revision-tools-only-course-materials.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Ask a general AI chatbot a study question and you will get a fluent answer. The problem is that the answer may come from anywhere: a different textbook, a diffe</description>
+      <title>How to Draw a Map for Geography Class</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-draw-a-map-for-geography.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-draw-a-map-for-geography.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Drawing maps is a core geography skill, and it is one of the easiest ways to earn full marks. A clean, well-labelled map shows the examiner that you understand </description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>How to Draw a Flowchart for Any Process</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-draw-a-flowchart-for-a-process.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-draw-a-flowchart-for-a-process.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Processes are everywhere in study: how water moves through a plant, how to solve an equation, how raw material becomes a finished product. Reading about a proce</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>How to Check If Your Answer Makes Sense</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-check-if-your-answer-makes-sense.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-check-if-your-answer-makes-sense.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most lost marks do not come from not knowing the material. They come from small, silly mistakes: a decimal in the wrong place, an answer in the wrong units, a r</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Build Vocabulary Fast (and Keep the Words)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-build-vocabulary-fast.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-build-vocabulary-fast.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every student knows the feeling. You memorise twenty words for a test, score well, and two weeks later the words are gone. That is not a memory problem. It is a</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Approach Questions You've Never Seen Before</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-approach-unfamiliar-questions.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-approach-unfamiliar-questions.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every student knows the feeling: you turn the page, read the question, and your mind goes blank. Nothing looks familiar. The topic is one you studied, but the q</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>Homophones and Commonly Confused Words, Cleared Up</title>
+      <link>https://easy-lesson-website.vercel.app/blog/homophones-commonly-confused-words.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/homophones-commonly-confused-words.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Some English words sound exactly alike but mean different things and are spelled differently — and they are responsible for an outsized share of student writing</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>Handwritten Notes Beat Typed Notes: A Practical Guide for Students</title>
+      <link>https://easy-lesson-website.vercel.app/blog/handwritten-notes-better-than-typed.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/handwritten-notes-better-than-typed.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Laptops in lectures feel efficient — you can capture nearly every word. Yet a growing number of educators are questioning that efficiency. In October 2026 repor</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Graphs and Charts: A Student's Guide to Reading Them</title>
+      <link>https://easy-lesson-website.vercel.app/blog/graphs-and-charts-reading-guide.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/graphs-and-charts-reading-guide.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Charts appear in every subject: science experiments, geography data, economics trends, even history statistics. Yet most students read them backwards, staring a</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>Estimation Skills: Check Answers Before You Trust Them</title>
+      <link>https://easy-lesson-website.vercel.app/blog/estimation-skills-for-students.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/estimation-skills-for-students.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Here is a painful but common story: a student solves a problem carefully, writes down an answer, and never notices that the answer is impossible — a person's he</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Ecosystems Around the World: Deserts to Rainforests</title>
+      <link>https://easy-lesson-website.vercel.app/blog/ecosystems-around-the-world.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ecosystems-around-the-world.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>An ecosystem is a community of living things plus the non-living environment they interact with: the soil, water, air, and climate of a place. From frozen lands</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>Diagrams for Studying: Draw Your Way to Understanding</title>
+      <link>https://easy-lesson-website.vercel.app/blog/diagrams-for-studying-guide.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/diagrams-for-studying-guide.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most students study the same way: read a page, reread it, and hope it sticks. It feels like work, but the words often slide straight past the brain. Diagrams fo</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>Continents and Oceans: A Beginner's Map Guide</title>
+      <link>https://easy-lesson-website.vercel.app/blog/continents-and-oceans-basics.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/continents-and-oceans-basics.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every map question starts from the same foundation: the seven continents and the five oceans. Students who can place them confidently find the rest of geography</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>Concept Maps Explained: Connect Ideas, Don't Just List Them</title>
+      <link>https://easy-lesson-website.vercel.app/blog/concept-maps-explained.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/concept-maps-explained.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most study notes are lists: point one, point two, point three. Lists are tidy, but they hide the most important thing, which is how the points relate to each ot</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Comparison Charts for Revision: See Differences at a Glance</title>
+      <link>https://easy-lesson-website.vercel.app/blog/comparison-charts-for-revision.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/comparison-charts-for-revision.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every subject has pairs that students mix up: two similar processes, two related terms, two historical events that blur together. Rereading the textbook rarely </description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Common Grammar Mistakes Students Make (and How to Fix Them)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/common-grammar-mistakes-students.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/common-grammar-mistakes-students.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Grammar mistakes cost marks in every subject that involves writing, which is nearly all of them. The frustrating part is that most students keep making the same</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>Colour-Coding Notes: A System That Actually Helps</title>
+      <link>https://easy-lesson-website.vercel.app/blog/colour-coding-notes-effectively.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/colour-coding-notes-effectively.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Highlighters are the most popular and most misused study tool in the world. Many students colour every other line until the page glows like a traffic light — an</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Climate Zones Explained: From Tropics to Poles</title>
+      <link>https://easy-lesson-website.vercel.app/blog/climate-zones-explained.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/climate-zones-explained.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Why is it hot at the equator and freezing at the poles? Why do some places have four seasons while others have wet and dry seasons instead? The answers come fro</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>Beating the AI Outsourcing Effect: A Study Method That Keeps Learning Yours</title>
+      <link>https://easy-lesson-website.vercel.app/blog/beating-ai-outsourcing-study-method.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/beating-ai-outsourcing-study-method.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A recent thirty-month study of more than 26,000 students delivered an uncomfortable message: students who let AI do their homework finished faster and scored hi</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Articles A, An, and The: Rules That Finally Make Sense</title>
+      <link>https://easy-lesson-website.vercel.app/blog/articles-a-an-the-explained.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/articles-a-an-the-explained.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Articles are tiny words that cause enormous trouble. A, an, and the look simple, but students whose first language handles definiteness differently find them ge</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>What a 30-Month Study of 26,000+ Students Found About AI Homework</title>
+      <link>https://easy-lesson-website.vercel.app/blog/ai-homework-study-26k-students-findings.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-homework-study-26k-students-findings.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A recent large-scale research study is making students rethink how they use AI for homework. Over thirty months, researchers tracked more than 26,000 secondary-</description>
       <category>AI Study Tools</category>
     </item>
     <item>
-      <title>AI in Higher Education: Teaching, Assessment, and Human Mentorship</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-in-higher-education-teaching-assessment.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-in-higher-education-teaching-assessment.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Higher education is where AI's biggest questions meet its most practical tests. Universities and colleges teach the students who will use AI in their careers, a</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>AI Handbooks for Students: Learning Computational Thinking Step by Step</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-handbooks-for-students-computational-thinking.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-handbooks-for-students-computational-thinking.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Two of the most useful skills a student can learn today have nothing to do with memorising facts. The first is understanding what AI can and cannot do. The seco</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>AI Grading Tools: How They Work and What They Mean for You</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-grading-tools-how-they-work.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-grading-tools-how-they-work.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>When students hear that AI can grade work, many imagine a robot handing out marks with no human involved. The reality reported in October 2026 is more measured.</description>
-      <category>For Teachers</category>
-    </item>
-    <item>
-      <title>AI Courses Are Coming to Schools: What Students Will Learn</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-courses-coming-to-schools-what-you-will-learn.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-courses-coming-to-schools-what-you-will-learn.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>For most students, AI has arrived informally: a chatbot here, a study tool there, a teacher's warning about plagiarism somewhere in between. That patchwork is a</description>
+      <title>The AI Homework Debate: Why Teachers Worry About Learning vs Output</title>
+      <link>https://easy-lesson-website.vercel.app/blog/ai-homework-debate-teachers-vs-output.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-homework-debate-teachers-vs-output.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A debate about AI and homework is spreading across classrooms and social feeds this month. A former teacher's video about why she was leaving the profession, re</description>
       <category>AI Study Tools</category>
     </item>
     <item>
-      <title>After the Exam: Review, Learn, and Move On</title>
-      <link>https://easy-lesson-website.vercel.app/blog/after-the-exam-what-to-do.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/after-the-exam-what-to-do.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>After the exam, your mind keeps going. You replay questions, worry about mistakes, and compare answers with others. This post-exam spiral is common, but it does</description>
+      <title>Active Reading in the AI Age: How to Really Read, Not Just Skim</title>
+      <link>https://easy-lesson-website.vercel.app/blog/active-reading-ai-age-guide.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/active-reading-ai-age-guide.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Reading a summary feels like learning, but it often is not. This week's education news carried two reminders of that gap: some academic programs now check readi</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>Active vs Passive Voice: When to Use Each</title>
-      <link>https://easy-lesson-website.vercel.app/blog/active-vs-passive-voice.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/active-vs-passive-voice.html</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Active voice and passive voice are two ways to describe the same action. In active voice, the subject performs the action. In passive voice, the subject receive</description>
-      <category>How-To Guides</category>
+      <title>Why Showing Your Reasoning Beats Just Giving the Answer</title>
+      <link>https://easy-lesson-website.vercel.app/blog/why-showing-your-reasoning-beats-the-answer.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/why-showing-your-reasoning-beats-the-answer.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>For a long time, many students learned one rule: the answer is what counts. Get the right number, the right choice, the right final sentence, and you are done. </description>
+      <category>Study Tips</category>
     </item>
     <item>
-      <title>How to Solve Word Problems in Homework, Step by Step</title>
-      <link>https://easy-lesson-website.vercel.app/blog/word-problems-homework-step-by-step.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/word-problems-homework-step-by-step.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Word problems can feel like a trick. You understand the maths, but the words make it hard to see what to do. If you want to solve word problems homework in a ca</description>
+      <title>Why Practice Beats Re-reading (and How to Practise Right)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/why-practice-beats-rereading.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/why-practice-beats-rereading.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Re-reading feels like studying. The page looks familiar, the words flow easily, and by the third pass you feel you know the chapter. Then the test asks you to r</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>When (and How) to Ask for Help While Studying</title>
+      <link>https://easy-lesson-website.vercel.app/blog/when-to-ask-for-help-studying.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/when-to-ask-for-help-studying.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Many students treat asking for help as a last resort, something to do only after hours of silent struggle. That habit costs time, confidence, and marks. The str</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>What to Do When You Don't Understand the Lesson</title>
+      <link>https://easy-lesson-website.vercel.app/blog/what-to-do-when-you-dont-understand.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/what-to-do-when-you-dont-understand.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Not understanding a lesson is not a sign that you are a bad student. It is a normal part of learning, and it happens to everyone, including top students. New id</description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>Why Copying AI Answers Hurts Learning (Even When Homework Scores Rise)</title>
-      <link>https://easy-lesson-website.vercel.app/blog/why-copying-ai-answers-hurts-learning.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/why-copying-ai-answers-hurts-learning.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Copying AI answers feels like winning. The homework is done, the answer looks perfect, and the score comes back high. But a recent study reported in October 202</description>
+      <title>What to Do When Studying Feels Pointless</title>
+      <link>https://easy-lesson-website.vercel.app/blog/what-to-do-when-study-feels-pointless.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/what-to-do-when-study-feels-pointless.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Almost every student hits a moment when studying feels pointless. You open the book, stare at the page, and a voice in your head asks: why am I even doing this?</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>The Water Cycle Explained: Evaporation to Rainfall</title>
-      <link>https://easy-lesson-website.vercel.app/blog/water-cycle-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/water-cycle-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The water cycle explained simply is the endless journey of water as it moves between the Earth and the sky. The same water that falls as rain today may once hav</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Verify Every AI Answer: AI Invents Facts and Citations</title>
-      <link>https://easy-lesson-website.vercel.app/blog/verify-ai-answers-fake-citations.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/verify-ai-answers-fake-citations.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>You should verify AI answers every single time you use them, because AI can invent facts and citations that look completely real. This is not a rare glitch. A u</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Use AI for Homework Without Losing Your Learning</title>
-      <link>https://easy-lesson-website.vercel.app/blog/use-ai-for-homework-without-losing-learning.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/use-ai-for-homework-without-losing-learning.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Knowing how to use AI for homework is now one of the most important study skills you can build. Used badly, AI does your work for you and leaves you weaker for </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How University Students Actually Use AI — and How to Use It Honestly</title>
-      <link>https://easy-lesson-website.vercel.app/blog/university-students-ai-use-honest-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/university-students-ai-use-honest-guide.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>University students use AI at a rate that surprises even people who follow this topic closely. A university survey reported in October 2026 found that 95% of su</description>
+      <title>What the Best AI Study Tools in 2026 Have in Common</title>
+      <link>https://easy-lesson-website.vercel.app/blog/what-good-ai-study-tools-have-in-common.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/what-good-ai-study-tools-have-in-common.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>There are more AI study tools than ever, and choosing between them has become a study task of its own. A roundup published in October 2026 compared nine AI stud</description>
       <category>AI Study Tools</category>
     </item>
     <item>
-      <title>Turn Your Notes Into Video Lessons with AI: A Revision Trend</title>
-      <link>https://easy-lesson-website.vercel.app/blog/turn-notes-into-video-lessons-ai.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/turn-notes-into-video-lessons-ai.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Turning notes into video lessons with AI is one of the newest revision trends, and it is easy to see why students like it. You take the notes you already made —</description>
+      <title>What a Good Beginner AI Course Actually Teaches</title>
+      <link>https://easy-lesson-website.vercel.app/blog/what-a-good-beginner-ai-course-teaches.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/what-a-good-beginner-ai-course-teaches.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>AI courses are everywhere now, and they are not all equal. Some teach real skills you can use the next day. Others teach hype, vague inspiration, and little you</description>
       <category>AI Study Tools</category>
     </item>
     <item>
-      <title>Too Much Homework? How to Cope Without Burning Out</title>
-      <link>https://easy-lesson-website.vercel.app/blog/too-much-homework-how-to-cope.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/too-much-homework-how-to-cope.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>When homework piles up, it is easy to feel buried. The list grows, the deadlines get closer, and every task feels urgent. If you are dealing with too much homew</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Learn Faster with Worked Examples Before Solving Alone</title>
-      <link>https://easy-lesson-website.vercel.app/blog/study-with-examples-worked-examples.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/study-with-examples-worked-examples.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Worked examples studying means studying a fully solved problem before you try solving one on your own. Instead of jumping straight into practice questions and s</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Build a Study Routine That Sticks</title>
-      <link>https://easy-lesson-website.vercel.app/blog/study-routine-for-school-students.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/study-routine-for-school-students.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A study routine for students works best when it is small, daily, and easy to repeat. Most routines fail not because students lack discipline, but because the ro</description>
+      <title>A Weekend Study Plan That Leaves Room for Rest</title>
+      <link>https://easy-lesson-website.vercel.app/blog/weekend-study-plan-guide.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/weekend-study-plan-guide.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Weekends should feel different from weekdays. They should include rest, family, hobbies, and time to breathe. They should also keep learning from slipping away </description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>States of Matter Explained: Solids, Liquids, and Gases</title>
-      <link>https://easy-lesson-website.vercel.app/blog/states-of-matter-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/states-of-matter-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>States of matter explained simply come down to one idea: the same material can behave very differently depending on how its particles are arranged and how much </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Solving Linear Equations Step by Step</title>
-      <link>https://easy-lesson-website.vercel.app/blog/solving-linear-equations-step-by-step.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/solving-linear-equations-step-by-step.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Solving linear equations is a puzzle with a single unknown, and the balance method is the reliable way to solve it. The idea is simple: an equation is like a ba</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>The Solar System Explained: Planets, Orbits, and Key Facts</title>
-      <link>https://easy-lesson-website.vercel.app/blog/solar-system-planets-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/solar-system-planets-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The solar system explained simply is this: one star, the Sun, holds eight planets in orbit around it by gravity, along with moons, asteroids, and comets. The pl</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Should AI Write Your Essay? The Honest Costs</title>
-      <link>https://easy-lesson-website.vercel.app/blog/should-ai-write-your-essay.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/should-ai-write-your-essay.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Should AI write your essay? The temptation is real. You are staring at a blank page, the deadline is close, and a tool can produce a finished essay in under a m</description>
+      <title>Understanding vs Memorising: Know Which One You Need</title>
+      <link>https://easy-lesson-website.vercel.app/blog/understanding-vs-memorising.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/understanding-vs-memorising.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Students often study every topic the same way: read, re-read, highlight, hope. Then they are surprised when that method works brilliantly for one subject and fa</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>Try First, Then Check: Retrieval Practice Before Looking at Answers</title>
-      <link>https://easy-lesson-website.vercel.app/blog/retrieval-practice-before-checking-answers.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/retrieval-practice-before-checking-answers.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Retrieval practice students can use every day starts with a simple rule: try first, then check. Before you look at the answer, the solution, or your notes, atte</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Ratios and Proportions Explained with Everyday Examples</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ratios-and-proportions-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ratios-and-proportions-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Ratios and proportions are two of the most practical ideas in maths. A ratio compares two quantities. A proportion says two ratios are equal. Those two sentence</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Pythagoras' Theorem Explained with a Simple Diagram</title>
-      <link>https://easy-lesson-website.vercel.app/blog/pythagoras-theorem-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/pythagoras-theorem-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Pythagoras theorem explained with a picture is one of the most useful lessons in all of geometry. It connects the three sides of a right triangle with a single </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>The Pomodoro Technique for Homework: A Simple Focus Timer That Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/pomodoro-technique-for-homework.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/pomodoro-technique-for-homework.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The pomodoro technique for homework turns a big, dreaded pile of assignments into small, manageable rounds. You work in focused blocks of about twenty-five minu</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Photosynthesis Explained Simply: How Plants Make Food</title>
-      <link>https://easy-lesson-website.vercel.app/blog/photosynthesis-explained-simply.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/photosynthesis-explained-simply.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Photosynthesis explained in the simplest way is this: plants make their own food using sunlight, water, and carbon dioxide. While animals must find and eat food</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Percentages Made Easy: From Fractions to Real-Life Problems</title>
-      <link>https://easy-lesson-website.vercel.app/blog/percentages-made-easy.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/percentages-made-easy.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Percentages made easy start with one idea: &quot;percent&quot; literally means &quot;per hundred&quot;, so 25% means 25 out of every 100. Once that idea clicks, every percentage pr</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Negative Numbers Made Simple: Rules That Actually Make Sense</title>
-      <link>https://easy-lesson-website.vercel.app/blog/negative-numbers-made-simple.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/negative-numbers-made-simple.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Negative numbers explained with a number line become far less confusing. Negative numbers often seem to break the rules of ordinary arithmetic: how can you subt</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Most Teens Now Use AI for Schoolwork: What the Survey Means for You</title>
-      <link>https://easy-lesson-website.vercel.app/blog/most-teens-use-ai-for-schoolwork-survey.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/most-teens-use-ai-for-schoolwork-survey.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Teens use AI for schoolwork at a scale that would have seemed impossible just a few years ago. A recent survey reported in October 2026 found that 70% of teens </description>
+      <title>Turn Your Slides Into Short Video Lessons</title>
+      <link>https://easy-lesson-website.vercel.app/blog/turn-slides-into-short-video-lessons.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/turn-slides-into-short-video-lessons.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Slide decks hold a lot of information, but slides alone can be hard to learn from. Headings, bullet points, and charts often assume that someone is there to exp</description>
       <category>AI Study Tools</category>
     </item>
     <item>
-      <title>Mean, Median, and Mode Explained with Simple Data</title>
-      <link>https://easy-lesson-website.vercel.app/blog/mean-median-mode-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/mean-median-mode-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Mean median mode sounds like one topic, but it is really three different ways to answer the same question: &quot;What is a typical value in this data?&quot; Students ofte</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Interleaving: Why Mixing Problem Types Makes You Learn Faster</title>
-      <link>https://easy-lesson-website.vercel.app/blog/interleaving-practice-mixed-problems.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/interleaving-practice-mixed-problems.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Interleaving practice means mixing different types of problems in one study session instead of doing all of one type before moving to the next. For example, ins</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>The Human Digestive System Explained Step by Step</title>
-      <link>https://easy-lesson-website.vercel.app/blog/human-digestive-system-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/human-digestive-system-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The human digestive system explained as a journey is one of the easiest ways to learn biology. Food enters the mouth, travels down a long tube, is broken into s</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>How to Study Effectively Without Cramming</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-study-effectively-without-cramming.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-study-effectively-without-cramming.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Learning how to study effectively is less about studying longer and more about studying smarter. Cramming the night before a test can feel productive because th</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Start Homework When You Feel Stuck</title>
-      <link>https://easy-lesson-website.vercel.app/blog/how-to-start-homework-when-stuck.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-start-homework-when-stuck.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Staring at a blank page is often harder than the homework itself. You know what to do, yet you cannot seem to begin. If you want to learn how to start homework </description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>How to Do Homework When You Missed the Lesson</title>
-      <link>https://easy-lesson-website.vercel.app/blog/homework-when-you-missed-the-lesson.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/homework-when-you-missed-the-lesson.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Missing a lesson can make homework feel impossible. Everyone else seems to know what to do, and you are starting from behind. If you are facing missed lesson ho</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Homework Solver AI: A Student's Guide to Faster, Honest Homework Help</title>
-      <link>https://easy-lesson-website.vercel.app/blog/homework-solver-ai-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/homework-solver-ai-guide.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A homework solver AI can make homework faster, clearer, and less stressful. It can explain a step you missed, show you a cleaner way to set out your working, an</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>How to Organise Homework with a Simple Planner</title>
-      <link>https://easy-lesson-website.vercel.app/blog/homework-planner-organise-assignments.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/homework-planner-organise-assignments.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A messy homework pile creates stress even before you start working. You forget what is due, you start the wrong task, and you discover an urgent assignment too </description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Common Homework Mistakes and How to Fix Them</title>
-      <link>https://easy-lesson-website.vercel.app/blog/homework-mistakes-and-how-to-fix.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/homework-mistakes-and-how-to-fix.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Everyone makes homework mistakes. The difference between students who improve and students who repeat the same errors is not talent. It is how they treat mistak</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Get Homework Help Without Copying Answers</title>
-      <link>https://easy-lesson-website.vercel.app/blog/homework-help-without-copying-answers.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/homework-help-without-copying-answers.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>There is a big difference between getting help and copying an answer. Help teaches you how to solve the problem. Copying gives you a finished answer but leaves </description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>A Parent's Guide to Homework Help That Builds Independence</title>
-      <link>https://easy-lesson-website.vercel.app/blog/homework-help-for-parents-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/homework-help-for-parents-guide.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Homework time can become a nightly battle. Parents want to help, children want to finish, and everyone ends up frustrated. The good news is that the best homewo</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Fractions Explained Simply: Parts, Wholes, and Easy Examples</title>
-      <link>https://easy-lesson-website.vercel.app/blog/fractions-explained-simply.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/fractions-explained-simply.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Fractions explained simply start with one picture: a part of a whole. in recipes, in measurements, in test scores, and in everyday sharing. Yet many students fi</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Forces and Motion Basics: Push, Pull, and Friction</title>
-      <link>https://easy-lesson-website.vercel.app/blog/forces-and-motion-basics.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/forces-and-motion-basics.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Forces and motion basics start with something you already know from everyday life: things move when they are pushed or pulled, and they stop when something hold</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Electric Circuits Explained: What Makes a Bulb Light Up</title>
-      <link>https://easy-lesson-website.vercel.app/blog/electricity-circuits-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/electricity-circuits-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Electric circuits explained simply start with one key idea: electricity needs a complete loop to flow. A battery pushes electric current around a loop of wire, </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Explain It to Learn It: The Elaboration Technique</title>
-      <link>https://easy-lesson-website.vercel.app/blog/elaboration-technique-explain-to-learn.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/elaboration-technique-explain-to-learn.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Elaboration technique studying means learning by asking why and how, and by explaining ideas in your own words. Instead of memorising a fact and moving on, you </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>Ecosystems and Food Chains Explained</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ecosystems-food-chains-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ecosystems-food-chains-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Ecosystems and food chains explained simply start with one question: who eats whom? In every habitat, living things are connected by feeding. Plants make their </description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Layers of the Earth Explained: Crust, Mantle, and Core</title>
-      <link>https://easy-lesson-website.vercel.app/blog/earth-layers-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/earth-layers-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Layers of the Earth explained simply start with a familiar comparison: the Earth is like an onion, made of layers stacked one inside another. From the outside i</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Dual Coding: Combine Words and Pictures to Remember More</title>
-      <link>https://easy-lesson-website.vercel.app/blog/dual-coding-words-and-pictures.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/dual-coding-words-and-pictures.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The dual coding study technique is simple: combine words and pictures when you learn. Instead of relying on written notes alone, you add a diagram, a sketch, a </description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Do Homework Faster Without Rushing</title>
-      <link>https://easy-lesson-website.vercel.app/blog/do-homework-faster-without-rushing.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/do-homework-faster-without-rushing.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Doing homework faster does not mean rushing. Rushing creates errors, gaps, and stress. Real speed comes from removing wasted time, not from skipping thinking. I</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Deep Work Study Sessions: How to Focus for an Hour Without Distractions</title>
-      <link>https://easy-lesson-website.vercel.app/blog/deep-work-study-sessions.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/deep-work-study-sessions.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Deep work studying means giving one task your full attention for a set period, with no switching, no messages, and no background browsing. It is the opposite of</description>
-      <category>Study Tips</category>
-    </item>
-    <item>
-      <title>How to Check Your Homework Answers the Right Way</title>
-      <link>https://easy-lesson-website.vercel.app/blog/check-homework-answers-the-right-way.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/check-homework-answers-the-right-way.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Many students check homework by looking at the final answer and moving on. If the final answer looks right, they assume the work is right. If it looks wrong, th</description>
-      <category>Homework Help</category>
-    </item>
-    <item>
-      <title>Angles Explained: Types, Measuring, and Simple Rules</title>
-      <link>https://easy-lesson-website.vercel.app/blog/basic-geometry-angles-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/basic-geometry-angles-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>This angles explained geometry guide starts with a simple idea: an angle is a measure of a turn between two lines that meet at a point. Angles are measured in d</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Area and Perimeter: A Clear Guide with Worked Examples</title>
-      <link>https://easy-lesson-website.vercel.app/blog/area-and-perimeter-guide.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/area-and-perimeter-guide.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Area and perimeter are two of the most confused ideas in maths, and the confusion is understandable: both describe a shape, and both use its side lengths. But t</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>Algebra for Beginners: What Variables Really Mean</title>
-      <link>https://easy-lesson-website.vercel.app/blog/algebra-for-beginners-variables.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/algebra-for-beginners-variables.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Algebra for beginners starts with one idea: algebra is really just arithmetic with one twist — sometimes a number is unknown, and we use a letter to stand in fo</description>
-      <category>How-To Guides</category>
-    </item>
-    <item>
-      <title>AI Tutors That Explain Step by Step: The Right Way to Use Them</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-tutors-step-by-step-guidance.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-tutors-step-by-step-guidance.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>AI tutors step by step through a problem are one of the best uses of AI in education — when they are used the right way. The difference between a tutor and an a</description>
+      <title>Turn Your Course Materials Into Summaries, Audio, and Quizzes</title>
+      <link>https://easy-lesson-website.vercel.app/blog/turn-course-materials-into-summaries-podcasts-quizzes.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/turn-course-materials-into-summaries-podcasts-quizzes.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>One chapter, studied three ways, beats three chapters skimmed once. That is the idea behind a study hub announced in October 2026 by a major course-materials pr</description>
       <category>AI Study Tools</category>
     </item>
     <item>
-      <title>AI Homework Scores Up, Exam Scores Down: What the New Study Really Means</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-homework-scores-up-exam-scores-down.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-homework-scores-up-exam-scores-down.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>AI homework scores are climbing in classrooms where students use generative AI, yet exam scores are falling — and a recent study reported in October 2026 says b</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>AI Homework Agents That Do Assignments for You: Why Not</title>
-      <link>https://easy-lesson-website.vercel.app/blog/ai-homework-agents-that-do-assignments.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/ai-homework-agents-that-do-assignments.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>AI homework agents are a new and troubling step beyond ordinary AI chatbots. A product reported in early 2026 was described as an AI agent with a virtual comput</description>
-      <category>AI Study Tools</category>
-    </item>
-    <item>
-      <title>Active Recall: The Study Method That Actually Builds Memory</title>
-      <link>https://easy-lesson-website.vercel.app/blog/active-recall-study-method-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/active-recall-study-method-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>The active recall study method is one of the simplest and most reliable ways to build lasting memory. Instead of rereading notes and hoping the information stic</description>
+      <title>Study Buddies: Benefits, Rules, and How to Find One</title>
+      <link>https://easy-lesson-website.vercel.app/blog/study-buddy-benefits-and-rules.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/study-buddy-benefits-and-rules.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Studying alone has its place, but studying with the right partner can make learning faster, steadier, and far less lonely. A study buddy is not just someone you</description>
       <category>Study Tips</category>
     </item>
     <item>
-      <title>Acids and Bases Explained: The pH Scale in Plain Words</title>
-      <link>https://easy-lesson-website.vercel.app/blog/acids-and-bases-explained.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/acids-and-bases-explained.html</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Acids and bases explained in plain words come down to a simple scale and a few everyday examples. Acids taste sour and can sting, bases feel slippery and taste </description>
-      <category>How-To Guides</category>
+      <title>Student Time Management: A Simple System That Works</title>
+      <link>https://easy-lesson-website.vercel.app/blog/student-time-management-basics.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/student-time-management-basics.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most students do not have a time problem. They have a planning problem. The hours are there, but without a plan they slip away into scrolling, vague intentions,</description>
+      <category>Study Tips</category>
     </item>
     <item>
-      <title>Textbook Exercise Solver: Solve Any Exercise from a Photo</title>
-      <link>https://easy-lesson-website.vercel.app/blog/textbook-exercise-solver-photo.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/textbook-exercise-solver-photo.html</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <description>A textbook exercise solver does one job well: it takes a photo of an exercise from your textbook and turns it into a clear, step-by-step solution you can actual</description>
+      <title>Starting With AI From Zero: A Beginner's First Steps</title>
+      <link>https://easy-lesson-website.vercel.app/blog/starting-with-ai-from-zero-awareness-gap.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/starting-with-ai-from-zero-awareness-gap.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>If you have never used an AI tool for studying, you are not behind. You are in large company. In one survey reported in October 2026, of more than five thousand</description>
+      <category>AI Study Tools</category>
+    </item>
+    <item>
+      <title>Screen Time and Study: Finding a Balance That Works</title>
+      <link>https://easy-lesson-website.vercel.app/blog/screen-time-and-study-balance.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/screen-time-and-study-balance.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Screens are part of studying now. They hold notes, videos, explanations, and study tools. They also hold endless distractions that can swallow an evening withou</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Rewarding Yourself for Studying (Without Breaking Focus)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/rewarding-yourself-for-studying.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/rewarding-yourself-for-studying.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Rewards can make studying feel better. A small treat after a focused session, a break after finishing a task, or a fun activity after a good week all give your </description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Record Lectures, Then Quiz Yourself From Your Own Notes</title>
+      <link>https://easy-lesson-website.vercel.app/blog/record-lectures-quiz-yourself-from-notes.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/record-lectures-quiz-yourself-from-notes.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Lessons move fast. A teacher explains an idea, gives an example, answers a question, and moves on, all in a few minutes. Trying to write down every word means y</description>
+      <category>AI Study Tools</category>
+    </item>
+    <item>
+      <title>A Morning Routine That Sets Up a Better School Day</title>
+      <link>https://easy-lesson-website.vercel.app/blog/morning-routine-for-students.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/morning-routine-for-students.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The first hour of the day sets the tone for everything that follows. A rushed morning, full of searching for things and running late, leaves you arriving at sch</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Learning Styles: The Myth and What Actually Works</title>
+      <link>https://easy-lesson-website.vercel.app/blog/learning-styles-myth-and-what-works.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/learning-styles-myth-and-what-works.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>You have probably heard the idea that every student has a learning style: visual, auditory, reading, or hands-on. You may have even been told which one you are,</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Learning from Wrong Answers: Turn Mistakes into Marks</title>
+      <link>https://easy-lesson-website.vercel.app/blog/learning-from-wrong-answers.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/learning-from-wrong-answers.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most students treat a wrong answer as the end of the story. They glance at the mark, feel annoyed, and move on. But a wrong answer is one of the most valuable t</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Is AI Doing Your Thinking for You? How to Tell</title>
+      <link>https://easy-lesson-website.vercel.app/blog/is-ai-doing-your-thinking-for-you.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/is-ai-doing-your-thinking-for-you.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>AI tools can explain, summarise, compare, and draft at remarkable speed. That speed is tempting. When a task feels hard, it is easy to hand the whole thing to A</description>
+      <category>AI Study Tools</category>
+    </item>
+    <item>
+      <title>The Human Skills AI Cannot Replace (and How to Build Them)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/human-skills-ai-cannot-replace.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/human-skills-ai-cannot-replace.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>AI tools can now write essays, solve problems, summarise chapters, and answer questions in seconds. It is natural to wonder: what is left for humans? The answer</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Use Solved Examples Without Just Copying Them</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-use-solved-examples.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-use-solved-examples.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Solved examples are everywhere: in textbooks, in class notes, and in the worked solutions teachers write on the board. They look like the easiest study tool in </description>
       <category>Homework Help</category>
     </item>
     <item>
-      <title>What Is an AI Lesson Solver? How Photo-Based Homework Help Works</title>
-      <link>https://easy-lesson-website.vercel.app/blog/what-is-ai-lesson-solver.html</link>
-      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/what-is-ai-lesson-solver.html</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <description>An AI lesson solver is a study tool that turns a photo of a textbook page or exercise sheet into clear, step-by-step help. Instead of typing out a long question</description>
+      <title>How to Use Free Periods Well (Not Just for Homework)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-use-free-periods-well.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-use-free-periods-well.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A free period can feel like a gift or a gap. Used well, it becomes one of the most useful parts of the school day. Used poorly, it vanishes into wandering, chat</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Tackle Hard Chapters Without Giving Up</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-tackle-hard-chapters.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-tackle-hard-chapters.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every student meets a chapter that seems to fight back. You read it once and understand nothing. You read it again and understand slightly less. The examples lo</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Stop Procrastinating on Homework</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-stop-procrastinating-homework.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-stop-procrastinating-homework.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>You know the pattern. The homework is sitting there. You mean to start. You check one message, then another, and suddenly an hour has passed and the homework fe</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Stay Organised at School: Bags, Books, and Deadlines</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-stay-organised-at-school.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-stay-organised-at-school.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Organisation is not about having a perfect desk or colour-coded everything. It is about knowing where things are, what is due, and what to do next, without havi</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Stay Motivated to Study (Even When You Don't Feel Like It)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-stay-motivated-to-study.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-stay-motivated-to-study.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Everyone waits for motivation. You wait to feel ready, to feel interested, to feel energetic. Then you plan to start. The problem is that motivation rarely arri</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Spot Your Own Mistakes Before the Teacher Does</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-spot-your-own-mistakes.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-spot-your-own-mistakes.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>You finish a piece of work, you check it quickly, everything looks fine, and then the marked work comes back with mistakes you could have caught. Almost every s</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Set Study Goals You'll Actually Reach</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-set-study-goals.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-set-study-goals.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most study goals fail for a simple reason: they are too vague. Study harder, do better, and catch up are wishes, not goals. They sound good, but they do not tel</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Relearn a Topic from Scratch</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-relearn-a-topic-from-scratch.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-relearn-a-topic-from-scratch.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every student has a topic that has slipped away. You studied it months ago, or you never quite got it in the first place, and now it feels like starting from ze</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>How to Prioritise Assignments When Everything Feels Urgent</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-prioritise-assignments.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-prioritise-assignments.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Everyone has had the week where everything is due at once. Three assignments, a project, a test to prepare for, and every single one feels urgent. The usual res</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>How to Pay Attention in Class (Even in Boring Lessons)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-pay-attention-in-class.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-pay-attention-in-class.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Paying attention in class is not a talent you either have or lack. It is a skill, and like any skill it gets stronger with practice. Most students do not lose f</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Learn from Your Classmates (and Teach Them Too)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-learn-from-classmates.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-learn-from-classmates.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>When you get stuck on a lesson, your first instinct is probably to ask the teacher or search for an answer. Both are good moves. But there is a third resource s</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Handle a Subject You Find Difficult</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-handle-a-difficult-subject.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-handle-a-difficult-subject.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every student has one. The subject that makes your stomach tighten when the lesson starts. The one where everyone else seems to understand and you feel two step</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Bounce Back After Bad Marks</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-bounce-back-after-bad-marks.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-bounce-back-after-bad-marks.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Getting bad marks hurts. You can feel disappointed, embarrassed, or angry, sometimes all three at once. Those feelings are normal, and trying to pretend they do</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>How to Avoid Study Burnout Before Exams</title>
+      <link>https://easy-lesson-website.vercel.app/blog/how-to-avoid-study-burnout.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/how-to-avoid-study-burnout.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Study burnout does not arrive with a warning siren. It creeps in quietly: first you feel a little tired, then concentration gets harder, then the thought of ope</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Growth Mindset for Students: What It Really Means</title>
+      <link>https://easy-lesson-website.vercel.app/blog/growth-mindset-for-students.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/growth-mindset-for-students.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>You have probably heard that a growth mindset means believing you can improve. That is true, but it is only half the story, and the missing half is where most s</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Group Work That Actually Works: Roles and Rules</title>
+      <link>https://easy-lesson-website.vercel.app/blog/group-work-that-actually-works.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/group-work-that-actually-works.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Group work has a bad reputation, and most students can explain why. One person does everything, one person disappears, one person argues about everything, and e</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>A Free AI Study Stack That Covers Most Student Needs</title>
+      <link>https://easy-lesson-website.vercel.app/blog/free-ai-study-stack-that-covers-most-needs.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/free-ai-study-stack-that-covers-most-needs.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Good AI studying does not require a paid subscription. With the free tiers available today, a student can build a small stack of tools that covers nearly every </description>
       <category>AI Study Tools</category>
+    </item>
+    <item>
+      <title>An Evening Study Routine That Ends the Day Well</title>
+      <link>https://easy-lesson-website.vercel.app/blog/evening-study-routine-guide.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/evening-study-routine-guide.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Evenings decide how well the next day goes. A good evening routine does not mean studying until late. It means closing the day with a short review, preparing wh</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>A Daily Study Schedule Template You Can Copy</title>
+      <link>https://easy-lesson-website.vercel.app/blog/daily-study-schedule-template.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/daily-study-schedule-template.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A study schedule should make your day easier, not add another chore to it. The best template is one you can copy in two minutes, follow without thinking too har</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>Confusing Terms That Look Alike (and How to Tell Them Apart)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/confusing-terms-that-look-alike.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/confusing-terms-that-look-alike.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every subject has them: pairs of terms that look alike, sound alike, or seem to mean the same thing, but do not. You study both, you feel confident, and then th</description>
+      <category>Homework Help</category>
+    </item>
+    <item>
+      <title>Classroom Debate Skills: Argue with Evidence, Not Volume</title>
+      <link>https://easy-lesson-website.vercel.app/blog/classroom-debate-skills-guide.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/classroom-debate-skills-guide.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Debate in class is not about being the loudest person in the room. It is about building an argument that other people can follow, testing it against opposing vi</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Class Discussions: How to Contribute with Confidence</title>
+      <link>https://easy-lesson-website.vercel.app/blog/class-discussions-how-to-contribute.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/class-discussions-how-to-contribute.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Class discussions can feel like a performance. Some students speak easily, others sit quietly with good ideas they never share, and the conversation moves on wi</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Celebrating Small Study Wins (and Why It Works)</title>
+      <link>https://easy-lesson-website.vercel.app/blog/celebrating-small-study-wins.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/celebrating-small-study-wins.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Most students celebrate only the big moments: the final result, the top mark, the finished course. Everything in between gets ignored, which is a problem, becau</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Building a Daily Study Habit That Survives Busy Weeks</title>
+      <link>https://easy-lesson-website.vercel.app/blog/building-a-daily-study-habit.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/building-a-daily-study-habit.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A daily study habit sounds simple: study a little every day. In practice, busy weeks, tired evenings, and unexpected events get in the way. The habit that survi</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Breaking Down Complex Problems into Small Steps</title>
+      <link>https://easy-lesson-website.vercel.app/blog/breaking-down-complex-problems.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/breaking-down-complex-problems.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A complex problem can feel like standing at the bottom of a cliff. You look at it, you have no idea where to start, and the longer you stare, the worse it feels</description>
+      <category>How-To Guides</category>
+    </item>
+    <item>
+      <title>Balancing School and Activities Without Burning Out</title>
+      <link>https://easy-lesson-website.vercel.app/blog/balancing-school-and-activities.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/balancing-school-and-activities.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>School is more than lessons and homework. Sports, clubs, music, volunteering, and hobbies teach skills that no textbook can: teamwork, discipline, creativity, a</description>
+      <category>Study Tips</category>
+    </item>
+    <item>
+      <title>Asking Questions in Class: How to Build the Confidence</title>
+      <link>https://easy-lesson-website.vercel.app/blog/asking-questions-in-class-confidence.html</link>
+      <guid isPermaLink="true">https://easy-lesson-website.vercel.app/blog/asking-questions-in-class-confidence.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Almost every student has sat in class, confused, while a question burned in their mind and never left their mouth. You are not alone in that feeling. Asking que</description>
+      <category>Study Tips</category>
     </item>
   </channel>
 </rss>
