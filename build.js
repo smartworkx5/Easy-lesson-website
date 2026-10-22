@@ -215,6 +215,14 @@ function head({ title, description, canonical, ogType = "website" }) {
   <meta name="description" content="${esc(description)}">
   <link rel="canonical" href="${esc(canonical)}">
   <meta name="robots" content="index, follow">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T82LBSG6GP"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T82LBSG6GP');
+  </script>
   <!-- ADSENSE_SCRIPT: ca-pub-XXXXXXXXXXXXXXXX -->
   <meta property="og:type" content="${ogType}">
   <meta property="og:site_name" content="Easy Lesson">
@@ -444,7 +452,11 @@ fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="
 console.log("Wrote sitemap.xml.");
 
 /* ---------- rss.xml ---------- */
-const rssItems = posts.map((p) => `    <item>
+/* Capped at the latest 100 posts: a full-archive feed grows past the push
+   tool's ~120KB single-file cap (260 posts = ~158KB, stuck since Day 5) and
+   feed readers only need recent items — the sitemap still lists every post.
+   100 items ≈ 61KB, safely under the cap, and covers ~2 days at 50/day. */
+const rssItems = posts.slice(0, 100).map((p) => `    <item>
       <title>${esc(p.title)}</title>
       <link>${p.absUrl}</link>
       <guid isPermaLink="true">${p.absUrl}</guid>

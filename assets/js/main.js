@@ -122,3 +122,20 @@
   var yearEl = document.getElementById("year");
   if (yearEl) yearEl.textContent = String(new Date().getFullYear());
 })();
+
+/* Google Analytics 4 (gtag.js) — G-T82LBSG6GP. Loaded here because every
+   page on Easy Lesson includes this shared script. */
+(function () {
+  if (window.__ga4Loaded) return;
+  window.__ga4Loaded = true;
+  if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  window.gtag = gtag;
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-T82LBSG6GP';
+  document.head.appendChild(s);
+  gtag('js', new Date());
+  gtag('config', 'G-T82LBSG6GP');
+})();
