@@ -139,3 +139,15 @@
   gtag('js', new Date());
   gtag('config', 'G-T82LBSG6GP');
 })();
+
+/* Tool facade: load the solver iframe only when the user clicks. */
+(function () {
+  var toolBtn = document.getElementById("tool-load-btn");
+  var toolFrame = document.getElementById("tool-frame");
+  var toolFacade = document.getElementById("tool-facade");
+  if (toolBtn && toolFrame && toolFacade) toolBtn.addEventListener("click", function () {
+    toolFrame.src = toolFrame.getAttribute("data-src");
+    toolFrame.hidden = false;
+    toolFacade.style.display = "none";
+  });
+})();
