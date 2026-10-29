@@ -1,47 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://easy-lesson-website.vercel.app/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/about.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/contact.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/privacy-policy.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/terms.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/disclaimer.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/cookie-policy.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-2.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-3.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-4.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-5.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-6.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-7.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-8.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-9.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-10.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-11.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-12.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-13.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-14.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-15.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-16.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-17.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-18.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-19.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-20.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-21.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-22.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-23.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-24.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-25.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-26.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-27.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-28.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-29.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-30.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-31.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-32.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-33.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-34.html</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/page-35.html</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/about.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/contact.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/privacy-policy.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/terms.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/disclaimer.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/cookie-policy.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-2.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-3.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-4.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-5.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-6.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-7.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-8.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-9.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-10.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-11.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-12.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-13.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-14.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-15.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-16.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-17.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-18.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-19.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-20.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-21.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-22.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-23.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-24.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-25.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-26.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-27.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-28.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-29.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-30.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-31.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-32.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-33.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-34.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-35.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-36.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-37.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-38.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-39.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-40.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-41.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-42.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-43.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-44.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-45.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/page-46.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/writing-strong-introductions.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/writing-memorable-conclusions.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/what-makes-a-good-study-app.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/what-do-teachers-do.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/what-do-engineers-do.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/what-do-doctors-do.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/thesis-statement-strong-essay.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/textbooks-assessments-analytics-one-platform.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/teachers-remaking-classrooms-ai-age.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/students-ai-chatbots-exam-revision-honest-guide.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/storytelling-through-art.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/skills-for-future-jobs.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/sketching-from-observation.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/responsible-ai-use-students-literacy-guide.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/proofreading-checklist-students.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/photography-composition-students.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/pattern-design-basics.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/paraphrasing-without-copying.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/origami-geometry-paper.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/online-vs-classroom-learning-trends.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/online-safety-digital-literacy-schools.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/one-prompt-lesson-decks-quizzes.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/new-ways-students-learn-in-2026.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/internships-explained-students.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-choose-a-career.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-schools-use-ai-tools.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-ai-grading-and-feedback-work.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/hands-on-ai-curriculum-projects.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/future-skills-students-need.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/essay-structure-intro-body-conclusion.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/education-technology-myths-debunked.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/drawing-basics-beginners.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/digital-literacy-for-students.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/cv-for-students-first.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/creative-journaling-ideas.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/compare-contrast-essay-guide.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/colour-mixing-basics.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/collage-ideas-classroom.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/classroom-ai-study-tools-younger-learners.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/citations-basics-students.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/careers-in-science-explained.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/careers-in-computers-explained.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/careers-in-art-explained.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/avoiding-plagiarism-school-work.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/art-critique-words-students.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/argumentative-essay-structure.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-tutors-vs-human-teachers.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-in-education-whats-changing.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-auto-grading-tools-teachers.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-across-school-subjects-model-classrooms.html</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/wifi-7-digital-learning-classrooms.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/why-highlighting-alone-doesnt-work.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/what-is-critical-thinking.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/thinking-before-answering.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/studying-without-a-plan.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/studying-too-long-without-breaks.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/study-tools-safety-check-students.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/study-partner-agreement-template.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/study-mistakes-every-student-makes.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/study-group-vs-solo-study.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/skipping-practice-questions.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/rereading-trap-studying.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/pros-and-cons-analysis-guide.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/peer-tutoring-how-to-do-it.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/online-study-groups-guide.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/online-quizzes-for-self-testing.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/online-classes-focus-tips.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/multitasking-while-studying.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/learning-from-group-mistakes.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ignoring-feedback-on-assignments.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-verify-online-information.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-take-notes-from-online-lessons.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-spot-fake-news.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-run-a-study-group.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-prepare-for-group-discussion.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-learn-effectively-online.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-give-study-feedback.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-evaluate-sources.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-compare-two-ideas.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-build-an-argument.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/how-to-ask-questions-online.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/group-study-that-works.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/group-projects-without-the-drama.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/gemini-classroom-study-tools-students.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/free-online-learning-resources-guide.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/free-ai-study-tools-2026-guide.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/fact-vs-opinion-explained.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/educational-videos-how-to-use.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/digital-distractions-and-focus.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/cramming-vs-spaced-study.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/copying-notes-without-learning.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/classroom-ai-personalised-learning-lessons.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/building-a-digital-study-space.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/bias-in-information-explained.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/asking-better-questions.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/animated-video-lessons-study-guide.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-tools-teachers-lesson-planning.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-study-apps-vs-study-plan.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-model-schools-lessons-students.html</loc><lastmod>2026-10-26</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/ai-homework-tools-honest-student-guide.html</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/working-backwards-problem-solving.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/venn-diagrams-explained.html</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/use-ai-study-keep-writing-voice.html</loc><lastmod>2026-10-20</lastmod></url>
@@ -244,7 +355,7 @@
   <url><loc>https://easy-lesson-website.vercel.app/blog/ai-for-language-learning-practice.html</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/what-is-democracy-explained.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/trade-and-economy-basics-students.html</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/tenses-explained-simply.html</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/tenses-explained-simply.html</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/teach-back-method-revision.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/synonyms-antonyms-vocabulary-builder.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/spaced-repetition-explained.html</loc><lastmod>2026-10-17</lastmod></url>
@@ -257,7 +368,7 @@
   <url><loc>https://easy-lesson-website.vercel.app/blog/punctuation-rules-every-student-needs.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/personalised-ai-learning-understanding-not-answers.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/past-papers-how-to-use-them.html</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/parts-of-speech-explained.html</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/parts-of-speech-explained.html</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/open-book-exam-tips.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/multiple-choice-questions-strategies.html</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/mind-maps-for-revision.html</loc><lastmod>2026-10-17</lastmod></url>
@@ -317,7 +428,7 @@
   <url><loc>https://easy-lesson-website.vercel.app/blog/ratios-and-proportions-explained.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/pythagoras-theorem-explained.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/pomodoro-technique-for-homework.html</loc><lastmod>2026-10-16</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/photosynthesis-explained-simply.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/photosynthesis-explained-simply.html</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/percentages-made-easy.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/negative-numbers-made-simple.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/most-teens-use-ai-for-schoolwork-survey.html</loc><lastmod>2026-10-16</lastmod></url>
@@ -332,7 +443,7 @@
   <url><loc>https://easy-lesson-website.vercel.app/blog/homework-mistakes-and-how-to-fix.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/homework-help-without-copying-answers.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/homework-help-for-parents-guide.html</loc><lastmod>2026-10-16</lastmod></url>
-  <url><loc>https://easy-lesson-website.vercel.app/blog/fractions-explained-simply.html</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://easy-lesson-website.vercel.app/blog/fractions-explained-simply.html</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/forces-and-motion-basics.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/electricity-circuits-explained.html</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://easy-lesson-website.vercel.app/blog/elaboration-technique-explain-to-learn.html</loc><lastmod>2026-10-16</lastmod></url>
