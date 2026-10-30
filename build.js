@@ -82,8 +82,18 @@ function markdownToHtml(md) {
   const flushPara = () => { if (para.length) { blocks.push("<p>" + inlineMd(para.join(" ")) + "</p>"); para = []; } };
   const flushList = () => { if (list) { blocks.push((list.ordered ? "<ol>" : "<ul>") + list.items.map((i) => "<li>" + inlineMd(i) + "</li>").join("") + (list.ordered ? "</ol>" : "</ul>")); list = null; } };
   const flushQuote = () => { if (quote.length) { blocks.push("<blockquote><p>" + inlineMd(quote.join(" ")) + "</p></blockquote>"); quote = []; } };
-  for (const raw of lines) {
+  for (let li = 0; li < lines.length; li++) {
+    const raw = lines[li];
     const line = raw.trimEnd();
+    if (/^\|/.test(line) && lines[li + 1] && /^\|[\s:|-]+\|$/.test(lines[li + 1].trim())) {
+      flushPara(); flushList(); flushQuote();
+      const cells = (s) => s.trim().replace(/^\||\|$/g, "").split("|").map((c) => inlineMd(c.trim()));
+      const headCells = cells(line); li++;
+      const rows = [];
+      while (li + 1 < lines.length && /^\|/.test(lines[li + 1])) { li++; rows.push(cells(lines[li])); }
+      blocks.push("<table><thead><tr>" + headCells.map((c) => "<th>" + c + "</th>").join("") + "</tr></thead><tbody>" + rows.map((r) => "<tr>" + r.map((c) => "<td>" + c + "</td>").join("") + "</tr>").join("") + "</tbody></table>");
+      continue;
+    }
     if (/^#{1,3}\s/.test(line)) {
       flushPara(); flushList(); flushQuote();
       const level = line.match(/^#+/)[0].length;
@@ -215,14 +225,9 @@ function head({ title, description, canonical, ogType = "website" }) {
   <meta name="description" content="${esc(description)}">
   <link rel="canonical" href="${esc(canonical)}">
   <meta name="robots" content="index, follow">
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T82LBSG6GP"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-T82LBSG6GP');
-  </script>
+  <!-- Google Analytics is loaded by /assets/js/main.js, delayed until first
+       interaction or idle-after-load (2026-10-30 performance fix). Do NOT
+       re-add an inline gtag block here: it cost ~440ms TBT + 75KB unused JS. -->
   <!-- ADSENSE_SCRIPT: ca-pub-XXXXXXXXXXXXXXXX -->
   <meta property="og:type" content="${ogType}">
   <meta property="og:site_name" content="Easy Lesson">
@@ -237,9 +242,6 @@ function head({ title, description, canonical, ogType = "website" }) {
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#2563eb">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">`;
 }
 

@@ -124,20 +124,41 @@
 })();
 
 /* Google Analytics 4 (gtag.js) — G-T82LBSG6GP. Loaded here because every
-   page on Easy Lesson includes this shared script. */
+   page on Easy Lesson includes this shared script.
+   PERFORMANCE (2026-10-30): gtag.js is 181KB transfer / ~440ms script
+   evaluation and was the page's entire unused-JavaScript + most of its
+   Total Blocking Time when injected immediately. It now loads OUTSIDE the
+   critical window: on the visitor's first interaction, or 5s after the
+   window load event via requestIdleCallback — whichever comes first.
+   Real visitors still get counted; the load/LCP path stays clean. */
 (function () {
   if (window.__ga4Loaded) return;
-  window.__ga4Loaded = true;
-  if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){ dataLayer.push(arguments); }
-  window.gtag = gtag;
-  var s = document.createElement('script');
-  s.async = true;
-  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-T82LBSG6GP';
-  document.head.appendChild(s);
-  gtag('js', new Date());
-  gtag('config', 'G-T82LBSG6GP');
+  function loadGA() {
+    if (window.__ga4Loaded) return;
+    window.__ga4Loaded = true;
+    if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    window.gtag = gtag;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-T82LBSG6GP';
+    document.head.appendChild(s);
+    gtag('js', new Date());
+    gtag('config', 'G-T82LBSG6GP');
+  }
+  var events = ["pointerdown", "keydown", "touchstart", "scroll"];
+  function onInteract() {
+    events.forEach(function (e) { window.removeEventListener(e, onInteract, { passive: true }); });
+    loadGA();
+  }
+  events.forEach(function (e) { window.addEventListener(e, onInteract, { passive: true }); });
+  function schedule() {
+    if ("requestIdleCallback" in window) requestIdleCallback(loadGA, { timeout: 5000 });
+    else setTimeout(loadGA, 5000);
+  }
+  if (document.readyState === "complete") setTimeout(schedule, 5000);
+  else window.addEventListener("load", function () { setTimeout(schedule, 5000); });
 })();
 
 /* Tool facade: load the solver iframe only when the user clicks. */
