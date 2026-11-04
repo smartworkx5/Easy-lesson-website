@@ -5,8 +5,8 @@ seo_title: "A 4-Week Exam Preparation Plan That Really Works Well"
 meta_description: "A four-week exam preparation plan with weekly goals, spaced review, practice questions and rest days to help you prepare steadily and feel calm on exam day."
 focus_keyword: "exam preparation plan"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["exam-preparation-plan", "study-plan", "revision-strategy", "exam-success"]
 featured_image: "/assets/images/blog/exam-preparation-plan-4-weeks-thumb.svg"
@@ -67,12 +67,6 @@ Use different formats for review. One day, write a summary from memory. Another 
 
 Always verify your solutions and summaries against your textbook. Textbooks are your reference point. If a tool or a friend gives you a different answer, check the textbook and your class notes before you trust it. AI tools can make mistakes, so use them to explain and practise, not as your only source of truth.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant that can help you plan, explain, and organise your study. For this exam preparation plan, you can ask it to turn your topic list into a week-by-week schedule, or to quiz you with short recall questions on a topic you just studied.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

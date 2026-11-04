@@ -5,8 +5,8 @@ seo_title: "Compare and Contrast Essays: A Simple Guide for Students"
 meta_description: "Learn to write compare and contrast essays with block or point-by-point organisation. Clear planning tips and a structure that keeps comparisons easy to follow."
 focus_keyword: "compare contrast essay guide"
 date: "2026-10-29"
-updated: "2026-10-29"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["compare-contrast", "essay-writing", "writing-skills", "homework-help"]
 featured_image: "/assets/images/blog/compare-contrast-essay-guide-thumb.svg"
@@ -57,13 +57,6 @@ The biggest mistake is describing without comparing: two separate descriptions w
 
 Another mistake is an uneven essay, where one subject gets far more attention than the other. Unless your thesis justifies the imbalance, keep the treatment roughly equal. Finally, avoid comparing things on too many points. Three or four well-chosen points, developed properly, beat eight points mentioned in passing.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan a compare and contrast essay by suggesting points of comparison for two subjects you name. Use its suggestions as a starting list, then pick the points that fit your assignment and your own understanding. Always check details against your class materials, since AI can make mistakes.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

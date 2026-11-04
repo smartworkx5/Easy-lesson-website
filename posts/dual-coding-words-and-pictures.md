@@ -5,8 +5,8 @@ seo_title: "Dual Coding: Combine Words and Pictures to Remember More"
 meta_description: "Dual coding combines words and pictures so ideas stick. Learn how labelled diagrams, sketches, and simple drawings help you remember what you study better."
 focus_keyword: "dual coding study technique"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["dual-coding", "visual-learning", "diagrams", "memory"]
 featured_image: "/assets/images/blog/dual-coding-words-and-pictures-thumb.svg"
@@ -77,13 +77,6 @@ Dual coding works because two paths to a memory are stronger than one. Draw simp
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan visual study notes. Ask it to suggest the best diagram type for a topic, such as a flowchart for a process or a comparison chart for two ideas. Then draw the diagram yourself, since making it is where the learning happens.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

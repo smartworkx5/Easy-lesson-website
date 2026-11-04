@@ -5,8 +5,8 @@ seo_title: "Deep Work Study Sessions: Focus for an Hour, No Distractions"
 meta_description: "Deep work studying means one task, full attention, and no distractions for a set time. Learn how to prepare your space, plan sessions, and focus for an hour."
 focus_keyword: "deep work studying"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["deep-work", "focus", "study-sessions", "distractions"]
 featured_image: "/assets/images/blog/deep-work-study-sessions-thumb.svg"
@@ -75,13 +75,6 @@ Deep work studying is simple: one task, full attention, a fixed time. Prepare yo
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan deep work sessions. Ask it to break a big assignment into one-hour goals with breaks, or to suggest a focus checklist for your study space. Use its plan as a guide, and adjust session lengths to what you can truly sustain.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

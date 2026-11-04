@@ -5,8 +5,8 @@ seo_title: "Classroom Questioning Techniques That Get Everyone Thinking"
 meta_description: "Classroom questioning techniques that get everyone thinking: ask, pause, invite students, and follow up without giving answers away. Practical methods inside."
 focus_keyword: "classroom questioning techniques"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["For Teachers"]
 tags: ["classroom-questioning", "teaching-strategies", "student-engagement"]
 featured_image: "/assets/images/blog/classroom-questioning-techniques-thumb.svg"
@@ -73,13 +73,6 @@ Getting everyone thinking is not about asking more questions. It is about asking
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you write better classroom questions. Ask it to draft five thinking questions for a topic, or to suggest a follow-up question for a common wrong answer. Check every question against your textbook and your students' level before using it, since its ideas are general help, not verified teaching material.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

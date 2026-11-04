@@ -5,8 +5,8 @@ seo_title: "The Cornell Notes Method: A Simple Guide for Students"
 meta_description: "Learn the Cornell Notes method: split your page into notes, cues, and summary sections, review with self-testing, and turn class notes into a revision tool."
 focus_keyword: "cornell notes method"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["cornell-notes", "note-taking", "revision", "study-tips"]
 featured_image: "/assets/images/blog/cornell-notes-method-guide-thumb.svg"
@@ -69,9 +69,6 @@ For revision, the cue column and summary become your main tools. Flip through su
 
 You can also pair Cornell Notes with other methods. Turn key cues into [flashcards](/blog/flashcards-that-work.html) for fast drill. Use the summary to plan a [mind map](/blog/mind-maps-for-revision.html) that shows how pages connect. The Cornell page is the foundation. Other methods build on it.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with Cornell Notes by turning a set of notes into cue-column questions you can use for self-testing. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code. Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

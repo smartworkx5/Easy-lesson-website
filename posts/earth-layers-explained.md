@@ -5,8 +5,8 @@ seo_title: "Layers of the Earth Explained: Crust, Mantle, Core Guide"
 meta_description: "Layers of the Earth explained with a cross-section diagram: crust, mantle, outer core, and inner core, plus how scientists know what is deep inside Earth."
 focus_keyword: "layers of the earth"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["earth-layers", "earth-science", "geology-basics", "study-guides"]
 featured_image: "/assets/images/blog/earth-layers-explained-thumb.svg"
@@ -60,13 +60,6 @@ The Earth is made of four layers: the thin solid crust we live on, the thick hot
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with this topic by describing each Earth layer in plain words, comparing their thickness and temperature, or quizzing you on the order of the layers.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

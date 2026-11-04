@@ -5,8 +5,8 @@ seo_title: "How to Answer Comprehension Passages with Confidence"
 meta_description: "Learn how to answer comprehension passages with confidence. Read twice, find evidence in the text, and write clear answers in your own words every time."
 focus_keyword: "comprehension passage answers"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["comprehension-passages", "reading-skills", "homework-help", "study-tips"]
 featured_image: "/assets/images/blog/comprehension-passages-how-to-answer-thumb.svg"
@@ -59,12 +59,6 @@ Another mistake is missing the question's key word. Words such as why, how, comp
 
 Time management also matters. Do not spend too long on one question. If you are stuck, move on and return later. Often, answering other questions helps you understand the passage better. When you return, re-read the relevant paragraph slowly. For help with writing clear answers, see [How to Write a Good Paragraph](/blog/how-to-write-a-good-paragraph.html). When you practise with textbook passages, verify your answers against the textbook. AI tools can help you check your understanding, but they can make mistakes, so always confirm the evidence in the passage yourself.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with this topic by asking you practice questions about a passage and showing you how to find evidence for each answer.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

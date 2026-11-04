@@ -5,8 +5,8 @@ seo_title: "Essay Writing: A Simple Structure That Works Every Time"
 meta_description: "Learn essay writing with a simple structure that works every time. Plan your intro, body paragraphs, and conclusion to write clear, organised essays with ease."
 focus_keyword: "essay writing structure"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["essay-writing", "essay-structure", "writing-skills", "how-to-guides"]
 featured_image: "/assets/images/blog/essay-writing-structure-guide-thumb.svg"
@@ -59,12 +59,6 @@ Then check sentences. Read the essay aloud. Long sentences that are hard to say 
 
 Finally, check your essay against the question. Does it answer what was asked? Does it cover each part of the question? If the question asks for two things, make sure both are addressed. When you work from a textbook prompt, verify your ideas against the textbook. AI tools can suggest improvements, but they can make mistakes, so always make sure the final essay says what you mean. For help with sentences, see [Parts of Speech Explained with Simple Examples](/blog/parts-of-speech-explained.html).
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with this topic by turning a set of rough ideas into a clear essay outline with a thesis and three body paragraph topics.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
