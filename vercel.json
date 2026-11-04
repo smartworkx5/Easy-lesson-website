@@ -1,1 +1,3484 @@
-{"routes":[{"headers":{"Location":"/blog/cornell-notes-method-guide.html"},"src":"/blog/studying-from-your-own-notes\\.html","status":301},{"dest":"/404.html","src":"/blog/sleep-and-memory-connection\\.html","status":404},{"dest":"/404.html","src":"/blog/page-79\\.html","status":404}]}
+{
+ "routes": [
+  {
+   "src": "/blog/ai-homework-agents-that-do-assignments\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/word-problems-homework-step-by-step.html"
+   }
+  },
+  {
+   "src": "/blog/ai-homework-debate-teachers-vs-output\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/word-problems-homework-step-by-step.html"
+   }
+  },
+  {
+   "src": "/blog/ai-homework-study-26k-students-findings\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/word-problems-homework-step-by-step.html"
+   }
+  },
+  {
+   "src": "/blog/ai-study-tools-inside-textbooks-2026\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/ai-study-tools-for-students-guide.html"
+   }
+  },
+  {
+   "src": "/blog/ai-textbooks-study-tools\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/ai-study-tools-for-students-guide.html"
+   }
+  },
+  {
+   "src": "/blog/animated-video-lessons-study-guide\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/turn-slides-into-short-video-lessons.html"
+   }
+  },
+  {
+   "src": "/blog/beating-exam-fear-tips\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/exam-preparation-plan-4-weeks.html"
+   }
+  },
+  {
+   "src": "/blog/choosing-science-fair-topic\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/science-fair-hypothesis-guide.html"
+   }
+  },
+  {
+   "src": "/blog/classroom-debate-skills-guide\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/whole-class-debate-guide.html"
+   }
+  },
+  {
+   "src": "/blog/coding-with-blocks-vs-text\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/if-else-logic-explained.html"
+   }
+  },
+  {
+   "src": "/blog/deep-learning-ai-retention-habits\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/building-a-daily-study-habit.html"
+   }
+  },
+  {
+   "src": "/blog/evening-study-routine-guide\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/study-routine-for-school-students.html"
+   }
+  },
+  {
+   "src": "/blog/evidence-in-debate\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/whole-class-debate-guide.html"
+   }
+  },
+  {
+   "src": "/blog/free-ai-study-stack-that-covers-most-needs\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/free-ai-study-tools-2026-guide.html"
+   }
+  },
+  {
+   "src": "/blog/homework-help-for-parents-guide\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/word-problems-homework-step-by-step.html"
+   }
+  },
+  {
+   "src": "/blog/homework-solver-ai-guide\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/free-ai-homework-solver-what-to-look-for.html"
+   }
+  },
+  {
+   "src": "/blog/how-to-summarise-a-chapter\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/summary-writing-skills-guide.html"
+   }
+  },
+  {
+   "src": "/blog/loops-explained-simply\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/if-else-logic-explained.html"
+   }
+  },
+  {
+   "src": "/blog/photo-translation-for-language-homework\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/word-problems-homework-step-by-step.html"
+   }
+  },
+  {
+   "src": "/blog/preparing-night-before-exam\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/how-to-revise-the-night-before-exam.html"
+   }
+  },
+  {
+   "src": "/blog/problem-solving-steps-students\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/multi-step-problems-how-to-handle.html"
+   }
+  },
+  {
+   "src": "/blog/reading-and-pronunciation-together\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/reading-aloud-fluency-tips.html"
+   }
+  },
+  {
+   "src": "/blog/scan-textbook-pages-for-notes\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/handwritten-notes-photo-to-text.html"
+   }
+  },
+  {
+   "src": "/blog/solve-textbook-exercises-with-ai\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/textbook-exercise-solver-photo.html"
+   }
+  },
+  {
+   "src": "/blog/student-data-privacy-digital-literacy\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/study-tools-safety-check-students.html"
+   }
+  },
+  {
+   "src": "/blog/students-ai-chatbots-exam-revision-honest-guide\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/ai-revision-tools-only-course-materials.html"
+   }
+  },
+  {
+   "src": "/blog/students-ai-chatbots-revision-survey\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/ai-revision-tools-only-course-materials.html"
+   }
+  },
+  {
+   "src": "/blog/studying-from-your-own-notes\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/cornell-notes-method-guide.html"
+   }
+  },
+  {
+   "src": "/blog/summary-vs-paraphrase-difference\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/summary-writing-skills-guide.html"
+   }
+  },
+  {
+   "src": "/blog/synonyms-antonyms-vocabulary-builder\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/how-to-learn-vocabulary-in-context.html"
+   }
+  },
+  {
+   "src": "/blog/unguided-ai-tutor-lesson\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/guided-ai-learning-vs-answer-machines.html"
+   }
+  },
+  {
+   "src": "/blog/variables-jars-analogy\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/algebra-for-beginners-variables.html"
+   }
+  },
+  {
+   "src": "/blog/water-cycle-outside\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/water-cycle-explained.html"
+   }
+  },
+  {
+   "src": "/blog/weekly-lesson-planning-routine\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/how-to-plan-a-lesson-in-30-minutes.html"
+   }
+  },
+  {
+   "src": "/blog/what-is-coding-explained\\.html",
+   "status": 301,
+   "headers": {
+    "Location": "/blog/if-else-logic-explained.html"
+   }
+  },
+  {
+   "src": "/blog/acids-and-bases-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/active-reading-ai-age-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/active-vs-passive-voice\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ads-vs-facts-content\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/after-exam-let-go\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/after-the-exam-what-to-do\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/agentic-ai-education-practice-guidance\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-accessibility-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-across-school-subjects-model-classrooms\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-assistant-guidance-matters-grades\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-auto-grading-tools-teachers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-chatbots-exam-prep-fair-line\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-chatbots-exam-revision\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-courses-coming-to-schools-what-you-will-learn\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-feedback-not-answers-grades\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-fluency-every-student\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-free-exams-honest-coursework-disclosure\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-generated-text-originality-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-grading-tools-how-they-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-handbooks-for-students-computational-thinking\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-help-vs-crutch-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-homework-scores-up-exam-scores-down\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-homework-tools-honest-student-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-in-education-whats-changing\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-in-higher-education-teaching-assessment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-literacy-every-classroom\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-literacy-preparedness-gap\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-marking-open-ended-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-model-schools-lessons-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-note-makers-pros-and-cons\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-plagiarism-detection-limits\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-science-games-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-speed-vs-deep-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-study-apps-vs-study-plan\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-study-helper-notes-quizzes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-study-planner-make-a-plan\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-summariser-for-long-chapters\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-tools-teachers-lesson-planning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-tutor-app-vs-human-tutor\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-tutoring-gains-honest\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-tutors-retrieval-not-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-tutors-vs-human-teachers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ai-vs-search-engines-for-studying\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/algorithms-in-daily-life\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ancient-civilizations-overview\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/animated-lessons-ai-tools-exam-prep\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/apologising-sincerely-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/argumentative-essay-structure\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/art-critique-words-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/articles-a-an-the-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/asking-a-research-question\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/asking-better-questions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/asking-for-help-social\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/asking-guide-questions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/asking-questions-in-class\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/asking-questions-in-class-confidence\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/avoiding-plagiarism-school-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/balanced-diet-students-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/balancing-school-and-activities\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/balancing-sports-and-study\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/balloon-rocket-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/beating-ai-outsourcing-study-method\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/bedtime-routine-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/being-kind-online\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/bias-in-information-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/bias-in-news-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/bibliography-basics-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/bird-watching-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/blanking-out-in-exam\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/blurting-method-revision\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/body-language-public-speaking\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/brain-foods-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/brainstorming-rules-that-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/breakfast-and-focus\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/breaking-big-goals-small-steps\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/breaking-down-complex-problems\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/breathing-before-exam\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/browser-ai-tools-for-student-research\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/building-a-digital-study-space\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/building-on-others-ideas\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/bullet-notes-vs-full-notes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/calming-techniques-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/careers-in-art-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/careers-in-computers-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/careers-in-science-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/celebrating-milestones-goals\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/celebrating-others-success\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/celebrating-small-study-wins\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/charity-and-money-kids\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/chatbots-exam-revision-honest-line\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/chatbots-revision-partner\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/check-homework-answers-the-right-way\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/checking-ai-answers-for-mistakes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/checking-ai-output-study\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/checking-sources-school-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/citations-basics-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/citizenship-rights-responsibilities\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/class-discussions-how-to-contribute\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/classroom-ai-agents-teacher-intent\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/classroom-ai-personalised-learning-lessons\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/classroom-ai-study-tools-younger-learners\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/climate-and-weather-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/climate-zones-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/closing-statement-debate\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/collage-ideas-classroom\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/colour-coding-notes-effectively\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/colour-mixing-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/common-grammar-mistakes-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/common-language-learning-mistakes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/comparison-charts-for-revision\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/composing-first-melody\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/concept-maps-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/confidence-vs-overconfidence-exam\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/confusing-terms-that-look-alike\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/continents-and-oceans-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/cooking-and-maths-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/copying-notes-without-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/copyright-images-school-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/course-grounded-ai-study-tools\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/cramming-vs-spaced-study\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/creative-journaling-ideas\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/critical-reading-questions-to-ask\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/curiosity-projects-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/cv-for-students-first\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/cyberbullying-response-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/daily-study-schedule-template\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/dealing-with-exam-anxiety\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/dealing-with-teasing-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/debate-topics-for-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/debugging-mindset-beginners\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/declaring-ai-help-schoolwork\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/defining-the-problem-design\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/density-tower-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/descriptive-writing-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/design-a-better-school-bag\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/design-thinking-school-project\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/diagrams-for-studying-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/digital-distractions-and-focus\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/digital-footprint-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/digital-literacy-for-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/digital-vs-paper-notes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/direct-and-indirect-speech\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/disagreeing-politely-class\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/discussion-reflection-habit\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/discussion-sentence-starters\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/do-homework-faster-without-rushing\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/drawing-basics-beginners\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/dreams-and-brain\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/earning-money-as-teenager\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/echo-chambers-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ecosystems-around-the-world\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ecosystems-food-chains-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/education-technology-myths-debunked\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/educational-videos-how-to-use\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/elaboration-technique-explain-to-learn\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/electricity-circuits-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/email-etiquette-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/empathy-in-design-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/empathy-practice-exercises\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/encouragement-for-shy-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/english-pronunciation-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/essay-structure-intro-body-conclusion\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/estimation-skills-for-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/evaluating-ai-study-tools-evidence\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/exam-integrity-why-honest-prep-wins\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/exam-morning-routine\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/exam-season-active-study-plan\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/exam-season-mindset-multi-week-finals\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/exam-time-management-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/exam-week-sleep-plan\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/explaining-without-giving-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/eye-contact-when-presenting\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/fact-vs-opinion-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/fair-play-sportsmanship\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/famous-designs-lessons\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/famous-inventions-that-changed-world\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/field-trip-journal\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/field-trip-safety-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/fill-in-the-blank-practice\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/finding-reliable-sources\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/finishing-what-you-start\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/first-bank-account-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/flashcards-that-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/flashcards-that-work-language\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/food-and-mood-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/formal-vs-informal-writing\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/free-ai-study-plans-change\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/free-ai-training-teachers-classroom\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/free-online-learning-resources-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/friendship-conflicts-solutions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/future-skills-students-need\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/future-skills-training-path\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/goal-chart-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/goals-for-new-term\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/goals-vs-wishes-difference\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/goldilocks-zone-study-difficulty\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/grammar-without-fear-language\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/gratitude-habit-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/group-projects-without-the-drama\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/group-study-roles\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/group-study-that-works\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/group-work-that-actually-works\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/growth-mindset-for-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/guided-learning-productive-struggle\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/handling-anger-healthy-ways\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/handling-losing-gracefully\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/handling-questions-presentation\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/hands-on-ai-curriculum-projects\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/handwritten-notes-better-than-typed\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/healthy-lunchbox-ideas\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/historical-place-visit\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/historical-sources-primary-secondary\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/homework-help-without-copying-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/homework-mistakes-and-how-to-fix\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/homework-planner-organise-assignments\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/homework-when-you-missed-the-lesson\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/homophones-commonly-confused-words\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-ai-grading-and-feedback-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-banks-work-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-governments-work-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-schools-use-ai-tools\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-teachers-can-use-ai-tools\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-annotate-a-text\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-approach-unfamiliar-questions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-ask-questions-online\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-avoid-study-burnout\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-bounce-back-after-bad-marks\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-build-an-argument\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-build-vocabulary-fast\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-check-if-your-answer-makes-sense\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-choose-a-career\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-choose-an-ai-study-tool-2026\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-compare-two-ideas\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-draw-a-flowchart-for-a-process\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-draw-a-map-for-geography\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-evaluate-sources\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-explain-difficult-topics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-find-the-main-idea\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-give-study-feedback\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-handle-a-difficult-subject\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-learn-effectively-online\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-learn-from-classmates\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-learn-idioms-and-phrases\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-make-a-revision-timetable\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-make-notes-from-videos\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-make-your-own-quiz\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-organise-study-notes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-pay-attention-in-class\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-plan-a-revision-lesson\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-plan-homework-that-helps\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-prepare-for-group-discussion\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-prioritise-assignments\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-pronounce-difficult-words\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-proofread-your-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-read-a-weather-map\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-relearn-a-topic-from-scratch\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-review-notes-effectively\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-run-a-study-group\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-set-study-goals\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-spot-fake-news\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-spot-your-own-mistakes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-start-homework-when-stuck\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-stay-motivated-to-study\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-stay-organised-at-school\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-stop-procrastinating-homework\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-study-effectively-without-cramming\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-study-history-effectively\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-summarise-a-passage\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-tackle-hard-chapters\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-take-good-class-notes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-take-notes-from-online-lessons\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-track-quiz-scores-and-improve\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-use-a-dictionary-effectively\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-use-ai-for-homework-honestly\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-use-free-periods-well\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-use-solved-examples\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-verify-online-information\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-write-a-conclusion\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-write-a-good-paragraph\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-write-an-introduction\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-write-clear-sentences\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/how-to-write-good-quiz-questions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/html-first-web-page\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/human-digestive-system-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/human-review-ai-school-decisions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/human-skills-ai-cannot-replace\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/human-supervision-ai-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ignoring-feedback-on-assignments\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/images-that-mislead-online\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/inference-reading-between-lines\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/insects-observation-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/interleaving-practice-mixed-problems\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/internships-explained-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/invisible-ink-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/is-ai-doing-your-thinking-for-you\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/is-ai-help-cheating-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/iteration-mindset-design\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/joining-a-new-class\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/kindness-challenge-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/labelled-diagrams-how-to-draw\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/leading-a-class-discussion\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-a-new-language-start\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-an-instrument-first-steps\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-by-teaching\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-from-community\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-from-group-mistakes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-from-mistakes-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-from-trees\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-from-wrong-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-from-youtube-wisely\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-journal-habit\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-on-field-trip\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-on-your-own-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-styles-myth-and-what-works\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/learning-to-judge-ai-output\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/lesson-closure-activities\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/lesson-openers-that-hook-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/lesson-plan-template-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/listening-in-class-discussions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/listening-in-debate\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/listening-practice-language\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/logical-reasoning-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/making-friends-new-school\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/managing-disappointment-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/maps-and-globes-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/market-visit-maths\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/maths-in-sports\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/mind-maps-for-revision\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/minimal-pairs-pronunciation-practice\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/money-scams-to-avoid\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/morning-alertness-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/morning-routine-for-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/most-teens-use-ai-for-schoolwork-survey\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/mountains-and-volcanoes-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/moving-class-groups-learning-cost\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/multiple-choice-practice-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/multiple-choice-questions-strategies\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/multitasking-while-studying\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/museum-visit-worksheet\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/music-and-memory-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/music-practice-routine-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/music-theory-basics-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/naming-feelings-vocabulary\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/naps-and-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/narrative-writing-story-structure\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/natural-resources-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/nature-photography-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/nature-walk-observation\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/needs-vs-wants-kids\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/new-ways-students-learn-in-2026\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/note-taking-symbols-and-abbreviations\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/official-exam-support-resources-how-to-use\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/one-page-revision-sheets\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/one-prompt-lesson-decks-quizzes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/online-classes-focus-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/online-courses-for-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/online-friends-safety\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/online-quizzes-for-self-testing\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/online-safety-digital-literacy-schools\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/online-study-groups-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/online-vs-classroom-learning-trends\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/open-book-exam-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/opening-a-presentation-strong\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/opening-statement-debate\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/oral-quizzing-with-a-partner\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/orchestra-instruments-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/organising-research-notes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/origami-geometry-paper\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/outdoor-science-activities\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/paper-bridge-strength-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/paragraph-structure-topic-evidence\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/paraphrasing-without-copying\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/parent-teacher-communication-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/password-safety-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/patience-skill-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/pattern-design-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/pattern-spotting-in-problems\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/peer-feedback-that-helps\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/peer-quizzes-how-to-run\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/peer-tutoring-how-to-do-it\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/personalised-ai-chatbots-creativity\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/personalised-ai-learning-paths\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/personalised-ai-learning-understanding-not-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/phased-ai-access-fairness\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/photography-composition-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/physics-in-cricket\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/planning-lessons-for-different-levels\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/plant-light-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/pocket-money-budget-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/pollution-types-and-solutions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/pomodoro-technique-for-homework\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/positive-self-talk-exam\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/practice-stage-ai-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/practice-under-time-exam\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/practising-scales-simply\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/prepositions-made-easy\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/presenting-research-findings\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/presenting-with-a-partner\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/price-comparison-smart-shopping\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/primary-vs-secondary-sources\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/privacy-on-social-media\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/problem-solving-practice-routine\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/proofreading-checklist-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/pros-and-cons-analysis-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/prototyping-with-paper\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/punctuation-rules-every-student-needs\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/question-led-ai-tutoring-study-mode\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/quiz-yourself-before-reading-notes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/quoting-vs-paraphrasing-research\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reading-ai-education-statistics-critically\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reading-ai-study-claims-critically\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reading-comprehension-practice-routine\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reading-for-detail-vs-gist\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reading-headlines-critically\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reading-music-notes-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reading-others-feelings\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/rebuttal-basics-debate\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/recycling-and-waste-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/rehearsing-a-presentation\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reimagining-teaching-ai-human\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/reporting-abuse-online\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/rereading-trap-studying\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/research-for-school-project\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/respectful-disagreement-skills\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/respectful-discussion-rules\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/responsible-ai-use-students-literacy-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/retrieval-first-ai-tutor-study\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/retrieval-first-ai-tutoring\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/retrieval-practice-before-checking-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/revision-games-and-quizzes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/rewarding-yourself-for-studying\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/rhythm-clapping-exercises\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/rivers-and-water-bodies-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/robots-and-code-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/root-words-prefixes-suffixes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/salt-crystals-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/saving-goals-teenagers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/school-ai-controls-opt-in-choice\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/school-ai-policies-what-students-should-know\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/schools-redrawing-ai-rules-students-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-data-tables-graphs\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-display-board\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-experiment-log\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-ideas-by-grade\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-judging-criteria\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-mistakes-to-avoid\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-presentation-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/science-fair-timeline-planning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/screen-time-and-study-balance\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/screen-time-balance-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/screens-before-bed-sleep\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/seasons-changes-observation\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/self-talk-kind-inner-voice\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/self-testing-learning-alone\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/self-testing-study-method-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sentence-types-simple-compound-complex\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/setting-learning-goals-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/setting-smart-goals-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/shadow-sundial-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sharing-and-turn-taking\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sharing-goals-accountability\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/singing-in-tune-practice\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sketching-from-observation\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/skills-for-future-jobs\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/skimming-and-scanning-techniques\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/skipping-practice-questions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sleep-and-memory-connection\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sleep-and-mood-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/slides-that-help-not-hurt\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/small-group-discussion-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/snacks-for-study-sessions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/snap-and-solve-homework\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/social-media-algorithms-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/soil-and-seeds-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/solar-system-planets-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/source-grounded-ai-study-tools\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/spaced-repetition-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/speaking-from-day-one-language\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/speaking-to-class-confidently\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/speaking-without-fear-tips\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sports-and-confidence\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sports-and-focus-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sports-injuries-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/spotting-fake-news-checklist\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/stars-at-night-beginners\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/starting-with-ai-from-zero-awareness-gap\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/states-of-matter-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/static-electricity-balloon-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/stem-identity-confidence\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/step-by-step-not-straight-answers\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/storytelling-in-presentations\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/storytelling-through-art\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/structuring-an-argument-debate\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/student-built-ai-learning-tools\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/student-time-management-basics\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/students-ai-self-peer-perception\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/study-buddy-benefits-and-rules\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/study-buddy-rules\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/study-from-your-own-sources-notebook-tools\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/study-group-vs-solo-study\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/study-mistakes-every-student-makes\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/study-partner-agreement-template\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/study-platforms-progress-tracking\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/studying-too-long-without-breaks\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/studying-without-a-plan\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/subject-verb-agreement-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/sugar-and-energy-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/taking-notes-for-research\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teach-back-method-revision\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teacher-ai-training-classroom\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teacher-ai-training-what-it-means-for-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teacher-assigned-ai-study-activities\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teacher-homework-checking-workflow\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teacher-permission-ai-rules\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teacher-time-savers-admin-tasks\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teachers-redesign-assessments-ai-era\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teachers-remaking-classrooms-ai-age\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teaching-a-friend-effectively\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teamwork-in-class-projects\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/teamwork-in-football\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/ten-words-a-day-language\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/testing-ideas-with-users\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/textbooks-assessments-analytics-one-platform\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/thesis-statement-strong-essay\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/thinking-before-answering\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/thinking-in-a-new-language\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/timelines-for-history-and-science\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/tracking-progress-goals\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/trade-and-economy-basics-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/training-routine-students-sports\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/true-false-quiz-strategies\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/trustworthy-websites-checklist\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/tutoring-younger-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/understanding-vs-memorising\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/universities-ai-education-discussion\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/universities-pen-and-paper-exams-return\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/university-students-ai-use-honest-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/use-ai-study-keep-writing-voice\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/user-interviews-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/using-ai-to-draft-lesson-plans\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/using-notes-when-presenting\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/using-wikipedia-wisely\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/venn-diagrams-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/verify-ai-answers-fake-citations\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/vinegar-volcano-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/vitamins-explained-simply\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/vocabulary-in-context-guessing-meaning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/water-and-brain-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/water-filter-diy-experiment\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/weather-journal-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/weekend-study-plan-guide\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/weekly-goals-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-a-good-beginner-ai-course-teaches\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-do-doctors-do\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-do-engineers-do\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-do-teachers-do\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-good-ai-study-tools-have-in-common\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-is-critical-thinking\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-is-democracy-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-is-interest-explained\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-makes-a-good-study-app\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-not-to-share-online\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-sports-teach-students\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-to-do-when-study-feels-pointless\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/what-to-do-when-you-dont-understand\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/when-goals-fail-recovery\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/when-to-ask-for-help-learning\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/when-to-ask-for-help-studying\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/when-to-ask-teacher-help\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/who-owns-your-schoolwork-ai-training\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/why-highlighting-alone-doesnt-work\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/why-practice-beats-rereading\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/why-showing-your-reasoning-beats-the-answer\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/wifi-7-digital-learning-classrooms\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/word-stress-rules-english\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/working-backwards-problem-solving\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/writing-clear-learning-objectives\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/writing-memorable-conclusions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/writing-strong-introductions\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-12\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-13\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-14\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-15\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-16\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-17\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-18\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-19\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-20\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-21\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-22\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-23\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-24\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-25\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-26\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-27\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-28\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-29\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-30\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-31\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-32\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-33\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-34\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-35\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-36\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-37\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-38\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-39\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-40\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-41\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-42\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-43\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-44\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-45\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-46\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-47\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-48\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-49\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-50\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-51\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-52\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-53\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-54\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-55\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-56\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-57\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-58\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-59\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-60\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-61\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-62\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-63\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-64\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-65\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-66\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-67\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-68\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-69\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-70\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-71\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-72\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-73\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-74\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-75\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-76\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-77\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-78\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  },
+  {
+   "src": "/blog/page-79\\.html",
+   "status": 404,
+   "dest": "/404.html"
+  }
+ ]
+}
