@@ -301,7 +301,7 @@ for (const post of posts) {
     image: BASE + (post.featured_image || "/assets/images/og-image.png"),
     datePublished: post.date,
     dateModified: post.updated,
-    author: { "@type": "Organization", "name": post.author },
+    author: { "@type": "Person", "name": post.author, "url": BASE + "/about.html#author" },
     publisher: { "@type": "Organization", "name": "Easy Lesson", "url": BASE + "/", "logo": { "@type": "ImageObject", "url": BASE + "/assets/images/og-image.png" } },
     mainEntityOfPage: { "@type": "WebPage", "@id": post.absUrl },
     inLanguage: "en",
@@ -383,8 +383,8 @@ function listingPage(pageNum) {
   const pagePosts = posts.slice(start, start + PER_PAGE);
   const isFirst = pageNum === 1;
   const canonical = isFirst ? `${BASE}/blog/` : `${BASE}/blog/page-${pageNum}.html`;
-  const title = isFirst ? CONFIG.pages["/blog/"].title : "Blog Page 2 — AI Lesson Solver Tips & Study Guides";
-  const pageDesc = isFirst ? CONFIG.pages["/blog/"].description : "Page 2 of the Easy Lesson blog: more study guides, how-to articles and honest advice on using an AI lesson solver and photo-based learning. Keep reading.";
+  const title = isFirst ? CONFIG.pages["/blog/"].title : `Blog Page ${pageNum} — AI Lesson Solver Tips & Study Guides`;
+  const pageDesc = isFirst ? CONFIG.pages["/blog/"].description : `Page ${pageNum} of the Easy Lesson blog: more study guides, how-to articles and honest advice on using an AI lesson solver and photo-based learning. Keep reading.`;
   const cards = pagePosts.map(cardHtml);
   if (isFirst && cards.length > 3) {
     cards.splice(3, 0, `<div class="ads-slot" data-slot="blog_list_between_posts" data-format="horizontal" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_list_between_posts — see ads-config.json --></div>`);
@@ -443,15 +443,49 @@ for (let p = 2; p <= totalPages; p++) fs.writeFileSync(path.join(BLOG_DIR, `page
 console.log(`Wrote blog listing (${totalPages} page(s)).`);
 
 /* ---------- sitemap.xml ---------- */
+/* SITEMAP INTEGRITY RULE (fixed 2026-11-04): the sitemap is an assertion
+   that a page EXISTS in the deploy tree, never a manifest of articles that
+   were merely written. Entries are built ONLY from files verified on disk,
+   and the finished sitemap is re-checked below; any mismatch aborts the
+   build loudly instead of shipping a sitemap full of 404s (the pre-fix bug:
+   sitemap.xml was generated from posts/ and pushed even when some blog
+   pages had not landed, so 22 of the 50 newest URLs 404ed live). */
 const staticUrls = ["/", "/about.html", "/contact.html", "/privacy-policy.html", "/terms.html", "/disclaimer.html", "/cookie-policy.html", "/blog/"];
 for (let p = 2; p <= totalPages; p++) staticUrls.push(`/blog/page-${p}.html`);
+function fileForUrl(u) {
+  if (u === "/") return path.join(ROOT, "index.html");
+  if (u.endsWith("/")) return path.join(ROOT, u.slice(1), "index.html");
+  return path.join(ROOT, u.slice(1));
+}
+const missingStatic = staticUrls.filter((u) => !fs.existsSync(fileForUrl(u)));
+if (missingStatic.length) {
+  console.error(`BUILD FAILED: static sitemap URL(s) with no file in tree: ${missingStatic.join(", ")}`);
+  process.exit(1);
+}
+const sitemapPosts = posts.filter((p) => fs.existsSync(path.join(BLOG_DIR, `${p.slug}.html`)));
+const missingPosts = posts.filter((p) => !fs.existsSync(path.join(BLOG_DIR, `${p.slug}.html`)));
+if (missingPosts.length) {
+  console.error(`BUILD FAILED: ${missingPosts.length} post(s) have no generated page in blog/: ${missingPosts.map((p) => p.slug).join(", ")}`);
+  process.exit(1);
+}
 const today = new Date().toISOString().slice(0, 10);
 const sitemapEntries = [
   ...staticUrls.map((u) => `  <url><loc>${BASE}${u}</loc><lastmod>${today}</lastmod></url>`),
-  ...posts.map((p) => `  <url><loc>${p.absUrl}</loc><lastmod>${p.updated}</lastmod></url>`),
+  ...sitemapPosts.map((p) => `  <url><loc>${p.absUrl}</loc><lastmod>${p.updated}</lastmod></url>`),
 ];
 fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.join("\n")}\n</urlset>\n`);
-console.log("Wrote sitemap.xml.");
+/* Post-build check: re-read the written sitemap and verify EVERY URL maps
+   to a real file in the deploy tree. Fail loudly on any miss. */
+{
+  const xml = fs.readFileSync(path.join(ROOT, "sitemap.xml"), "utf8");
+  const locs = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+  const bad = locs.filter((loc) => !fs.existsSync(fileForUrl(loc.replace(BASE, "") || "/")));
+  if (bad.length) {
+    console.error(`BUILD FAILED: sitemap lists ${bad.length} URL(s) missing from the deploy tree: ${bad.join(", ")}`);
+    process.exit(1);
+  }
+  console.log(`Wrote sitemap.xml — verified all ${locs.length} URLs exist in the deploy tree.`);
+}
 
 /* ---------- rss.xml ---------- */
 /* Capped at the latest 100 posts: a full-archive feed grows past the push
