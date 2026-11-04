@@ -5,8 +5,8 @@ seo_title: "If-Else Logic Explained: How Programs Make Decisions"
 meta_description: "If else logic explained with everyday examples: programs make decisions by testing conditions and choosing a path. Learn if, else, and chains, simply explained."
 focus_keyword: "if else logic explained"
 date: "2026-10-30"
-updated: "2026-10-30"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["if-else", "coding-basics", "logic-guide"]
 featured_image: "/assets/images/blog/if-else-logic-explained-thumb.svg"
@@ -49,11 +49,6 @@ Three mistakes are worth watching for. The first is testing the wrong thing, suc
 
 ![How a program chooses between two paths with if-else](/assets/images/blog/if-else-logic-explained-diagram-1.svg)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you practise decision logic. Ask it to turn an everyday choice of yours, like what to wear or when to study, into clear if-else steps you can compare with your own.
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,8 +5,8 @@ seo_title: "How to Take a Clear Photo of Homework for AI Help Now"
 meta_description: "Learn how to take a clear photo of homework for AI help with light, angle, and framing tips. Get sharper text, fewer errors, and step-by-step explanations."
 focus_keyword: "clear photo homework ai"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["clear-photo-homework", "ai-study-tools", "photo-tips", "homework-help"]
 featured_image: "/assets/images/blog/how-to-take-a-clear-photo-of-homework-thumb.svg"
@@ -55,10 +55,6 @@ If your photo is blurry, the cause is usually movement or poor focus. Hold the p
 
 If your photo has glare, change the angle of the page or move the light source. If shadows keep appearing, move the lamp to the opposite side or raise it higher. If the book keeps closing, use a flat surface and open the book fully before you shoot. If the page is wrinkled, smooth it gently with your hand. Small fixes like these make a large difference, and they quickly become automatic.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. For photo quality, you can ask it to turn this checklist into a short pocket reminder you can keep beside your study desk and follow every time you photograph homework. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

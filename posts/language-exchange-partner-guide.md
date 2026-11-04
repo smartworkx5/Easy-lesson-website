@@ -5,8 +5,8 @@ seo_title: "Language Exchange Partners: A Beginner Guide to Start"
 meta_description: "A language exchange partner guide: teach your language, learn theirs, and stay safe. Learn how to find a partner, plan sessions, and keep exchanges balanced."
 focus_keyword: "language exchange partner guide"
 date: "2026-11-01"
-updated: "2026-11-01"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["language-learning", "speaking-practice", "study-partners", "conversation-tips"]
 featured_image: "/assets/images/blog/language-exchange-partner-guide-thumb.svg"
@@ -37,10 +37,6 @@ Many beginners worry they have nothing to teach, but teaching your own language 
 
 Safety and comfort come first in any exchange, especially when meeting someone new. Keep early conversations on a reputable exchange platform or in a public, group setting rather than sharing private contact details immediately. Share only what you are comfortable sharing, and never share personal information such as your home address, workplace details, or financial information. Set clear boundaries from the start: which topics are fine, how often you will meet, and how either person can pause or end the exchange. If a partner ignores the time balance, pressures you, or makes you uncomfortable in any way, you have every right to end the exchange, politely and without explanation if you prefer. A good exchange should leave you feeling encouraged, not drained, and protecting that feeling is part of learning well. If you use the Lesson Solver tool for textbook exercises alongside your exchange, remember to verify its solutions against your textbook, keep in mind that AI can make mistakes, and note that the tool needs your own free Google AI Studio API key.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you prepare for exchange sessions. You can ask it to suggest simple conversation questions on a topic, or to help you draft a short introduction about yourself to practise before meeting your partner. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

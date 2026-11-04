@@ -5,8 +5,8 @@ seo_title: "Draw Maths Problems First: A Visual Problem-Solving Guide"
 meta_description: "Draw the problem before you calculate. Sketches, bar models, and geometry diagrams turn confusing maths word problems into pictures you can actually solve."
 focus_keyword: "visualise maths problems"
 date: "2026-10-20"
-updated: "2026-10-20"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["maths-skills", "visual-learning", "problem-solving", "study-skills"]
 featured_image: "/assets/images/blog/how-to-visualise-maths-problems-thumb.svg"
@@ -53,12 +53,6 @@ Knowing these tools is only half the work. The real gain comes from making draw-
 
 ![A flowchart showing the draw-first routine for maths problems](/assets/images/blog/how-to-visualise-maths-problems-diagram-1.svg)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can act as a patient study partner for your maths practice. A concrete way to use it for this topic: paste a confusing word problem and ask Muse to explain what is happening in plain everyday words — then sketch that description yourself before touching any numbers. You can also ask it to make you a revision checklist of which visual tool fits which problem type.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

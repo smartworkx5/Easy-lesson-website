@@ -5,8 +5,8 @@ seo_title: "How to Show Your Working and Earn Full Method Marks"
 meta_description: "Write every step clearly and earn partial credit. Layout rules, labelled steps, and examiner habits that turn method into marks even when the answer is wrong."
 focus_keyword: "show your working maths"
 date: "2026-10-20"
-updated: "2026-10-20"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["exam-prep", "maths-skills", "homework-help", "study-skills"]
 featured_image: "/assets/images/blog/how-to-show-your-working-thumb.svg"
@@ -49,12 +49,6 @@ A powerful exercise: swap solutions with a study partner and try to follow each 
 
 ![A flowchart showing the clear-working routine for earning method marks](/assets/images/blog/how-to-show-your-working-diagram-1.svg)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you sharpen how you present solutions. A concrete use: paste a solution you wrote and ask Muse to point out where a step needs a label, where the layout could be clearer, or where an examiner might get lost — then rewrite it yourself using that feedback. It can also rephrase a tangled explanation into a clean step-by-step version for you to study.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

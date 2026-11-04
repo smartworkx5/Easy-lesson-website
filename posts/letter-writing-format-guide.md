@@ -5,8 +5,8 @@ seo_title: "Letter Writing Format: A Clear Guide for Students Today"
 meta_description: "Learn letter writing format with clear formal and informal layouts. This guide covers addresses, greetings, body paragraphs, closings, and tone with examples."
 focus_keyword: "letter writing format"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["letter-writing", "writing-format", "formal-letters", "student-guides"]
 featured_image: "/assets/images/blog/letter-writing-format-guide-thumb.svg"
@@ -55,13 +55,6 @@ Tone should stay steady from greeting to closing. Formal letters stay polite and
 
 Presentation also matters. Use neat handwriting or clean typing, even spacing, and clear paragraphs. Leave a line between paragraphs, so the letter is easy to scan. Check spelling and punctuation before sending. A tidy letter shows that the writer cares about the message and the reader. Small details, such as a correct date and a complete address, build trust.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you practise letter writing by checking whether a draft letter has each part in the right place. You can ask it to suggest a polite opening for a formal request, or to check whether your tone stays steady from greeting to closing. Use its suggestions to revise, then keep the final letter in your own words.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
