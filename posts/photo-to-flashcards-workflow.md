@@ -5,8 +5,8 @@ seo_title: "Photo to Flashcards: Turn a Textbook Page into a Study Deck"
 meta_description: "Learn a photo to flashcards workflow that turns a textbook page into a clear study deck. Extract facts, write strong cards, and test yourself the smart way."
 focus_keyword: "photo to flashcards"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["photo-to-flashcards", "flashcards", "study-tips", "revision"]
 featured_image: "/assets/images/blog/photo-to-flashcards-workflow-thumb.svg"
@@ -55,10 +55,6 @@ One common mistake is writing cards with the answer hidden in the question. If t
 
 Another mistake is testing yourself by reading the answer first and deciding that you knew it. Be strict with yourself. If you could not say the answer before you looked, count it as a miss and review it again. Honest grading feels slower at first, but it builds much stronger memory.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. After you build a flashcard deck, you can ask it to suggest a short daily review order for your hardest cards, so your revision time stays focused. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

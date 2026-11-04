@@ -5,8 +5,8 @@ seo_title: "Turn a Textbook Page Photo into a Practice Quiz Today"
 meta_description: "Learn how to turn a textbook page photo into a practice quiz. Generate fair questions from the page, test yourself, and use every mistake to guide revision."
 focus_keyword: "textbook photo quiz"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["textbook-photo-quiz", "practice-quiz", "self-testing", "study-tips"]
 featured_image: "/assets/images/blog/photo-quiz-from-textbook-page-thumb.svg"
@@ -49,10 +49,6 @@ The same quiz method works across subjects with small changes. For science topic
 
 For any subject, keep the quiz short enough to finish in one focused session. Ten questions is often enough for one section. A short quiz you actually finish is far more useful than a long quiz you abandon. If a section is large, split it into two smaller quizzes and take them on different days.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. After a practice quiz, you can ask it to help you turn your three most common mistakes into a short revision checklist for your next study session. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

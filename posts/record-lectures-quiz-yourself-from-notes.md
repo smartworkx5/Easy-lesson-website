@@ -5,8 +5,8 @@ seo_title: "Record Lectures, Then Quiz Yourself From Your Own Notes"
 meta_description: "An update to a notebook study tool added lecture recording, quizzes, and spoken chat in nearly 100 languages. Learn a record, review, and self-quiz workflow."
 focus_keyword: "record lectures study"
 date: "2026-10-19"
-updated: "2026-10-19"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["ai-study-tools", "lecture-notes", "self-quizzing", "study-methods"]
 featured_image: "/assets/images/blog/record-lectures-quiz-yourself-from-notes-thumb.svg"
@@ -37,13 +37,6 @@ Once your notes are done, turn them into quiz questions. This is the step most s
 
 Study tools can record, summarise, quiz, and chat, but they cannot learn for you. A summary you never read is useless. A quiz you take while peeking at the answers teaches nothing. Spoken conversations with your notes help only if you answer in your own words instead of letting the tool do the talking. Also remember that AI tools can make mistakes. Always verify anything surprising against your textbook and your class notes. If a summary contradicts what your teacher said, trust your teacher and check the original material. The Lesson Solver tool can help here too: take a photo of a textbook page and ask for a step-by-step explanation of a point you are stuck on, and verify its solutions against the textbook. The tool needs your own free Google AI Studio API key to work. Used well, these tools save time and sharpen practice. Used passively, they create the illusion of learning. The difference is whether you do the thinking.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you quiz yourself. For example, you can ask it to turn your lesson notes into practice questions, then answer them from memory before checking. Always verify its questions and answers against your textbook and class notes.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

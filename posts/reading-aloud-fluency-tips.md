@@ -5,8 +5,8 @@ seo_title: "Reading Aloud: Fluency Tips for Clearer Confident Reading"
 meta_description: "Improve reading aloud fluency with practical tips on pace, punctuation pauses, and expression. Read clearly, confidently, and with natural feeling every time."
 focus_keyword: "reading aloud fluency"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["reading-aloud", "reading-fluency", "speaking-skills", "study-tips"]
 featured_image: "/assets/images/blog/reading-aloud-fluency-tips-thumb.svg"
@@ -59,12 +59,6 @@ Choose varied texts. Stories build expression. Informational passages build stea
 
 Track your progress. Keep a short log of what you read and what you practised. Note one strength and one area to improve each day. Over time, you will see your pace steady, your pauses sharpen, and your expression grow more natural. When you practise with textbook passages, verify your pronunciation and understanding against the textbook. AI tools can suggest practice passages, but they can make mistakes, so always check unfamiliar words yourself.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with this topic by suggesting a short daily read-aloud passage and giving you tips on pace, pauses, and expression for that passage.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

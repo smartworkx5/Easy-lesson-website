@@ -5,8 +5,8 @@ seo_title: "Rocks and Minerals: A Beginner's Collection Guide for All"
 meta_description: "Start a rocks and minerals collection with simple hardness, colour and streak tests. A beginner guide to testing, labelling and storing specimens safely."
 focus_keyword: "rocks and minerals beginners"
 date: "2026-11-03"
-updated: "2026-11-03"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["rocks-minerals", "geology-beginners", "rock-collection", "science-skills"]
 featured_image: "/assets/images/blog/rocks-and-minerals-beginners-thumb.svg"
@@ -83,13 +83,6 @@ Be cautious with online identification tools and AI suggestions. They can offer 
 
 Remember that some specimens cannot be identified confidently without specialist tools, and that is normal. A well-described unknown specimen, with clear tests and an honest label, is a successful piece of study. It shows that you value evidence over guessing.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you organise collection notes into clear study material. For this topic, you can ask it to help you turn specimen test notes into tidy labelled summaries.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,8 +5,8 @@ seo_title: "Poster Presentations: A Guide for Students That Works Well"
 meta_description: "Poster presentations guide for students: layout, fonts, and talking through your poster. Learn how to design a clear poster and present it with confidence."
 focus_keyword: "poster presentations guide"
 date: "2026-11-01"
-updated: "2026-11-01"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["poster-presentations", "presentation-skills", "design-tips", "student-tips"]
 featured_image: "/assets/images/blog/poster-presentations-guide-thumb.svg"
@@ -33,13 +33,6 @@ When someone stops at your poster, give them a short guided tour rather than rea
 
 Poster questions tend to be practical and specific: why you chose a method, what surprised you, what you would do differently. Prepare short answers for the most likely ones, and think about the weak points of your project honestly, so a challenging question does not catch you off guard. Keep a notebook or a copy of your project nearby, so you can check a detail instead of guessing. If you do not know an answer, say so and promise to check, just as you would after a classroom talk. Practise your short tour aloud at least once, ideally standing beside a printed poster or a mock-up, so the gestures of pointing and turning feel natural. On the day, stand beside your poster rather than in front of it, keep water nearby, and smile at people passing by. A welcoming presenter attracts far more visitors than a perfect poster alone.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan a poster presentation. You can ask it to help you shorten a section of text into clear bullet points, or to suggest a simple order for your poster sections. It gives general planning help, not verified answers, so always check your content against your textbook or notes before presenting.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

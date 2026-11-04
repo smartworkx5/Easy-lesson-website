@@ -5,14 +5,17 @@ seo_title: "Photosynthesis Explained Simply: How Plants Make Food"
 meta_description: "Learn photosynthesis explained in plain words: how sunlight, water, and carbon dioxide become glucose and oxygen, plus the word equation and why it matters."
 focus_keyword: "photosynthesis explained"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["photosynthesis", "plant-science", "biology-basics", "study-guides"]
 featured_image: "/assets/images/blog/photosynthesis-explained-simply-thumb.svg"
 featured_image_alt: "A diagram showing how a plant uses sunlight, water, and carbon dioxide to make food."
 status: "published"
 ---
+
+**Direct answer:** Photosynthesis is how green plants make their own food. Using light energy captured by chlorophyll, a plant combines carbon dioxide from the air with water from its roots to make glucose, its food, and releases oxygen as a by-product. The word equation is carbon dioxide plus water plus light energy gives glucose plus oxygen.
+
 Photosynthesis explained in the simplest way is this: plants make their own food using sunlight, water, and carbon dioxide. While animals must find and eat food, a green plant can build its own food from things around it. That single ability supports nearly all life on Earth, because the food chains that feed animals begin with plants and other photosynthetic organisms. If you can describe the inputs, the outputs, and the word equation, you already understand the heart of this topic.
 
 ## What Photosynthesis Means
@@ -64,19 +67,23 @@ A good study habit is to draw the process yourself rather than only reading abou
 3. Which pigment captures light energy in a plant? Chlorophyll, the green pigment inside chloroplasts.
 4. Why is oxygen called a by-product of photosynthesis? Because the plant's main product is glucose, its food, and oxygen is released as a side result.
 
+## Photosynthesis at a glance
+
+| Question | Answer from this guide |
+| --- | --- |
+| What are the inputs? | Sunlight, water, and carbon dioxide |
+| What captures the light? | Chlorophyll, inside chloroplasts |
+| What is produced? | Glucose, the plant's food, and oxygen, a by-product |
+| What happens in the light-dependent stage? | Chlorophyll captures light energy and splits water molecules, releasing oxygen |
+| What happens in the light-independent stage? | The energy captured earlier is used to build glucose from carbon dioxide |
+| Does photosynthesis happen at night? | No, it needs light; at night plants still respire, taking in oxygen and releasing carbon dioxide |
+
 ## Conclusion
 
 Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to make glucose and release oxygen. The word equation captures the whole idea in one line, and the leaf, with its chloroplasts and stomata, is the structure that makes it possible. If you understand the inputs, the outputs, and why the process matters for all life, you have mastered the core of this topic. If you check a textbook answer with the Lesson Solver tool, compare it with your textbook, since AI can make mistakes. The tool needs your own free Google AI Studio API key, and it can read textbook photos in English, Urdu, and Sindhi.
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with this topic by explaining photosynthesis in simpler words, quizzing you on the word equation, or turning your notes into a short revision checklist.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

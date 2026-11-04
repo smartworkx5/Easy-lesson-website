@@ -5,8 +5,8 @@ seo_title: "Pythagoras Theorem Explained with a Simple Diagram"
 meta_description: "Learn Pythagoras' theorem with a simple diagram: find the hypotenuse or a missing side of any right triangle using a squared plus b squared equals c squared."
 focus_keyword: "pythagoras theorem explained"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["pythagoras-theorem", "geometry-help", "right-triangles"]
 featured_image: "/assets/images/blog/pythagoras-theorem-explained-thumb.svg"
@@ -83,10 +83,6 @@ Pythagoras' theorem says that in a right triangle, a squared + b squared = c squ
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by walking through a right-triangle problem where you decide whether to add or subtract the squares. Ask it for one fresh example, solve it yourself, and compare answers. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

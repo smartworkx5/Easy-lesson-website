@@ -5,8 +5,8 @@ seo_title: "Ratios and Proportions Explained with Everyday Examples"
 meta_description: "Understand ratios and proportions through recipe scaling: simplify ratios, share amounts in a given ratio, and solve proportions with cross-multiplication."
 focus_keyword: "ratios and proportions"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["ratios-and-proportions", "maths-basics", "everyday-maths"]
 featured_image: "/assets/images/blog/ratios-and-proportions-explained-thumb.svg"
@@ -83,10 +83,6 @@ A ratio compares quantities in order; a proportion says two ratios are equal. Si
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by setting up a sharing or scaling problem with fresh numbers so you can practise the total-parts method. Ask it for one new ratio problem, solve it yourself, and compare answers. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
