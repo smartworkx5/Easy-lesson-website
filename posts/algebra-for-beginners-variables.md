@@ -5,8 +5,8 @@ seo_title: "Algebra for Beginners: What Do Variables Really Mean"
 meta_description: "Understand algebra from scratch: what variables mean, how expressions work, and how to solve simple equations with a mystery-number mindset and worked examples."
 focus_keyword: "algebra for beginners"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["algebra-for-beginners", "variables-explained", "maths-basics"]
 featured_image: "/assets/images/blog/algebra-for-beginners-variables-thumb.svg"
@@ -83,10 +83,6 @@ A variable is a mystery number, and an equation is a balanced scale. To solve it
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by re-explaining a variable or undo step in a different way when the textbook version does not click. Ask it to explain "what x means" using a fresh everyday example, then compare it with your class notes. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

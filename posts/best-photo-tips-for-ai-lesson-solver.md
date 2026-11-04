@@ -5,8 +5,8 @@ seo_title: "Best Photo Tips for Getting Accurate AI Lesson Help"
 meta_description: "Learn the best photo tips for AI lesson help with seven rules. Get sharper photos, clearer explanations, and more accurate answers from every lesson photo."
 focus_keyword: "photo tips ai lesson solver"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["photo-tips", "ai-lesson-solver", "study-tips", "homework-help"]
 featured_image: "/assets/images/blog/best-photo-tips-for-ai-lesson-solver-thumb.svg"
@@ -67,10 +67,6 @@ The final rule is to check before and after. Before you send the photo, ask: Is 
 
 After you receive the explanation, review it with the same care. Read each step, compare it with your textbook, and try the question yourself without looking. If a step looks wrong, check whether the photo included the full question and whether any symbol was misread. Good photos plus careful review produce the most accurate and useful help.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. For photo quality, you can ask it to turn these seven rules into a short checklist you can keep beside your study desk and follow every time you photograph a lesson. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

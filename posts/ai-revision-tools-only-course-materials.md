@@ -5,8 +5,8 @@ seo_title: "AI Revision Tools That Only Use Your Course Materials"
 meta_description: "Some AI revision tools answer only from your own course materials. Discover why grounded revision beats generic answers and how to use it well for recall."
 focus_keyword: "ai revision tool course materials"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["ai-revision", "course-materials", "study-tools", "revision-tips"]
 featured_image: "/assets/images/blog/ai-revision-tools-only-course-materials-thumb.svg"
@@ -51,13 +51,6 @@ A photo-based solver fits naturally here. When a worked example in your textbook
 
 For the wider shift toward AI built into textbook platforms, see [AI Study Tools Are Moving Inside Your Textbook Platform](/blog/ai-study-tools-inside-textbooks-2026.html). And for AI help that aims at understanding rather than quick answers, read [Personalised AI Learning: Understanding, Not Just Answers](/blog/personalised-ai-learning-understanding-not-answers.html).
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. For this topic, you can paste in your own revision notes and ask it to build a self-test that uses only those notes, with no outside facts added.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

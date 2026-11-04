@@ -5,8 +5,8 @@ seo_title: "Using AI to Practise a New Language: A Practical Guide"
 meta_description: "Learn how to use AI for language learning practice: conversation, corrections, vocabulary, and listening habits that build real fluency through daily effort."
 focus_keyword: "ai language learning practice"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["ai-language-learning", "language-practice", "vocabulary", "conversation-practice"]
 featured_image: "/assets/images/blog/ai-for-language-learning-practice-thumb.svg"
@@ -49,11 +49,6 @@ A sustainable routine is short, varied, and regular. A daily session of twenty t
 
 Set small, concrete goals. Instead of aiming to become fluent, aim to hold a two-minute conversation about your day, or to write a paragraph with only a few errors. Small goals give you frequent wins, and those wins keep you practising. Track your progress in a notebook: new words learned, conversations completed, and errors corrected. Evidence of progress is a powerful motivator.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you practise a new language by role-playing everyday conversations and giving gentle corrections on your sentences. If you want extra speaking practice, you can ask Muse AI to keep a conversation going at your level with simple, everyday topics. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

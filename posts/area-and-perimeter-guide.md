@@ -5,8 +5,8 @@ seo_title: "Area and Perimeter: A Clear Guide with Worked Examples"
 meta_description: "Tell area and perimeter apart for good: the fence-versus-carpet analogy, formulas for rectangles, squares, and triangles, plus worked examples and practice."
 focus_keyword: "area and perimeter"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["area-and-perimeter", "geometry-help", "maths-basics"]
 featured_image: "/assets/images/blog/area-and-perimeter-guide-thumb.svg"
@@ -85,10 +85,6 @@ Perimeter is the fence — add up all the sides, measured in ordinary units. Are
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by talking through whether a problem asks for a fence or a carpet before you calculate. Describe the shape and the question, and ask which formula fits. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

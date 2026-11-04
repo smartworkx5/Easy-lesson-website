@@ -5,8 +5,8 @@ seo_title: "Angles Explained Geometry: Types, Rules, Measuring"
 meta_description: "Learn angles from scratch: acute, right, obtuse, and straight angles, how to measure with a protractor, and the angle-pair rules that solve most problems."
 focus_keyword: "angles explained geometry"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["angles-explained", "geometry-help", "maths-basics"]
 featured_image: "/assets/images/blog/basic-geometry-angles-explained-thumb.svg"
@@ -85,10 +85,6 @@ An angle measures a turn in degrees: acute is under 90°, right is exactly 90°,
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by identifying which angle rule applies to a diagram you describe — complementary, supplementary, vertical, or triangle angles. Describe the diagram and ask which rule fits. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,8 +5,8 @@ seo_title: "Active Recall: The Study Method That Builds Memory"
 meta_description: "Active recall is a study method that builds lasting memory. Learn how closed-book checks, flashcards, and self-quizzing make study sessions more effective."
 focus_keyword: "active recall study method"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["active-recall", "study-methods", "memory", "self-testing"]
 featured_image: "/assets/images/blog/active-recall-study-method-explained-thumb.svg"
@@ -83,13 +83,6 @@ Active recall works because it practises the exact skill a test requires: produc
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you build active recall practice for any lesson. Ask it to turn a topic into ten self-test questions, or to quiz you one question at a time and wait for your answer. Use its questions as general practice, and always verify answers against your textbook.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
