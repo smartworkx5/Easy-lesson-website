@@ -5,8 +5,8 @@ seo_title: "Percentages Made Easy: Fractions to Real-Life Problems"
 meta_description: "Learn percentages with the per-hundred idea: convert fractions to percents, find a percent of any number, and solve discounts and real-life everyday problems."
 focus_keyword: "percentages made easy"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["percentages-made-easy", "maths-basics", "everyday-maths"]
 featured_image: "/assets/images/blog/percentages-made-easy-thumb.svg"
@@ -83,10 +83,6 @@ A percentage is simply a fraction out of 100. Convert between fractions, decimal
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by walking through a discount or percentage-increase problem with a different set of numbers so you can practise the method. Ask it for one fresh worked example, then solve it yourself and compare answers. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

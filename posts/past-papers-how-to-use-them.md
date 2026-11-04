@@ -5,8 +5,8 @@ seo_title: "How to Use Past Papers for Maximum Exam Marks and Success"
 meta_description: "Learn how to use past papers for maximum exam marks: timed practice, careful marking, mark-scheme review and a mistake log to turn practice into real progress."
 focus_keyword: "past papers exam prep"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["past-papers-exam-prep", "practice-papers", "exam-practice", "study-tips"]
 featured_image: "/assets/images/blog/past-papers-how-to-use-them-thumb.svg"
@@ -67,12 +67,6 @@ Do not save all papers for the last week. Spreading them across your preparation
 
 Also mix paper practice with other study. Papers test you, but they do not teach new material on their own. Use textbooks and notes to learn, then use papers to test and refine. Always verify your answers against your textbook and mark scheme. AI tools can make mistakes, so use them to explain and practise, not as your only source of truth.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant that can help you get more from practice papers. For past papers, you can ask it to explain a mark-scheme answer in simpler words, help you write a mistake-log entry for a question you got wrong, or quiz you on a topic that keeps costing you marks.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,8 +5,8 @@ seo_title: "Multi-Step Problems: How to Handle Them Without Getting Lost"
 meta_description: "Break big problems into numbered stages, track intermediate answers, and check each stage. A calm system for multi-step problems so you never lose your way."
 focus_keyword: "multi step problems"
 date: "2026-10-20"
-updated: "2026-10-20"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["problem-solving", "exam-prep", "homework-help", "maths-skills"]
 featured_image: "/assets/images/blog/multi-step-problems-how-to-handle-thumb.svg"
@@ -55,12 +55,6 @@ Review your staged solutions when work comes back marked. Where did errors actua
 
 ![A flowchart of the staged method for multi-step problems](/assets/images/blog/multi-step-problems-how-to-handle-diagram-1.svg)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you practise staged problem solving. A concrete use: give Muse a multi-step problem and ask it to help you break it into numbered stages and name what each stage should produce — without doing the calculations for you. You can also ask it to generate multi-step practice problems with a clear stage structure.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

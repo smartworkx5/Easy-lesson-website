@@ -5,8 +5,8 @@ seo_title: "Photo Help for Science Diagrams: Labelling and Explaining"
 meta_description: "Learn how photo help for science diagrams works. Label parts clearly, understand each function, and quiz yourself so diagrams become easy to remember."
 focus_keyword: "science diagrams photo help"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["science-diagrams", "photo-help", "homework-help", "study-tips"]
 featured_image: "/assets/images/blog/photo-help-for-science-diagrams-thumb.svg"
@@ -55,10 +55,6 @@ One common mistake is photographing only the diagram without its title or captio
 
 Another mistake is studying the diagram only once. Diagrams need spaced review like any other topic. Look at the diagram again the next day, and again after a few days, each time trying to label and explain it without help. Short, repeated reviews beat one long session.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. For science diagrams, you can ask it to turn your labels into a short oral quiz, asking you one part at a time so you can practise recalling each function aloud. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

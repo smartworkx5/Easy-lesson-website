@@ -5,8 +5,8 @@ seo_title: "The Memory Palace Technique for Students Explained"
 meta_description: "Learn the memory palace technique step by step: pick a familiar route, place vivid images along it, and recall lists and facts in order with less effort."
 focus_keyword: "memory palace technique"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["memory-palace", "memory", "revision", "study-tips"]
 featured_image: "/assets/images/blog/memory-palace-technique-students-thumb.svg"
@@ -61,9 +61,6 @@ The memory palace works best alongside understanding, not instead of it. Before 
 
 Combine the palace with other revision methods. After you build a palace, test yourself by writing the list from memory. Then compare it with your notes. You can also use [flashcards](/blog/flashcards-that-work.html) for the individual facts, and use the palace for their order. For a broader plan that includes spaced review, pair the palace with [spaced repetition](/blog/spaced-repetition-explained.html) so you revisit the route over time.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with the memory palace technique by suggesting vivid image ideas that link each item on your list to a stop on your route. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code. Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

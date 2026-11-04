@@ -5,8 +5,8 @@ seo_title: "Managing Classroom Time: Pace Lessons Without Rushing"
 meta_description: "Managing classroom time means pacing lessons without rushing: plan backwards, give every part a job, and protect time for practice. Practical teacher guide."
 focus_keyword: "managing classroom time"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["classroom-time", "lesson-pacing", "time-management", "teaching-strategies"]
 featured_image: "/assets/images/blog/managing-classroom-time-thumb.svg"
@@ -73,13 +73,6 @@ Managing classroom time is not about rushing. It is about planning backwards fro
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan a well-paced lesson. Ask it to split a topic into timed parts — opening, explanation, guided work, practice, and closing — with a plan for what to cut if time runs short. Check the plan against your class and your lesson length, since its ideas are general help, not verified teaching material.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,14 +5,17 @@ seo_title: "Parts of Speech Explained with Simple Examples Guide"
 meta_description: "Learn the 8 parts of speech with clear, simple examples. See how nouns, verbs, adjectives, and more work together in real sentences for stronger writing."
 focus_keyword: "parts of speech"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["parts-of-speech", "grammar-basics", "english-grammar", "writing-skills"]
 featured_image: "/assets/images/blog/parts-of-speech-explained-thumb.svg"
 featured_image_alt: "A diagram showing the eight parts of speech with example words for each one."
 status: "published"
 ---
+
+**Direct answer:** The eight parts of speech are noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection. Each word's job depends on what it does in its sentence, not on the word alone. Find the verb and subject first, then label the words that name, describe, connect, or add feeling.
+
 Every sentence you read or write is built from small building blocks. The parts of speech are the eight jobs that words can do in a sentence. When you know each job, grammar stops feeling like a set of random rules and starts feeling like a clear system. You can spot why a sentence works, fix a sentence that sounds wrong, and choose stronger words when you write.
 
 Learning the parts of speech helps you in every kind of writing. It helps you build correct sentences, understand reading passages, and explain your ideas with more precision. This guide introduces all eight parts with simple examples, shows how they work together, and gives you a step-by-step way to label any sentence.
@@ -59,12 +62,19 @@ Try this method on a short sentence: "The careful student quietly reviewed her n
 
 If you get stuck, try changing the word or removing it. If the sentence still makes sense without the word, the word may be a modifier such as an adjective or adverb. If removing the word breaks the sentence, it may be a subject, verb, or connector. Always check the word in context, because the same word can change jobs. For a deeper look at how verbs show time, see [English Tenses Explained Simply with a Timeline](/blog/tenses-explained-simply.html), and for using these parts in longer writing, see [How to Write a Good Paragraph](/blog/how-to-write-a-good-paragraph.html). If a textbook exercise asks you to label words, solve it step by step and verify your answers against the textbook. AI tools can suggest labels, but they can make mistakes, so always check the logic yourself.
 
-## AI Help: Muse AI
+## What are the 8 parts of speech at a glance?
 
-Muse AI is Meta's personal AI assistant. It can help with this topic by giving you extra practice sentences and explaining why each word belongs to a particular part of speech.
+| Part of speech | Job in a sentence | Example from this guide |
+| --- | --- | --- |
+| Noun | Names a person, place, thing, or idea | Maya, book |
+| Pronoun | Takes the place of a noun | she, her |
+| Verb | Shows action or a state of being | reviewed, read |
+| Adjective | Describes a noun or pronoun | tall, careful |
+| Adverb | Describes a verb, adjective, or another adverb | quietly, clearly |
+| Preposition | Shows the relationship between words | under, after |
+| Conjunction | Connects words, phrases, or clauses | and, because |
+| Interjection | Expresses strong feeling | Wow |
 
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

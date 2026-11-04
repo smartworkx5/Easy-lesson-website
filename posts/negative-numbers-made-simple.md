@@ -5,8 +5,8 @@ seo_title: "Negative Numbers Explained: Simple Rules That Make Sense"
 meta_description: "Make sense of negative numbers with a number-line model: adding, subtracting, multiplying, and dividing negatives, with worked examples and clear sign rules."
 focus_keyword: "negative numbers explained"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["negative-numbers", "integers-help", "maths-basics"]
 featured_image: "/assets/images/blog/negative-numbers-made-simple-thumb.svg"
@@ -88,10 +88,6 @@ Negative numbers live on the left of zero, and the number line explains every ru
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by checking the sign of each step in a negative-number calculation and explaining where a sign flipped. Show it your working and ask which step has the sign error. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
