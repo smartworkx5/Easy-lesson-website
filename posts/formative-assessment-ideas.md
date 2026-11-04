@@ -5,8 +5,8 @@ seo_title: "Formative Assessment Ideas to Use in Class Tomorrow"
 meta_description: "Formative assessment ideas you can use tomorrow: quick checks, exit tickets, and questions that reveal thinking — plus how to use what you learn the next day."
 focus_keyword: "formative assessment ideas"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["For Teachers"]
 tags: ["formative-assessment", "classroom-assessment", "exit-tickets", "teaching-strategies"]
 featured_image: "/assets/images/blog/formative-assessment-ideas-thumb.svg"
@@ -65,13 +65,6 @@ Formative assessment does not need to be complicated. Ask one good question, col
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you write formative assessment checks. Ask it to draft three exit ticket questions for a topic, or to suggest a reasoning question that reveals a common misunderstanding. Check every question against your textbook and your students' level before using it, since its ideas are general help, not verified teaching material.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

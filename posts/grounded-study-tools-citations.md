@@ -5,8 +5,8 @@ seo_title: "Checking Citations: Study Tools You Can Trust Today"
 meta_description: "Learn how to check citations from study tools, trace every claim back to a real published source, and build study notes you can actually trust for revision."
 focus_keyword: "grounded study tools citations"
 date: "2026-11-03"
-updated: "2026-11-03"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["study-tools", "citations", "source-checking", "revision"]
 featured_image: "/assets/images/blog/grounded-study-tools-citations-thumb.svg"
@@ -71,12 +71,6 @@ Over time, the routine becomes faster. You learn which sources in your subject a
 
 ![Checking a citation step by step](/assets/images/blog/grounded-study-tools-citations-diagram-1.svg)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help you turn a long explanation into a short source-checking checklist for a topic you are revising. Use it to practise asking whether a claim is supported, what evidence would confirm it, and how to phrase the idea in your own words.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,8 +5,8 @@ seo_title: "Gemini Study Tools in the Classroom: A Student Guide"
 meta_description: "Classroom study tools can now turn class material into study guides, quizzes, and flashcards. Learn a workflow that uses them for real learning, not shortcuts."
 focus_keyword: "gemini classroom study tools"
 date: "2026-10-26"
-updated: "2026-10-26"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["gemini-study-tools", "ai-study-tools", "classroom-learning"]
 featured_image: "/assets/images/blog/gemini-classroom-study-tools-students-thumb.svg"
@@ -37,10 +37,6 @@ The golden rule for AI study tools is simple: you stay in charge. Use the tool t
 
 ![A study workflow: guide, quiz, flashcards, review](/assets/images/blog/gemini-classroom-study-tools-students-diagram-1.svg)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can support this study workflow. Ask it to turn a lesson summary into a short self-test, then check every answer against your textbook. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

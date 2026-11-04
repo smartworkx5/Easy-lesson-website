@@ -5,8 +5,8 @@ seo_title: "How to Read Graphs and Charts: A Complete Student Guide"
 meta_description: "Learn how to read graphs and charts: axes, legends, and scales explained, plus how to spot trends and anomalies and three questions to ask before interpreting."
 focus_keyword: "how to read graphs and charts"
 date: "2026-10-20"
-updated: "2026-10-20"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["graphs-and-charts", "data-literacy", "study-skills"]
 featured_image: "/assets/images/blog/graphs-and-charts-reading-guide-thumb.svg"
@@ -37,12 +37,6 @@ Anomalies are points that break the pattern: a sudden spike, a dip, or a value f
 
 Make this your ritual for every chart. Question one: what exactly is being measured, in what units, over what period? Question two: what is the overall trend or pattern? Question three: what is unusual, and what might explain it? Answer all three in your head before you read the exam question. Most students do the reverse: they read the question first, then hunt the chart for a matching number, which leads to cherry-picked answers. The three-question ritual takes under a minute and gives you a complete understanding that handles any question the exam throws at you.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. Describe a chart from your textbook to it and ask what trend and anomalies it would point out, then compare with your own reading. It can also explain confusing chart types in plain words before you tackle data questions.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

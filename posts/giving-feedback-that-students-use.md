@@ -5,8 +5,8 @@ seo_title: "Giving Feedback Students Actually Use: A Teacher Guide"
 meta_description: "Giving feedback students actually use means short, specific, forward-looking notes. Learn how to write feedback students read, act on, and learn from."
 focus_keyword: "feedback students use"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["For Teachers"]
 tags: ["student-feedback", "teacher-feedback", "marking-tips", "assessment"]
 featured_image: "/assets/images/blog/giving-feedback-that-students-use-thumb.svg"
@@ -73,13 +73,6 @@ Feedback students actually use is short, specific, and forward-looking: one stre
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you draft short, specific feedback phrases for common patterns in student work. Ask it for a one-strength, one-next-step comment for a typical error, then adapt the wording to your students. Its drafts are general help, not verified assessment material.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

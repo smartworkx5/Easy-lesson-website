@@ -5,14 +5,17 @@ seo_title: "Fractions Explained Simply: Parts, Wholes, Examples"
 meta_description: "Learn fractions simply: what numerators and denominators mean, how to compare and add fractions, and everyday examples that make part-whole ideas click."
 focus_keyword: "fractions explained"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["fractions-explained", "maths-basics", "study-tips"]
 featured_image: "/assets/images/blog/fractions-explained-simply-thumb.svg"
 featured_image_alt: "A circle divided into four equal parts with three parts shaded to show three quarters."
 status: "published"
 ---
+
+**Direct answer:** A fraction is a part of a whole split into equal parts. The denominator, the bottom number, counts how many equal parts the whole has, and the numerator, the top number, counts how many parts you have. So 3/4 means three parts out of four equal parts.
+
 Fractions explained simply start with one picture: a part of a whole. in recipes, in measurements, in test scores, and in everyday sharing. Yet many students find them confusing because a fraction looks like two numbers stacked on top of each other. Once you see a fraction as a simple picture — a part of a whole — the mystery disappears. This guide builds that picture step by step, with worked examples you can follow and check.
 
 ## Fractions Explained: What a Fraction Really Means
@@ -77,16 +80,23 @@ Answers: (1) Divide 30 by 5 to get 6, then multiply by 2 to get 12. (2) 3/8 + 1/
 
 Fractions also lead naturally into [percentages](/#tool) and decimal work, and our guide to [Percentages Made Easy](/blog/percentages-made-easy.html) builds directly on the part-whole picture from this article. When you are stuck on a textbook fraction problem, snap a photo of the page and let the Lesson Solver walk through it step by step. Always verify the solution against your textbook, since AI can make mistakes, and note that the tool needs your own free Google AI Studio API key. The tool also accepts textbook photos in English, Urdu, and Sindhi as a multilingual feature.
 
+## Fractions at a glance
+
+| Skill | Method | Example from this guide |
+| --- | --- | --- |
+| Find a fraction of a number | Divide by the denominator, then multiply by the numerator | 3/4 of 20 = 15 |
+| Add fractions with the same denominator | Add the numerators, keep the denominator | 3/8 + 1/8 = 4/8 = 1/2 |
+| Add fractions with different denominators | Rewrite with a common denominator, then add | 1/2 + 1/4 = 2/4 + 1/4 = 3/4 |
+| Compare fractions | Rewrite with a common denominator | 2/3 = 8/12 and 3/4 = 9/12, so 3/4 is bigger |
+| Simplify a fraction | Divide the top and bottom by the same number | 12/16 = 3/4 |
+| Proper and improper fractions | A proper fraction is smaller than 1; an improper fraction is 1 or larger | 3/4 is proper; 7/4 = 1 and 3/4 |
+
 ## Conclusion
 
 A fraction is simply a part of a whole: the denominator counts the equal parts, and the numerator counts how many you have. Divide by the denominator and multiply by the numerator to find a fraction of a number, use a common denominator to add or compare fractions, and always simplify at the end. Draw the picture whenever you feel unsure — a shaded rectangle or a number line turns an abstract symbol into something you can see. With these habits, fractions stop being a source of confusion and become a reliable tool for everyday maths.
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by explaining a tricky fraction step in simpler words or checking your reasoning on a practice problem. Ask it to re-explain a common-denominator step with a fresh example, then compare its explanation with your textbook. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

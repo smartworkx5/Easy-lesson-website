@@ -5,8 +5,8 @@ seo_title: "Forces and Motion Basics: Push, Pull, and Friction"
 meta_description: "Forces and motion basics made simple: pushes, pulls, friction, gravity, and balanced vs unbalanced forces, with everyday examples you can observe at home."
 focus_keyword: "forces and motion basics"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["forces", "motion", "friction", "physics-basics"]
 featured_image: "/assets/images/blog/forces-and-motion-basics-thumb.svg"
@@ -60,13 +60,6 @@ A force is a push or a pull, and forces explain why things start moving, stop mo
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with this topic by naming the forces in an everyday scene, explaining balanced and unbalanced forces with fresh examples, or quizzing you on friction and gravity.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
