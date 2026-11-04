@@ -5,8 +5,8 @@ seo_title: "How to Improve Speaking Fluency with Small Daily Habits"
 meta_description: "Improve speaking fluency with small daily habits, not long rare sessions. Learn how short talks, repetition, and simple routines build smooth, confident speech."
 focus_keyword: "improve speaking fluency"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["speaking-fluency", "daily-habits", "speaking-skills", "confidence"]
 featured_image: "/assets/images/blog/how-to-improve-speaking-fluency-thumb.svg"
@@ -73,13 +73,6 @@ Fluency grows from small daily habits: a few minutes of speaking, repetition of 
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you build speaking fluency by suggesting daily speaking topics and simple phrases for connecting your ideas. Ask it to write a one-minute talk prompt at your level, or to list recovery phrases for moments when you get stuck. Use its prompts as general practice, and pair them with real speaking every day.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

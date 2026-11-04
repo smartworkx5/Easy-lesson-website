@@ -6,7 +6,7 @@ meta_description: "Learn how much sleep students need, the signs that show you a
 focus_keyword: "how much sleep students need"
 date: "2026-11-04"
 updated: "2026-11-04"
-author: "Easy Lesson Team"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["sleep-and-learning", "healthy-study-habits", "study-tips", "student-wellbeing"]
 featured_image: "/assets/images/blog/how-much-sleep-students-need-thumb.svg"
@@ -47,11 +47,6 @@ When study load grows, sleep is usually the first casualty, but it is the worst 
 
 If your workload genuinely does not fit, that is information, not failure. Talk to a teacher about priorities, drop low-value tasks, and schedule rest the way you schedule lessons. A plan that requires chronic sleep loss is not a serious plan; it is a debt that your grades, mood, and health will eventually repay. If you are unsure how much sleep is right for your age, check a trusted health guide or ask a trusted adult for guidance.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by explaining sleep needs in plain language or by helping you draft a simple sleep diary to track your own patterns. Ask it to turn your diary notes into a weekly summary of what helps you wake up rested.
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

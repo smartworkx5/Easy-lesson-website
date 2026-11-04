@@ -5,8 +5,8 @@ seo_title: "How to Revise a Whole Textbook Before an Exam Calmly"
 meta_description: "Learn how to revise a whole textbook: skim for structure, build concise notes, turn headings into questions, and practise recall so you cover all of it."
 focus_keyword: "revise whole textbook"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["textbook-revision", "exam-preparation", "study-plan", "study-tips"]
 featured_image: "/assets/images/blog/how-to-revise-a-whole-textbook-thumb.svg"
@@ -77,9 +77,6 @@ If you fall behind, do not panic. Adjust the plan. Focus on the highest-value wo
 
 Remember that revision is not about perfection. It is about steady progress across the whole book. Each chapter you survey, summarise, test, and practise makes you better prepared. Keep moving, one chapter at a time, and trust the process.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with textbook revision by turning a chapter outline into a set of self-test questions you can use after each study session. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code. Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,8 +5,8 @@ seo_title: "How to Answer Long Essay Questions in Exams Clearly"
 meta_description: "Learn how to answer long essay questions: plan in five minutes, build a clear structure, use evidence, stay on topic and finish strong within your time limit."
 focus_keyword: "long essay questions exams"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["long-essay-questions", "essay-exams", "exam-writing", "study-tips"]
 featured_image: "/assets/images/blog/how-to-answer-long-essay-questions-thumb.svg"
@@ -69,12 +69,6 @@ Check that your introduction and conclusion match. If your conclusion says somet
 
 Finally, check the basics: Did you answer every part of the question? If the question has two parts, make sure both are covered. A strong answer to one part and silence on the other will lose marks. A quick check against the question wording can catch this before you hand in your paper.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant that can help you practise essay writing and planning. For long essay questions, you can ask it to help you turn a practice question into a five-minute plan, suggest a clear structure, or check whether your paragraph actually answers the question.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

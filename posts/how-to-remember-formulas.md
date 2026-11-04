@@ -5,8 +5,8 @@ seo_title: "How to Remember Formulas Without Rote Cramming Easily"
 meta_description: "Struggling to remember formulas? Learn to derive them, connect each symbol to its meaning, and practise in varied ways so formulas stick without cramming."
 focus_keyword: "remember formulas"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["formulas", "memory", "problem-solving", "study-tips"]
 featured_image: "/assets/images/blog/how-to-remember-formulas-thumb.svg"
@@ -69,9 +69,6 @@ Another mistake is practising only one type of problem. If every practice proble
 
 A third mistake is copying formulas without checking them. A small copying error can become a memorised error. Always verify each formula against your textbook before you practise with it. AI tools and notes can contain mistakes, so the textbook is the final check. If a formula feels wrong during practice, stop and verify it rather than drilling the error.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with formulas by explaining what each symbol means in plain words and suggesting a short practice problem for a formula you are learning. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code. Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

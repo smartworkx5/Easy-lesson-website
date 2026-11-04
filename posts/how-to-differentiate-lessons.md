@@ -5,8 +5,8 @@ seo_title: "How to Differentiate Lessons for Mixed-Ability Classes"
 meta_description: "How to differentiate lessons for mixed-ability classes: one lesson, three entry points, varied support, and checks that show everyone is learning. Tips inside."
 focus_keyword: "differentiate lessons"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["For Teachers"]
 tags: ["differentiated-lessons", "mixed-ability", "teaching-strategies", "inclusion"]
 featured_image: "/assets/images/blog/how-to-differentiate-lessons-thumb.svg"
@@ -73,13 +73,6 @@ Differentiating for a mixed-ability class does not require three lessons. It req
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you differentiate a lesson. Ask it to turn one activity into a supported version with extra steps and a stretch version with a harder question, then check both versions against your students' level. Its drafts are general help, not verified teaching material.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
