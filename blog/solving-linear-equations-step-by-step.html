@@ -7,6 +7,9 @@
   <meta name="description" content="Solve linear equations with the balance method: undo operations on both sides, handle brackets and variables on both sides, and check every answer carefully.">
   <link rel="canonical" href="https://easy-lesson-website.vercel.app/blog/solving-linear-equations-step-by-step.html">
   <meta name="robots" content="index, follow">
+  <!-- Google Analytics is loaded by /assets/js/main.js, delayed until first
+       interaction or idle-after-load (2026-10-30 performance fix). Do NOT
+       re-add an inline gtag block here: it cost ~440ms TBT + 75KB unused JS. -->
   <!-- ADSENSE_SCRIPT: ca-pub-XXXXXXXXXXXXXXXX -->
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Easy Lesson">
@@ -21,10 +24,6 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#2563eb">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-  <noscript><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <script type="application/ld+json">
   {
@@ -34,10 +33,11 @@
   "description": "Solve linear equations with the balance method: undo operations on both sides, handle brackets and variables on both sides, and check every answer carefully.",
   "image": "https://easy-lesson-website.vercel.app/assets/images/blog/solving-linear-equations-step-by-step-thumb.svg",
   "datePublished": "2026-10-16",
-  "dateModified": "2026-10-16",
+  "dateModified": "2026-11-04",
   "author": {
-    "@type": "Organization",
-    "name": "Easy Lesson Team"
+    "@type": "Person",
+    "name": "Tasleem Sanjrani",
+    "url": "https://easy-lesson-website.vercel.app/about.html#author"
   },
   "publisher": {
     "@type": "Organization",
@@ -53,7 +53,7 @@
     "@id": "https://easy-lesson-website.vercel.app/blog/solving-linear-equations-step-by-step.html"
   },
   "inLanguage": "en",
-  "wordCount": 1804
+  "wordCount": 1725
 }
   </script>
   <script type="application/ld+json">
@@ -87,7 +87,7 @@
 <a class="skip-link" href="#main">Skip to main content</a>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="logo" href="/"><span class="logo-mark">E</span> Easy Lesson</a>
+      <a class="logo" href="/" aria-label="Easy Lesson home"><span class="logo-mark">E</span> Easy Lesson</a>
       <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
       <nav class="main-nav" id="main-nav" aria-label="Main navigation">
         <a href="/">Home</a>
@@ -109,10 +109,10 @@
       <div class="container">
         <p class="post-meta"><a href="/blog/?category=How-To%20Guides">How-To Guides</a></p>
         <h1>Solving Linear Equations Step by Step</h1>
-        <p class="post-meta">By Easy Lesson Team · Published October 16, 2026 · 10 min read</p>
+        <p class="post-meta">By Tasleem Sanjrani · Published October 16, 2026 · Updated November 4, 2026 · 9 min read</p>
         <div class="ads-slot" data-slot="blog_post_top" data-format="horizontal" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_top — see ads-config.json --></div>
         <p><img class="post-featured" src="/assets/images/blog/solving-linear-equations-step-by-step-thumb.svg" alt="A balance scale showing an equation staying balanced while the same weight is removed from both sides." width="1200" height="630" loading="lazy"></p>
-        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#solving-linear-equations-with-the-balance-method">Solving Linear Equations with the Balance Method</a></li><li><a href="#worked-example-4x-3-19">Worked Example: 4x + 3 = 19</a></li><li><a href="#worked-example-2x-5-11">Worked Example: 2x − 5 = 11</a></li><li><a href="#worked-example-equations-with-brackets-3x-2-21">Worked Example: Equations with Brackets, 3(x + 2) = 21</a></li><li><a href="#equations-with-variables-on-both-sides">Equations with Variables on Both Sides</a></li><li><a href="#common-mistakes-to-avoid-when-solving-equations">Common Mistakes to Avoid When Solving Equations</a></li><li><a href="#try-it-yourself-practice-with-answers">Try It Yourself: Practice with Answers</a></li><li><a href="#conclusion">Conclusion</a></li><li><a href="#ai-help-muse-ai">AI Help: Muse AI</a></li><li><a href="#faq">FAQ</a></li></ul></nav>
+        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#solving-linear-equations-with-the-balance-method">Solving Linear Equations with the Balance Method</a></li><li><a href="#worked-example-4x-3-19">Worked Example: 4x + 3 = 19</a></li><li><a href="#worked-example-2x-5-11">Worked Example: 2x − 5 = 11</a></li><li><a href="#worked-example-equations-with-brackets-3x-2-21">Worked Example: Equations with Brackets, 3(x + 2) = 21</a></li><li><a href="#equations-with-variables-on-both-sides">Equations with Variables on Both Sides</a></li><li><a href="#common-mistakes-to-avoid-when-solving-equations">Common Mistakes to Avoid When Solving Equations</a></li><li><a href="#try-it-yourself-practice-with-answers">Try It Yourself: Practice with Answers</a></li><li><a href="#conclusion">Conclusion</a></li><li><a href="#faq">FAQ</a></li></ul></nav>
         <p>Solving linear equations is a puzzle with a single unknown, and the balance method is the reliable way to solve it. The idea is simple: an equation is like a balanced scale, and every move you make must keep both sides equal. This guide walks through the method from easy one-step equations to trickier ones with brackets and variables on both sides, with fully worked examples and checks at every stage.</p>
 <h2 id="solving-linear-equations-with-the-balance-method">Solving Linear Equations with the Balance Method</h2>
 <p>The equals sign means both sides have the same value. If you add 5 to one side, you must add 5 to the other. If you divide one side by 3, you must divide the other by 3. This &quot;do the same to both sides&quot; rule is the entire method. Every technique in this article is just a careful application of it.</p>
@@ -135,8 +135,8 @@
 <p>Sometimes x appears on both sides, as in 5x + 2 = 3x + 10. The goal is the same — get x alone — but first gather all the x terms on one side and all the numbers on the other. Subtract 3x from both sides: 5x − 3x + 2 = 10, which simplifies to 2x + 2 = 10. Then subtract 2 from both sides: 2x = 8. Then divide by 2: x = 4.</p>
 <p>Check: left side 5 times 4 plus 2 is 22; right side 3 times 4 plus 10 is 22. Both sides match, so x = 4 is correct. The check is especially important here because there are more steps where a slip can hide.</p>
 <p>A good convention is to gather the x terms on the side where the coefficient ends up positive. If subtracting gives a negative coefficient, you can still solve it, but positive coefficients are easier to handle. For example, in 2x + 9 = 7x + 4, subtract 2x from both sides to get 9 = 5x + 4, then subtract 4 to get 5 = 5x, so x = 1. Check: 2 + 9 = 11 and 7 + 4 = 11. Correct.</p>
-<h2 id="common-mistakes-to-avoid-when-solving-equations">Common Mistakes to Avoid When Solving Equations</h2>
 <div class="ads-slot" data-slot="blog_post_mid_article" data-format="rectangle" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_mid_article — see ads-config.json --></div>
+<h2 id="common-mistakes-to-avoid-when-solving-equations">Common Mistakes to Avoid When Solving Equations</h2>
 <p>The most common mistake is changing only one side. If you subtract 3 from the left, subtract 3 from the right too. An equation that is unbalanced partway through will produce a wrong answer that fails the check.</p>
 <p>Another mistake is undoing in the wrong order. In 4x + 3 = 19, dividing by 4 first gives x + 0.75 = 4.75, which is solvable but invites fraction errors. Undo the outermost operation first (the +3), then the multiplication. Reverse order keeps the numbers whole.</p>
 <p>A third mistake is a sign slip when moving terms across the equals sign. When a term crosses the equals sign, its sign flips: +3 becomes −3, and −5 becomes +5. This &quot;change sides, change signs&quot; shortcut is exactly the same as doing the same operation to both sides, just written faster. If the shortcut ever confuses you, go back to writing out both sides in full.</p>
@@ -148,8 +148,6 @@
 <h2 id="conclusion">Conclusion</h2>
 <p>Solving a linear equation means isolating x while keeping both sides equal. Undo the outermost operation first, work in reverse order, gather x terms on one side when they appear on both, and always check by substituting your answer back in. With brackets, divide or expand first — whichever keeps the numbers neater. Practise the method on one-step, two-step, bracket, and both-sides equations until each type feels routine, and algebra will stop feeling like guesswork.</p>
 <p><a href="/#tool">Try the free AI lesson solver</a></p>
-<h2 id="ai-help-muse-ai">AI Help: Muse AI</h2>
-<p>Muse AI is Meta's personal AI assistant, and it can help with this topic by checking one step of your equation working and pointing out where the balance breaks. Show it your steps for a two-step equation and ask which step went wrong, then fix it yourself. Join Muse with invite code LTGSWD — in the Muse app, go to Settings &gt; Redeem token and enter the code. Disclosure: LTGSWD is the author's Muse invite code.</p>
 <h2 id="faq">FAQ</h2>
 <h3 id="what-is-a-linear-equation">What is a linear equation?</h3>
 <p>A linear equation is an equation where the variable appears to the power of 1 — no squares, no cubes, no variables in denominators. Examples are 4x + 3 = 19 and 2x − 5 = 11. Linear equations have exactly one solution (unless they are identities, which are true for every value).</p>
@@ -187,11 +185,11 @@
           <a class="logo" href="/"><span class="logo-mark">E</span> Easy Lesson</a>
           <p class="small">Easy Lesson is a free AI lesson solver for learners worldwide. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio pronunciation and quizzes.</p>
           <div class="social">
-            <a href="#" aria-label="X - Easy Lesson on X">X</a>
-            <a href="#" aria-label="f - Easy Lesson on Facebook">f</a>
-            <a href="#" aria-label="IG - Easy Lesson on Instagram">IG</a>
-            <a href="#" aria-label="YT - Easy Lesson on YouTube">YT</a>
-            <a href="#" aria-label="in - Easy Lesson on LinkedIn">in</a>
+            <a href="#" aria-label="Easy Lesson on X">X</a>
+            <a href="#" aria-label="Easy Lesson on Facebook">f</a>
+            <a href="#" aria-label="Easy Lesson on Instagram">IG</a>
+            <a href="#" aria-label="Easy Lesson on YouTube">YT</a>
+            <a href="#" aria-label="Easy Lesson on LinkedIn">in</a>
           </div>
           <!-- Social links are placeholders: replace # with real profile URLs in every page footer. -->
         </div>
