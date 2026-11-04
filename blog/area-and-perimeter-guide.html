@@ -7,6 +7,9 @@
   <meta name="description" content="Tell area and perimeter apart for good: the fence-versus-carpet analogy, formulas for rectangles, squares, and triangles, plus worked examples and practice.">
   <link rel="canonical" href="https://easy-lesson-website.vercel.app/blog/area-and-perimeter-guide.html">
   <meta name="robots" content="index, follow">
+  <!-- Google Analytics is loaded by /assets/js/main.js, delayed until first
+       interaction or idle-after-load (2026-10-30 performance fix). Do NOT
+       re-add an inline gtag block here: it cost ~440ms TBT + 75KB unused JS. -->
   <!-- ADSENSE_SCRIPT: ca-pub-XXXXXXXXXXXXXXXX -->
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Easy Lesson">
@@ -21,10 +24,6 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#2563eb">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-  <noscript><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <script type="application/ld+json">
   {
@@ -34,10 +33,11 @@
   "description": "Tell area and perimeter apart for good: the fence-versus-carpet analogy, formulas for rectangles, squares, and triangles, plus worked examples and practice.",
   "image": "https://easy-lesson-website.vercel.app/assets/images/blog/area-and-perimeter-guide-thumb.svg",
   "datePublished": "2026-10-16",
-  "dateModified": "2026-10-16",
+  "dateModified": "2026-11-04",
   "author": {
-    "@type": "Organization",
-    "name": "Easy Lesson Team"
+    "@type": "Person",
+    "name": "Tasleem Sanjrani",
+    "url": "https://easy-lesson-website.vercel.app/about.html#author"
   },
   "publisher": {
     "@type": "Organization",
@@ -53,7 +53,7 @@
     "@id": "https://easy-lesson-website.vercel.app/blog/area-and-perimeter-guide.html"
   },
   "inLanguage": "en",
-  "wordCount": 1736
+  "wordCount": 1663
 }
   </script>
   <script type="application/ld+json">
@@ -87,7 +87,7 @@
 <a class="skip-link" href="#main">Skip to main content</a>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="logo" href="/"><span class="logo-mark">E</span> Easy Lesson</a>
+      <a class="logo" href="/" aria-label="Easy Lesson home"><span class="logo-mark">E</span> Easy Lesson</a>
       <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
       <nav class="main-nav" id="main-nav" aria-label="Main navigation">
         <a href="/">Home</a>
@@ -109,10 +109,10 @@
       <div class="container">
         <p class="post-meta"><a href="/blog/?category=How-To%20Guides">How-To Guides</a></p>
         <h1>Area and Perimeter: A Clear Guide with Worked Examples</h1>
-        <p class="post-meta">By Easy Lesson Team · Published October 16, 2026 · 9 min read</p>
+        <p class="post-meta">By Tasleem Sanjrani · Published October 16, 2026 · Updated November 4, 2026 · 9 min read</p>
         <div class="ads-slot" data-slot="blog_post_top" data-format="horizontal" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_top — see ads-config.json --></div>
         <p><img class="post-featured" src="/assets/images/blog/area-and-perimeter-guide-thumb.svg" alt="A rectangle with a fence drawn around its edge for perimeter and carpet shading its inside for area." width="1200" height="630" loading="lazy"></p>
-        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#area-and-perimeter-fence-versus-carpet">Area and Perimeter: Fence Versus Carpet</a></li><li><a href="#perimeter-of-rectangles-and-squares">Perimeter of Rectangles and Squares</a></li><li><a href="#area-of-rectangles-and-squares">Area of Rectangles and Squares</a></li><li><a href="#worked-example-a-triangles-area">Worked Example: A Triangle's Area</a></li><li><a href="#worked-example-comparing-two-shapes">Worked Example: Comparing Two Shapes</a></li><li><a href="#common-mistakes-to-avoid-with-area-and-perimeter">Common Mistakes to Avoid with Area and Perimeter</a></li><li><a href="#try-it-yourself-practice-with-answers">Try It Yourself: Practice with Answers</a></li><li><a href="#conclusion">Conclusion</a></li><li><a href="#ai-help-muse-ai">AI Help: Muse AI</a></li><li><a href="#faq">FAQ</a></li></ul></nav>
+        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#area-and-perimeter-fence-versus-carpet">Area and Perimeter: Fence Versus Carpet</a></li><li><a href="#perimeter-of-rectangles-and-squares">Perimeter of Rectangles and Squares</a></li><li><a href="#area-of-rectangles-and-squares">Area of Rectangles and Squares</a></li><li><a href="#worked-example-a-triangles-area">Worked Example: A Triangle's Area</a></li><li><a href="#worked-example-comparing-two-shapes">Worked Example: Comparing Two Shapes</a></li><li><a href="#common-mistakes-to-avoid-with-area-and-perimeter">Common Mistakes to Avoid with Area and Perimeter</a></li><li><a href="#try-it-yourself-practice-with-answers">Try It Yourself: Practice with Answers</a></li><li><a href="#conclusion">Conclusion</a></li><li><a href="#faq">FAQ</a></li></ul></nav>
         <p>Area and perimeter are two of the most confused ideas in maths, and the confusion is understandable: both describe a shape, and both use its side lengths. But they measure completely different things. Perimeter measures the distance around the outside; area measures the space inside. This guide uses the fence-versus-carpet analogy to keep them apart, then works through rectangles, squares, and triangles with fully checked examples.</p>
 <h2 id="area-and-perimeter-fence-versus-carpet">Area and Perimeter: Fence Versus Carpet</h2>
 <p>Imagine a garden. The perimeter is the fence around it — the length you would walk if you strolled all the way around the edge. The area is the carpet of grass inside it — the amount of ground the garden covers. Fence and carpet are different jobs, measured in different units, and no fence can ever be mistaken for a carpet once you picture it.</p>
@@ -136,8 +136,8 @@
 <p>A rectangle measures 7 cm by 3 cm, and a square has side 5 cm. Which has the bigger perimeter, and which has the bigger area? Rectangle perimeter: 2 × (7 + 3) = 2 × 10 = 20 cm. Square perimeter: 4 × 5 = 20 cm. The perimeters are equal. Rectangle area: 7 × 3 = 21 square centimetres. Square area: 5 × 5 = 25 square centimetres. The square has the bigger area despite the equal perimeter.</p>
 <p>This example shows why the two measures must never be confused: equal perimeters can hide different areas. It also shows a deep pattern — for a fixed perimeter, the shape closest to a square (or circle) encloses the most area. That pattern matters in real design, from fencing a field to packaging a product.</p>
 <p>Another comparison: a triangle with base 12 cm and height 5 cm has area 1/2 × 12 × 5 = 30 square centimetres. A rectangle 6 cm by 5 cm also has area 30 square centimetres. Different shapes, same area — the numbers, not the shape, decide the answer.</p>
-<h2 id="common-mistakes-to-avoid-with-area-and-perimeter">Common Mistakes to Avoid with Area and Perimeter</h2>
 <div class="ads-slot" data-slot="blog_post_mid_article" data-format="rectangle" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_mid_article — see ads-config.json --></div>
+<h2 id="common-mistakes-to-avoid-with-area-and-perimeter">Common Mistakes to Avoid with Area and Perimeter</h2>
 <p>The classic mistake is swapping the formulas: using length + width for area, or length × width for perimeter. The fence-versus-carpet picture fixes this: a fence is walked (added), a carpet is covered (multiplied into a grid). If your method does not match the picture, it is the wrong method.</p>
 <p>Another mistake is forgetting the 1/2 in the triangle area formula. Without it, your answer is double the truth. Always write the 1/2 first when you set up a triangle area problem, before any numbers go in.</p>
 <p>A third mistake is using a slanted side as the height of a triangle. The height must be perpendicular to the base. If the triangle's height is not given or cannot be found, you cannot use the 1/2 × base × height formula directly — you need another route, such as splitting the triangle or using known side lengths.</p>
@@ -149,8 +149,6 @@
 <h2 id="conclusion">Conclusion</h2>
 <p>Perimeter is the fence — add up all the sides, measured in ordinary units. Area is the carpet — cover the inside, measured in square units, with length × width for rectangles and 1/2 × base × height for triangles. Keep the picture in mind, write the units every time, and check that equal perimeters do not trick you into assuming equal areas. With the fence-versus-carpet habit, area and perimeter stay permanently untangled.</p>
 <p><a href="/#tool">Try the free AI lesson solver</a></p>
-<h2 id="ai-help-muse-ai">AI Help: Muse AI</h2>
-<p>Muse AI is Meta's personal AI assistant, and it can help with this topic by talking through whether a problem asks for a fence or a carpet before you calculate. Describe the shape and the question, and ask which formula fits. Join Muse with invite code LTGSWD — in the Muse app, go to Settings &gt; Redeem token and enter the code. Disclosure: LTGSWD is the author's Muse invite code.</p>
 <h2 id="faq">FAQ</h2>
 <h3 id="what-is-the-difference-between-area-and-perimeter">What is the difference between area and perimeter?</h3>
 <p>Perimeter is the distance around the outside of a shape, measured in ordinary units like centimetres. Area is the amount of space inside the shape, measured in square units like square centimetres. Think fence for perimeter and carpet for area.</p>
@@ -188,11 +186,11 @@
           <a class="logo" href="/"><span class="logo-mark">E</span> Easy Lesson</a>
           <p class="small">Easy Lesson is a free AI lesson solver for learners worldwide. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio pronunciation and quizzes.</p>
           <div class="social">
-            <a href="#" aria-label="X - Easy Lesson on X">X</a>
-            <a href="#" aria-label="f - Easy Lesson on Facebook">f</a>
-            <a href="#" aria-label="IG - Easy Lesson on Instagram">IG</a>
-            <a href="#" aria-label="YT - Easy Lesson on YouTube">YT</a>
-            <a href="#" aria-label="in - Easy Lesson on LinkedIn">in</a>
+            <a href="#" aria-label="Easy Lesson on X">X</a>
+            <a href="#" aria-label="Easy Lesson on Facebook">f</a>
+            <a href="#" aria-label="Easy Lesson on Instagram">IG</a>
+            <a href="#" aria-label="Easy Lesson on YouTube">YT</a>
+            <a href="#" aria-label="Easy Lesson on LinkedIn">in</a>
           </div>
           <!-- Social links are placeholders: replace # with real profile URLs in every page footer. -->
         </div>
