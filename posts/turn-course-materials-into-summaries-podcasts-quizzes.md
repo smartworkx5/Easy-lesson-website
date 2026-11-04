@@ -5,8 +5,8 @@ seo_title: "Turn Course Materials Into Summaries, Audio, and Quizzes"
 meta_description: "A course-materials provider turns chapters into summaries, podcasts, and knowledge checks. Learn a three-format workflow that starts from materials you trust."
 focus_keyword: "course materials summaries quizzes"
 date: "2026-10-19"
-updated: "2026-10-19"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["ai-study-tools", "summaries", "audio-learning", "quizzes"]
 featured_image: "/assets/images/blog/turn-course-materials-into-summaries-podcasts-quizzes-thumb.svg"
@@ -37,13 +37,6 @@ The third format is the one that proves the first two worked: the knowledge chec
 
 The October announcement also included discussion tools with AI-assisted feedback at scale. Discussion is a powerful study method, because explaining an idea to someone else exposes gaps in your understanding fast. If your course offers discussion tools, use them: post a short explanation of a chapter idea, respond to a classmate, and ask a question about something you found confusing. Treat AI-assisted feedback as a starting point, not a verdict. If the feedback says your answer is good, check it against your textbook anyway. If it says your answer is weak, look at the specific point it flags and compare it with the original material. Feedback helps most when you act on one specific suggestion at a time, then try again. And remember the usual caution: AI can make mistakes, so verify anything surprising against your textbook. Discussion plus feedback works when you stay the thinker in the loop.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you study in three formats. For example, you can ask it to turn your chapter notes into a short summary, a list of discussion questions, or a self-quiz. Always check its output against your trusted course materials before you rely on it.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

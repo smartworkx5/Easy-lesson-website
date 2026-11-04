@@ -5,8 +5,8 @@ seo_title: "Turn Your Slides Into Short Video Lessons That Teach"
 meta_description: "New tools can turn slides or documents into short narrated videos. Learn a careful workflow that keeps videos accurate, active, and genuinely useful for study."
 focus_keyword: "slides to video lessons"
 date: "2026-10-19"
-updated: "2026-10-19"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["video-lessons", "slides", "ai-study-tools", "active-learning"]
 featured_image: "/assets/images/blog/turn-slides-into-short-video-lessons-thumb.svg"
@@ -85,12 +85,6 @@ Making a video yourself is powerful because explaining forces understanding. If 
 
 If you need a step-by-step explanation of a textbook page while preparing slides, a photo-based lesson solver can help. The tool supports textbook photos in English, Urdu, and Sindhi as a multilingual feature. It needs your own free Google AI Studio API key, and you should verify any solution against your textbook.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan a video lesson. Ask it to turn your slide outline into a short, plain-language script with one clear point per section.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

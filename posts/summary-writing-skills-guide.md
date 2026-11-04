@@ -5,8 +5,8 @@ seo_title: "Summary Writing Skills: Say More with Fewer Words Today"
 meta_description: "Learn summary writing skills with cut, keep, and rephrase steps. This guide shows students how to capture main ideas in their own words without copying."
 focus_keyword: "summary writing skills"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["summary-writing", "study-skills", "note-taking", "reading-skills"]
 featured_image: "/assets/images/blog/summary-writing-skills-guide-thumb.svg"
@@ -55,13 +55,6 @@ Before finishing, check three things. First, check length: is the summary clearl
 
 Also check that the summary can stand alone. A reader who has not read the original should understand the summary without confusion. If the summary uses pronouns without clear referents, or jumps between ideas without links, add small connecting words to guide the reader. The summary should feel smooth, complete, and easy to follow.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you practise summary writing by comparing a draft summary with the main ideas of a short passage. You can ask it to point out copied phrasing, missing main ideas, or added opinions in your draft. Use its feedback to revise, then keep the final summary in your own words. Always verify summaries against the textbook, since AI can make mistakes.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

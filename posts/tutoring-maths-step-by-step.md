@@ -5,8 +5,8 @@ seo_title: "Tutoring Maths Step by Step, Not Just the Answer First"
 meta_description: "Tutoring maths step by step means worked examples, guided practice, then independent work. Learn to tutor maths so understanding lasts beyond one answer."
 focus_keyword: "tutoring maths step by step"
 date: "2026-11-01"
-updated: "2026-11-01"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["tutoring-maths", "maths-help", "peer-tutoring", "worked-examples"]
 featured_image: "/assets/images/blog/tutoring-maths-step-by-step-thumb.svg"
@@ -41,13 +41,6 @@ Good maths tutoring teaches checking as part of solving, not as an afterthought.
 
 Maths anxiety is real, and a tutor's tone can either ease it or deepen it. Keep sessions patient and positive: normalise mistakes, celebrate correct steps, and never say a problem is easy when your student finds it hard. End each session with a small success, even if it is just a simpler problem solved correctly, so the student leaves feeling capable. Ground everything in the textbook: verify methods and answers against it, and remind your student to do the same. If you use the free lesson solver tool for a textbook photo, treat its step-by-step explanation as a study aid to understand and verify, not as an answer to copy. The tool supports textbook photos in English, Urdu, and Sindhi as a multilingual feature, needs your own free Google AI Studio API key, and like all AI tools, it can make mistakes, so the textbook remains the final authority. For more on honest homework help, see [check homework answers the right way](/blog/check-homework-answers-the-right-way.html).
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you prepare maths tutoring sessions. You can ask it to break a maths topic into a sequence of small steps, or to suggest a simple worked example you can walk through with your student before guided practice.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

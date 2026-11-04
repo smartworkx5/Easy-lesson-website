@@ -5,8 +5,8 @@ seo_title: "Turn Your Notes Into Video Lessons with AI: A Guide"
 meta_description: "New AI tools turn notes into narrated video lessons for revision. Learn how notes-to-video works, what it is good for, and where to stay cautious with AI."
 focus_keyword: "notes into video lessons"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["notes-into-video-lessons", "ai-video-lessons", "revision-tips", "study-tips"]
 featured_image: "/assets/images/blog/turn-notes-into-video-lessons-ai-thumb.svg"
@@ -55,13 +55,6 @@ Turning your notes into video lessons with AI is a promising revision trend, and
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan revision. For this topic, you can ask Muse to turn a chapter outline into a short revision checklist, so you know what to cover before you make or watch any video.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

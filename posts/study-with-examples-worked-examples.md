@@ -5,8 +5,8 @@ seo_title: "Learn Faster With Worked Examples Before Solving Alone"
 meta_description: "Worked examples show every step of a solved problem before you try one alone. Learn how studying examples first makes practice faster and far less confusing."
 focus_keyword: "worked examples studying"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["worked-examples", "problem-solving", "study-methods", "homework-help"]
 featured_image: "/assets/images/blog/study-with-examples-worked-examples-thumb.svg"
@@ -75,13 +75,6 @@ Worked examples are the fastest route from confusion to confidence. Read one car
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you work with examples. Ask it to walk through a textbook-style problem step by step, or to create a similar problem for you to try after studying an example. Treat its solutions as general guidance, and always verify them against your textbook.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

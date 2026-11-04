@@ -5,8 +5,8 @@ seo_title: "Too Much Homework? How to Cope Without Burning Out"
 meta_description: "Too much homework can feel overwhelming. Learn how to prioritise, chunk large tasks, take real breaks, and ask your teacher for help before burnout sets in."
 focus_keyword: "too much homework"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["homework-help", "burnout", "time-management", "student-wellbeing"]
 featured_image: "/assets/images/blog/too-much-homework-how-to-cope-thumb.svg"
@@ -73,13 +73,6 @@ Too much homework is easier to cope with when you make the list visible, priorit
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help you sort a long homework list by due date, break a large assignment into small chunks, and plan short work blocks with breaks. Ask it to help you prioritise tonight's tasks, then follow the plan one chunk at a time.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

@@ -5,8 +5,8 @@ seo_title: "Textbook Exercise Solver: Solve Any Exercise from a Photo"
 meta_description: "Snap a photo of any textbook exercise and get a clear step-by-step solution. Learn how a textbook exercise solver works, plus tips for accurate results."
 focus_keyword: "textbook exercise solver"
 date: "2026-10-15"
-updated: "2026-10-15"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["textbook-exercises", "photo-solver", "step-by-step"]
 featured_image: "/assets/images/blog/default.svg"
