@@ -5,8 +5,8 @@ seo_title: "Spelling Rules Every Learner Needs: A Practical Guide"
 meta_description: "Spelling rules every learner needs cover doubling letters, silent e, ie and ei, and plurals. Learn the patterns, common exceptions, and a proofreading habit."
 focus_keyword: "spelling rules"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["spelling-rules", "writing-skills", "english-grammar", "proofreading"]
 featured_image: "/assets/images/blog/spelling-rules-every-learner-needs-thumb.svg"
@@ -81,13 +81,6 @@ English spelling becomes manageable when you learn the core patterns: the silent
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you practise spelling by explaining a spelling rule in plain words or building a short quiz from your tricky-word list. Ask it to show the pattern behind a word family you keep misspelling. Use its explanations as general help, and verify spellings with a trusted dictionary.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

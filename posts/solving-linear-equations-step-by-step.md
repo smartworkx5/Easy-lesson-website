@@ -5,8 +5,8 @@ seo_title: "Solving Linear Equations Step by Step | Balance Guide"
 meta_description: "Solve linear equations with the balance method: undo operations on both sides, handle brackets and variables on both sides, and check every answer carefully."
 focus_keyword: "solving linear equations"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["solving-linear-equations", "algebra-help", "maths-basics"]
 featured_image: "/assets/images/blog/solving-linear-equations-step-by-step-thumb.svg"
@@ -83,10 +83,6 @@ Solving a linear equation means isolating x while keeping both sides equal. Undo
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by checking one step of your equation working and pointing out where the balance breaks. Show it your steps for a two-step equation and ask which step went wrong, then fix it yourself. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

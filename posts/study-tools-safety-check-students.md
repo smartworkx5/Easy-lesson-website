@@ -5,8 +5,8 @@ seo_title: "Before You Trust a Study App: A Student Safety Checklist"
 meta_description: "Free study apps can help or quietly cost you time, work, and privacy. Check access controls, error risks, and free-tier limits before you trust any tool."
 focus_keyword: "study app safety students"
 date: "2026-10-26"
-updated: "2026-10-26"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["ai-study-tools", "student-safety", "study-apps", "privacy"]
 featured_image: "/assets/images/blog/study-tools-safety-check-students-thumb.svg"
@@ -59,13 +59,6 @@ If you cannot answer a question, that is not a reason to panic, but it is a reas
 
 Most importantly, keep yourself as the final authority on your learning. Tools can explain, organise, quiz, and summarise, but you decide what goes into your notes, what you submit, and what you believe. That habit protects you no matter how the tools change.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help you compare study tools by listing the safety questions to ask about each one, so you can check access, data handling, and free-tier limits before choosing.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

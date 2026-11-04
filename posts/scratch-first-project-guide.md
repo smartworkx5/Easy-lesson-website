@@ -5,8 +5,8 @@ seo_title: "Your First Scratch Project: A Step-by-Step Guide 2026"
 meta_description: "Scratch first project guide: build a moving cat in about ten minutes using sprites, blocks, and loops, even if you have never written code before today."
 focus_keyword: "scratch first project guide"
 date: "2026-10-30"
-updated: "2026-10-30"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["scratch", "coding-basics", "beginner-projects"]
 featured_image: "/assets/images/blog/scratch-first-project-guide-thumb.svg"
@@ -51,11 +51,6 @@ Once the cat walks, the next steps are wide open. Make the cat bounce back and f
 
 ![Building your first Scratch project, from stage to sharing](/assets/images/blog/scratch-first-project-guide-diagram-1.svg)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you plan your first Scratch project. Ask it to suggest a simple project idea using the blocks you already know, or to explain what a loop does in plain words before you build one.
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

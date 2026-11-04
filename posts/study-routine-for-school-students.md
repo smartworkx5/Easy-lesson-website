@@ -5,8 +5,8 @@ seo_title: "How to Build a Study Routine That Sticks Every Day"
 meta_description: "A study routine for students works best when it is small, daily, and easy to repeat. Learn how habit stacking, fixed times, and simple planning build habits."
 focus_keyword: "study routine for students"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["study-routine", "habits", "time-management", "consistency"]
 featured_image: "/assets/images/blog/study-routine-for-school-students-thumb.svg"
@@ -73,13 +73,6 @@ A routine that sticks is small, daily, and attached to real life. Start with two
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you design a study routine that fits your real day. Ask it to turn your class schedule into a simple daily plan with fixed times, or to suggest habit-stacking ideas for your evenings. Use its suggestions as a starting point, and keep the routine small enough to follow daily.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

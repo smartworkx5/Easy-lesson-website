@@ -5,8 +5,8 @@ seo_title: "Scan and Solve Textbook Questions: Step-by-Step Guide"
 meta_description: "Learn how to scan and solve textbook questions with clear photos, simple steps, and accurate results. A practical guide to fast photo-based homework help."
 focus_keyword: "scan and solve textbook questions"
 date: "2026-10-17"
-updated: "2026-10-17"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["scan-and-solve", "textbook-questions", "how-to"]
 featured_image: "/assets/images/blog/default.svg"

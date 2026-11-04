@@ -5,8 +5,8 @@ seo_title: "The Shadowing Technique for Language Learning Explained"
 meta_description: "The shadowing technique for language learning means speaking along with a recording in real time. Learn the steps, the common mistakes, and a daily routine."
 focus_keyword: "shadowing technique language"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["shadowing-technique", "speaking-fluency", "pronunciation-practice", "language-learning"]
 featured_image: "/assets/images/blog/shadowing-technique-language-learning-thumb.svg"
@@ -75,13 +75,6 @@ Shadowing is a simple, powerful technique: listen, echo, keep going, and repeat.
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you use shadowing by writing short dialogues at your level for you to shadow. Ask it to suggest a daily shadowing routine or to explain a phrase you keep missing. Use its dialogues as general practice material, and pair them with audio from a trusted source.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

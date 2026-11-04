@@ -5,8 +5,8 @@ seo_title: "Solving Maths from a Photo: What Works and What Does Not"
 meta_description: "Learn how to solve maths from a photo well. See what works for printed and handwritten problems, where photo tools struggle, and how to check every step."
 focus_keyword: "solve maths from photo"
 date: "2026-10-18"
-updated: "2026-10-18"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["solve-maths-photo", "maths-help", "homework-help", "ai-study-tools"]
 featured_image: "/assets/images/blog/solve-maths-from-a-photo-thumb.svg"
@@ -55,10 +55,6 @@ A strong routine is simple: attempt, compare, rework, and review. First, attempt
 
 This routine keeps photo help in its proper place. It becomes a tutor that shows you the method, not a machine that does the work for you. Over time, you will need it less often, because you will recognise the patterns and remember the steps. That is the real goal: not a finished homework page, but a method you can use again with confidence.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. When a maths step confuses you, you can ask it to explain that single step in simpler words, or to give you one similar practice question so you can test whether you understood the method. Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
