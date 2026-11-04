@@ -7,14 +7,9 @@
   <meta name="description" content="If else logic explained with everyday examples: programs make decisions by testing conditions and choosing a path. Learn if, else, and chains, simply explained.">
   <link rel="canonical" href="https://easy-lesson-website.vercel.app/blog/if-else-logic-explained.html">
   <meta name="robots" content="index, follow">
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T82LBSG6GP"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-T82LBSG6GP');
-  </script>
+  <!-- Google Analytics is loaded by /assets/js/main.js, delayed until first
+       interaction or idle-after-load (2026-10-30 performance fix). Do NOT
+       re-add an inline gtag block here: it cost ~440ms TBT + 75KB unused JS. -->
   <!-- ADSENSE_SCRIPT: ca-pub-XXXXXXXXXXXXXXXX -->
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Easy Lesson">
@@ -29,10 +24,6 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#2563eb">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-  <noscript><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <script type="application/ld+json">
   {
@@ -42,10 +33,11 @@
   "description": "If else logic explained with everyday examples: programs make decisions by testing conditions and choosing a path. Learn if, else, and chains, simply explained.",
   "image": "https://easy-lesson-website.vercel.app/assets/images/blog/if-else-logic-explained-thumb.svg",
   "datePublished": "2026-10-30",
-  "dateModified": "2026-10-30",
+  "dateModified": "2026-11-04",
   "author": {
-    "@type": "Organization",
-    "name": "Easy Lesson Team"
+    "@type": "Person",
+    "name": "Tasleem Sanjrani",
+    "url": "https://easy-lesson-website.vercel.app/about.html#author"
   },
   "publisher": {
     "@type": "Organization",
@@ -61,7 +53,7 @@
     "@id": "https://easy-lesson-website.vercel.app/blog/if-else-logic-explained.html"
   },
   "inLanguage": "en",
-  "wordCount": 1442
+  "wordCount": 1368
 }
   </script>
   <script type="application/ld+json">
@@ -117,10 +109,10 @@
       <div class="container">
         <p class="post-meta"><a href="/blog/?category=How-To%20Guides">How-To Guides</a></p>
         <h1>If Else Logic Explained: Decisions in Code</h1>
-        <p class="post-meta">By Easy Lesson Team · Published October 30, 2026 · 8 min read</p>
+        <p class="post-meta">By Tasleem Sanjrani · Published October 30, 2026 · Updated November 4, 2026 · 7 min read</p>
         <div class="ads-slot" data-slot="blog_post_top" data-format="horizontal" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_top — see ads-config.json --></div>
         <p><img class="post-featured" src="/assets/images/blog/if-else-logic-explained-thumb.svg" alt="A branching diagram showing a program choosing one path when a condition is true and another when it is false." width="1200" height="630" loading="lazy"></p>
-        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#if-else-logic-explained-the-umbrella-decision">If Else Logic Explained: The Umbrella Decision</a></li><li><a href="#conditions-questions-with-yes-or-no-answers">Conditions: Questions With Yes or No Answers</a></li><li><a href="#else-if-chains-more-than-two-choices">Else-If Chains: More Than Two Choices</a></li><li><a href="#nested-decisions-choices-inside-choices">Nested Decisions: Choices Inside Choices</a></li><li><a href="#if-else-in-real-programs-you-use-every-day">If-Else in Real Programs You Use Every Day</a></li><li><a href="#common-beginner-mistakes-with-if-else">Common Beginner Mistakes With If-Else</a></li><li><a href="#ai-help-muse-ai">AI Help: Muse AI</a></li><li><a href="#faq">FAQ</a></li><li><a href="#conclusion-decisions-are-the-heart-of-programs">Conclusion: Decisions Are the Heart of Programs</a></li></ul></nav>
+        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#if-else-logic-explained-the-umbrella-decision">If Else Logic Explained: The Umbrella Decision</a></li><li><a href="#conditions-questions-with-yes-or-no-answers">Conditions: Questions With Yes or No Answers</a></li><li><a href="#else-if-chains-more-than-two-choices">Else-If Chains: More Than Two Choices</a></li><li><a href="#nested-decisions-choices-inside-choices">Nested Decisions: Choices Inside Choices</a></li><li><a href="#if-else-in-real-programs-you-use-every-day">If-Else in Real Programs You Use Every Day</a></li><li><a href="#common-beginner-mistakes-with-if-else">Common Beginner Mistakes With If-Else</a></li><li><a href="#faq">FAQ</a></li><li><a href="#conclusion-decisions-are-the-heart-of-programs">Conclusion: Decisions Are the Heart of Programs</a></li></ul></nav>
         <p>Programs that only follow a fixed list of instructions would be useless. A game that always awarded the same score, a login screen that accepted every password, or a shop that charged everyone the same price would all be broken. Real programs make decisions. This guide on if else logic explained shows how one simple idea, testing a condition and choosing a path, gives programs the power to react to the world. If you can decide whether to take an umbrella, you already understand the core of if-else logic.</p>
 <h2 id="if-else-logic-explained-the-umbrella-decision">If Else Logic Explained: The Umbrella Decision</h2>
 <p>Every morning you make a decision that looks exactly like code. If it is raining, take an umbrella. Else, leave the umbrella at home. The condition is whether it is raining. The two paths are the two actions. Nothing else is needed. Code works the same way: an if statement tests a condition, and the program follows one path when the condition is true and another when it is false.</p>
@@ -136,12 +128,10 @@
 <p>Another good habit is to make each branch do one clear thing. When a branch grows long and complicated, it usually means the program is trying to do too much in one place. Breaking it into smaller steps, or handling one decision at a time, keeps the logic understandable for you and for anyone who reads your code later.</p>
 <h2 id="if-else-in-real-programs-you-use-every-day">If-Else in Real Programs You Use Every Day</h2>
 <p>If-else logic runs silently behind almost everything you do on a device. A messaging app shows a blue tick if a message was read, and a grey tick otherwise. A video app plays the next episode automatically if autoplay is on, and stops if it is off. A quiz app shows praise if an answer is correct, and a hint if it is wrong. A banking app allows a payment if the balance is enough, and refuses it otherwise. Each of these is an if-else decision, checking a condition and choosing a path. Recognising them helps you see code not as magic, but as decisions written down carefully.</p>
-<h2 id="common-beginner-mistakes-with-if-else">Common Beginner Mistakes With If-Else</h2>
 <div class="ads-slot" data-slot="blog_post_mid_article" data-format="rectangle" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_mid_article — see ads-config.json --></div>
+<h2 id="common-beginner-mistakes-with-if-else">Common Beginner Mistakes With If-Else</h2>
 <p>Three mistakes are worth watching for. The first is testing the wrong thing, such as checking a name instead of a score. The second is forgetting the else, so the program does nothing in an important case and the user sees no response. The third is overlapping conditions in a chain, where two conditions can both be true and the order decides the outcome in a surprising way. A useful debugging habit is to trace through your decisions by hand: pick a test value, walk through each condition, and write down which path the program takes. If the path surprises you, the condition or the order needs fixing.</p>
 <p><img src="/assets/images/blog/if-else-logic-explained-diagram-1.svg" alt="How a program chooses between two paths with if-else" loading="lazy"></p>
-<h2 id="ai-help-muse-ai">AI Help: Muse AI</h2>
-<p>Muse AI is Meta's personal AI assistant, and it can help you practise decision logic. Ask it to turn an everyday choice of yours, like what to wear or when to study, into clear if-else steps you can compare with your own. Join Muse with invite code LTGSWD — in the Muse app, go to Settings &gt; Redeem token and enter the code. Disclosure: LTGSWD is the author's Muse invite code.</p>
 <h2 id="faq">FAQ</h2>
 <h3 id="what-is-an-if-else-statement">What is an if-else statement?</h3>
 <p>An if-else statement tests a condition and chooses between two paths: one set of instructions runs when the condition is true, and another runs when it is false. It is how programs make decisions and respond differently to different situations, inputs, or values.</p>
@@ -169,7 +159,7 @@
           <p>Snap a photo of your textbook page and get step-by-step solutions, notes and a quiz.</p>
           <a class="btn" href="/#tool">Use the Free AI Lesson Solver →</a>
         </div>
-        <h2>Related posts</h2><div class="grid cols-3"><div class="card post-card"><p class="post-date">October 30, 2026</p><h3><a href="/blog/what-is-coding-explained.html">What Is Coding Explained: A Beginner's Guide</a></h3><p>Coding sounds technical and mysterious, but the idea behind it is wonderfully simple. This guide on what is coding explained for complete beginners starts with </p></div><div class="card post-card"><p class="post-date">October 30, 2026</p><h3><a href="/blog/variables-jars-analogy.html">Variables Jars Analogy: Labelled Jars for Values</a></h3><p>Programs need memory. A game must remember your score, a quiz must remember your answers, and a shop must remember the price of every item. Variables are how pr</p></div><div class="card post-card"><p class="post-date">October 30, 2026</p><h3><a href="/blog/scratch-first-project-guide.html">Scratch First Project Guide: A Step-by-Step Guide</a></h3><p>Scratch is one of the friendliest ways to start coding, because you build programs by snapping colourful blocks together instead of typing code. This scratch fi</p></div></div>
+        <h2>Related posts</h2><div class="grid cols-3"><div class="card post-card"><p class="post-date">October 30, 2026</p><h3><a href="/blog/scratch-first-project-guide.html">Scratch First Project Guide: A Step-by-Step Guide</a></h3><p>Scratch is one of the friendliest ways to start coding, because you build programs by snapping colourful blocks together instead of typing code. This scratch fi</p></div><div class="card post-card"><p class="post-date">November 3, 2026</p><h3><a href="/blog/rocks-and-minerals-beginners.html">Rocks and Minerals: A Beginner's Collection</a></h3><p>A rock picked up on a walk can look plain at first, yet a closer look reveals colour, texture, grains, layers and crystals that tell a story about how it formed</p></div><div class="card post-card"><p class="post-date">November 2, 2026</p><h3><a href="/blog/science-fair-hypothesis-guide.html">Science Fair Hypothesis: If, Then, Because</a></h3><p>A hypothesis is the beating heart of a science fair project. It is not a guess pulled out of thin air, and it is not a fact copied from a textbook. It is a test</p></div></div>
         <p style="margin-top:2rem"><a href="/blog/">← Back to all blog posts</a></p>
       </div>
     </article>
