@@ -5,8 +5,8 @@ seo_title: "The Water Cycle Explained: Evaporation to Rainfall Guide"
 meta_description: "The water cycle explained step by step: evaporation, condensation, precipitation, and collection, with a labelled cycle diagram and everyday examples."
 focus_keyword: "water cycle explained"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["How-To Guides"]
 tags: ["water-cycle", "earth-science", "weather-basics", "study-guides"]
 featured_image: "/assets/images/blog/water-cycle-explained-thumb.svg"
@@ -60,13 +60,6 @@ The water cycle is the endless loop in which water evaporates from the Earth's s
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help with this topic by walking you through the water cycle stage by stage, suggesting everyday examples for each process, or testing you with quick recall questions.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

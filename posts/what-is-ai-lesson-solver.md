@@ -5,8 +5,8 @@ seo_title: "What Is an AI Lesson Solver? Photo Homework Help Explained"
 meta_description: "Learn what an AI lesson solver is, how photo-based homework help works, and how to use step-by-step solutions, notes, quizzes, and audio to study smarter."
 focus_keyword: "AI lesson solver"
 date: "2026-10-14"
-updated: "2026-10-14"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["AI Study Tools"]
 tags: ["ai-lesson-solver", "homework-help", "study-tools"]
 featured_image: "/assets/images/blog/default.svg"

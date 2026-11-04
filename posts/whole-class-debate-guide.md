@@ -5,8 +5,8 @@ seo_title: "Whole Class Debates: A Guide for Students to Win Fairly"
 meta_description: "A student guide to whole class debates: how sides work, taking turns, making respectful rebuttals, and judging arguments fairly without personal attacks."
 focus_keyword: "whole class debate guide"
 date: "2026-11-03"
-updated: "2026-11-03"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["class-discussions", "class-debates", "debate-skills", "speaking-skills"]
 featured_image: "/assets/images/blog/whole-class-debate-guide-thumb.svg"
@@ -61,13 +61,6 @@ The closing speeches should summarise, not introduce new arguments. Each side re
 
 If the class votes or judges the debate, judge the arguments, not the speakers. The side with clearer reasoning and better evidence deserves the win, even if their delivery was quieter. Learning to judge fairly is itself a valuable skill, because it trains you to separate style from substance, a habit that matters far beyond the classroom.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help you prepare for a class debate. You can ask Muse to help you brainstorm arguments for your side, practise a respectful rebuttal to an opposing point, or rehearse a clear closing summary. This preparation builds confidence without replacing your own thinking or research.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

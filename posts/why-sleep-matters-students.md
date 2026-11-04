@@ -6,7 +6,7 @@ meta_description: "Discover why sleep matters for students, how rest strengthens
 focus_keyword: "why sleep matters students"
 date: "2026-11-04"
 updated: "2026-11-04"
-author: "Easy Lesson Team"
+author: "Tasleem Sanjrani"
 categories: ["Study Tips"]
 tags: ["sleep-and-learning", "study-tips", "focus-and-memory", "healthy-study-habits"]
 featured_image: "/assets/images/blog/why-sleep-matters-students-thumb.svg"
@@ -47,11 +47,6 @@ Treat sleep as a fixed appointment in your study plan, not as whatever time is l
 
 Start small if your current routine is chaotic. Move bedtime earlier gradually, keep wake time steady, and dim the lights in the final part of the evening. Prepare tomorrow's bag and notes before you wind down, so your mind is not rehearsing unfinished tasks in bed. Keep a notebook beside your bed: writing down a worry or a tomorrow-task often releases it from your mind. When you use a study tool for homework help, remember to verify solutions against your textbook, since AI can make mistakes, and never let a tool keep you up far past your bedtime.
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant, and it can help with this topic by explaining sleep science in simple words or by drafting a calm bedtime checklist tailored to your evening routine. Ask it to summarise the key ideas from this article into a short nightly reminder you can follow.
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 

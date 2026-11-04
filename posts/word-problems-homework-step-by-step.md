@@ -5,8 +5,8 @@ seo_title: "How to Solve Word Problems in Homework, Step by Step"
 meta_description: "Word problems feel hard until you slow down. Learn to solve word problems in homework with a read, underline, plan, solve, and check routine that works."
 focus_keyword: "solve word problems homework"
 date: "2026-10-16"
-updated: "2026-10-16"
-author: "Easy Lesson Team"
+updated: "2026-11-04"
+author: "Tasleem Sanjrani"
 categories: ["Homework Help"]
 tags: ["word-problems", "homework-help", "maths-skills", "problem-solving"]
 featured_image: "/assets/images/blog/word-problems-homework-step-by-step-thumb.svg"
@@ -81,13 +81,6 @@ Word problems become manageable when you follow a steady routine. Read slowly an
 
 [Try the free AI lesson solver](/#tool)
 
-## AI Help: Muse AI
-
-Muse AI is Meta's personal AI assistant. It can help you retell a word problem in simpler words or turn a confusing story into a short list of known facts and a clear question. Ask it to explain the plan in plain language, then solve the problem yourself step by step.
-
-Join Muse with invite code LTGSWD — in the Muse app, go to Settings > Redeem token and enter the code.
-
-Disclosure: LTGSWD is the author's Muse invite code.
 
 ## FAQ
 
