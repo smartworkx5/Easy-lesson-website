@@ -7,6 +7,9 @@
   <meta name="description" content="An update to a notebook study tool added lecture recording, quizzes, and spoken chat in nearly 100 languages. Learn a record, review, and self-quiz workflow.">
   <link rel="canonical" href="https://easy-lesson-website.vercel.app/blog/record-lectures-quiz-yourself-from-notes.html">
   <meta name="robots" content="index, follow">
+  <!-- Google Analytics is loaded by /assets/js/main.js, delayed until first
+       interaction or idle-after-load (2026-10-30 performance fix). Do NOT
+       re-add an inline gtag block here: it cost ~440ms TBT + 75KB unused JS. -->
   <!-- ADSENSE_SCRIPT: ca-pub-XXXXXXXXXXXXXXXX -->
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Easy Lesson">
@@ -21,10 +24,6 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="manifest" href="/manifest.webmanifest">
   <meta name="theme-color" content="#2563eb">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-  <noscript><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet"></noscript>
   <link rel="stylesheet" href="/assets/css/style.css">
   <script type="application/ld+json">
   {
@@ -34,10 +33,11 @@
   "description": "An update to a notebook study tool added lecture recording, quizzes, and spoken chat in nearly 100 languages. Learn a record, review, and self-quiz workflow.",
   "image": "https://easy-lesson-website.vercel.app/assets/images/blog/record-lectures-quiz-yourself-from-notes-thumb.svg",
   "datePublished": "2026-10-19",
-  "dateModified": "2026-10-19",
+  "dateModified": "2026-11-04",
   "author": {
-    "@type": "Organization",
-    "name": "Easy Lesson Team"
+    "@type": "Person",
+    "name": "Tasleem Sanjrani",
+    "url": "https://easy-lesson-website.vercel.app/about.html#author"
   },
   "publisher": {
     "@type": "Organization",
@@ -53,7 +53,7 @@
     "@id": "https://easy-lesson-website.vercel.app/blog/record-lectures-quiz-yourself-from-notes.html"
   },
   "inLanguage": "en",
-  "wordCount": 1223
+  "wordCount": 1144
 }
   </script>
   <script type="application/ld+json">
@@ -87,7 +87,7 @@
 <a class="skip-link" href="#main">Skip to main content</a>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="logo" href="/"><span class="logo-mark">E</span> Easy Lesson</a>
+      <a class="logo" href="/" aria-label="Easy Lesson home"><span class="logo-mark">E</span> Easy Lesson</a>
       <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
       <nav class="main-nav" id="main-nav" aria-label="Main navigation">
         <a href="/">Home</a>
@@ -109,10 +109,10 @@
       <div class="container">
         <p class="post-meta"><a href="/blog/?category=AI%20Study%20Tools">AI Study Tools</a></p>
         <h1>Record Lectures, Then Quiz Yourself From Your Own Notes</h1>
-        <p class="post-meta">By Easy Lesson Team · Published October 19, 2026 · 7 min read</p>
+        <p class="post-meta">By Tasleem Sanjrani · Published October 19, 2026 · Updated November 4, 2026 · 6 min read</p>
         <div class="ads-slot" data-slot="blog_post_top" data-format="horizontal" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_top — see ads-config.json --></div>
         <p><img class="post-featured" src="/assets/images/blog/record-lectures-quiz-yourself-from-notes-thumb.svg" alt="A student recording a lesson, then turning the notes into quiz questions." width="1200" height="630" loading="lazy"></p>
-        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#why-your-own-notes-beat-borrowed-ones">Why Your Own Notes Beat Borrowed Ones</a></li><li><a href="#record-with-permission-and-purpose">Record With Permission and Purpose</a></li><li><a href="#turn-a-recording-into-notes-the-same-day">Turn a Recording Into Notes the Same Day</a></li><li><a href="#build-a-self-quiz-from-your-notes">Build a Self-Quiz From Your Notes</a></li><li><a href="#what-the-tool-cannot-do-for-you">What the Tool Cannot Do for You</a></li><li><a href="#ai-help-muse-ai">AI Help: Muse AI</a></li><li><a href="#faq">FAQ</a></li><li><a href="#conclusion">Conclusion</a></li></ul></nav>
+        <nav class="toc" aria-label="Table of contents"><h2>On this page</h2><ul><li><a href="#why-your-own-notes-beat-borrowed-ones">Why Your Own Notes Beat Borrowed Ones</a></li><li><a href="#record-with-permission-and-purpose">Record With Permission and Purpose</a></li><li><a href="#turn-a-recording-into-notes-the-same-day">Turn a Recording Into Notes the Same Day</a></li><li><a href="#build-a-self-quiz-from-your-notes">Build a Self-Quiz From Your Notes</a></li><li><a href="#what-the-tool-cannot-do-for-you">What the Tool Cannot Do for You</a></li><li><a href="#faq">FAQ</a></li><li><a href="#conclusion">Conclusion</a></li></ul></nav>
         <p>Lessons move fast. A teacher explains an idea, gives an example, answers a question, and moves on, all in a few minutes. Trying to write down every word means you stop listening. Writing nothing means the details fade by evening. A better approach is to record the lesson, review it the same day, and then quiz yourself from your own notes. This workflow got a boost in a September update to a popular notebook-style study tool, which added a mobile lecture recorder, interactive overviews with quizzes, and spoken conversations with your notebooks in nearly 100 languages. The features are new, but the learning science behind them is not: listening with attention, reviewing promptly, and testing yourself are among the most reliable ways to remember. Here is how to use them well.</p>
 <h2 id="why-your-own-notes-beat-borrowed-ones">Why Your Own Notes Beat Borrowed Ones</h2>
 <p>Notes you make yourself are worth more than notes you borrow, because making them forces your brain to process the ideas. When you listen, choose what matters, and write it in your own words, you are already studying. Borrowed notes skip that step. They may look complete, but they were processed by someone else's brain, not yours. That is why the record, review, and quiz workflow starts with your own material. The recording is a safety net, not a replacement for listening. Your notes are the real study tool. The quiz you build from them is the check that proves the ideas stuck. If you rely on the recording alone and never make notes, you will feel familiar with the lesson without actually remembering it. Familiarity feels like learning, but it fades fast. Notes plus self-testing build memory that lasts.</p>
@@ -125,12 +125,8 @@
 <p>Once your notes are done, turn them into quiz questions. This is the step most students skip, and it is the step that matters most. For each key idea, write a question that forces you to produce the answer from memory, not just recognise it. What is this idea in your own words? What example shows it? What step comes next, and why? Aim for five to ten questions per lesson. Then answer them with your notes closed. Check your answers honestly afterwards, and mark the ones you missed. The missed questions are gold: they show you exactly what to re-study. Re-quiz yourself on the missed ones a day later. This is the heart of the workflow. Recording captures the lesson. Notes organise it. Quizzing proves you know it. Skip the quiz, and the whole chain is weaker.</p>
 <h2 id="what-the-tool-cannot-do-for-you">What the Tool Cannot Do for You</h2>
 <p>Study tools can record, summarise, quiz, and chat, but they cannot learn for you. A summary you never read is useless. A quiz you take while peeking at the answers teaches nothing. Spoken conversations with your notes help only if you answer in your own words instead of letting the tool do the talking. Also remember that AI tools can make mistakes. Always verify anything surprising against your textbook and your class notes. If a summary contradicts what your teacher said, trust your teacher and check the original material. The Lesson Solver tool can help here too: take a photo of a textbook page and ask for a step-by-step explanation of a point you are stuck on, and verify its solutions against the textbook. The tool needs your own free Google AI Studio API key to work. Used well, these tools save time and sharpen practice. Used passively, they create the illusion of learning. The difference is whether you do the thinking.</p>
-<h2 id="ai-help-muse-ai">AI Help: Muse AI</h2>
-<p>Muse AI is Meta's personal AI assistant, and it can help you quiz yourself. For example, you can ask it to turn your lesson notes into practice questions, then answer them from memory before checking. Always verify its questions and answers against your textbook and class notes.</p>
-<p>Join Muse with invite code LTGSWD — in the Muse app, go to Settings &gt; Redeem token and enter the code.</p>
-<div class="ads-slot" data-slot="blog_post_mid_article" data-format="rectangle" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_mid_article — see ads-config.json --></div>
-<p>Disclosure: LTGSWD is the author's Muse invite code.</p>
 <h2 id="faq">FAQ</h2>
+<div class="ads-slot" data-slot="blog_post_mid_article" data-format="rectangle" role="complementary" aria-label="Advertisement"><div class="ads-label">Advertisement</div><!-- ADSENSE_SLOT: blog_post_mid_article — see ads-config.json --></div>
 <h3 id="do-i-need-permission-to-record-a-lesson">Do I need permission to record a lesson?</h3>
 <p>Yes. Always ask your teacher first and respect the answer. Rules about recording vary, and recording without permission can break trust and break rules.</p>
 <h3 id="is-it-okay-to-rely-on-the-recording-instead-of-taking-notes">Is it okay to rely on the recording instead of taking notes?</h3>
@@ -158,7 +154,7 @@
           <p>Snap a photo of your textbook page and get step-by-step solutions, notes and a quiz.</p>
           <a class="btn" href="/#tool">Use the Free AI Lesson Solver →</a>
         </div>
-        <h2>Related posts</h2><div class="grid cols-3"><div class="card post-card"><p class="post-date">October 19, 2026</p><h3><a href="/blog/what-good-ai-study-tools-have-in-common.html">What the Best AI Study Tools in 2026 Have in Common</a></h3><p>There are more AI study tools than ever, and choosing between them has become a study task of its own. A roundup published in October 2026 compared nine AI stud</p></div><div class="card post-card"><p class="post-date">October 19, 2026</p><h3><a href="/blog/what-a-good-beginner-ai-course-teaches.html">What a Good Beginner AI Course Actually Teaches</a></h3><p>AI courses are everywhere now, and they are not all equal. Some teach real skills you can use the next day. Others teach hype, vague inspiration, and little you</p></div><div class="card post-card"><p class="post-date">October 19, 2026</p><h3><a href="/blog/turn-slides-into-short-video-lessons.html">Turn Your Slides Into Short Video Lessons</a></h3><p>Slide decks hold a lot of information, but slides alone can be hard to learn from. Headings, bullet points, and charts often assume that someone is there to exp</p></div></div>
+        <h2>Related posts</h2><div class="grid cols-3"><div class="card post-card"><p class="post-date">October 30, 2026</p><h3><a href="/blog/guided-ai-learning-vs-answer-machines.html">Guided AI Learning Students: Hints, Not Just Answers</a></h3><p>A new platform launched in October 2026 has sharpened a debate every student using AI should understand. It positions itself as guided learning, offering hints </p></div><div class="card post-card"><p class="post-date">October 26, 2026</p><h3><a href="/blog/study-tools-safety-check-students.html">Before You Trust a Study App: A Student Safety Checklist</a></h3><p>New study tools appear constantly, and many of them are genuinely useful. But a tool that holds your notes, your assignments, and your study history deserves a </p></div><div class="card post-card"><p class="post-date">October 26, 2026</p><h3><a href="/blog/gemini-classroom-study-tools-students.html">Gemini Study Tools in the Classroom: What Students Can Do With Them</a></h3><p>Classroom study tools powered by AI have recently expanded to students of all ages, including younger school students, where schools have enabled them through t</p></div></div>
         <p style="margin-top:2rem"><a href="/blog/">← Back to all blog posts</a></p>
       </div>
     </article>
@@ -170,11 +166,11 @@
           <a class="logo" href="/"><span class="logo-mark">E</span> Easy Lesson</a>
           <p class="small">Easy Lesson is a free AI lesson solver for learners worldwide. Snap a photo of any textbook page and get step-by-step exercise solutions, bullet notes, audio pronunciation and quizzes.</p>
           <div class="social">
-            <a href="#" aria-label="X - Easy Lesson on X">X</a>
-            <a href="#" aria-label="f - Easy Lesson on Facebook">f</a>
-            <a href="#" aria-label="IG - Easy Lesson on Instagram">IG</a>
-            <a href="#" aria-label="YT - Easy Lesson on YouTube">YT</a>
-            <a href="#" aria-label="in - Easy Lesson on LinkedIn">in</a>
+            <a href="#" aria-label="Easy Lesson on X">X</a>
+            <a href="#" aria-label="Easy Lesson on Facebook">f</a>
+            <a href="#" aria-label="Easy Lesson on Instagram">IG</a>
+            <a href="#" aria-label="Easy Lesson on YouTube">YT</a>
+            <a href="#" aria-label="Easy Lesson on LinkedIn">in</a>
           </div>
           <!-- Social links are placeholders: replace # with real profile URLs in every page footer. -->
         </div>
